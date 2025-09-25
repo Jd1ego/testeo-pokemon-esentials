@@ -32,5 +32,7 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
+# Pueblo Primero (32) - Universidad (22)
+32,East,0,22,West,0
 # Lappet Town (2) - Universidad (22)
 2,West,0,22,East,4

@@ -3730,6 +3730,8 @@ Description = When a Pokémon smells this mint, all of its stats will grow at an
 [ABILITYCAPSULE]
 Name = Ability Capsule
 NamePlural = Ability Capsule
+PortionName = ???
+PortionNamePlural = ???
 Pocket = 2
 Price = 10000
 BPPrice = 50

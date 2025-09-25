@@ -7,12 +7,13 @@ Pokemon = BONSLY,11
 #-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = Very good.
+LoseText = ...
 Pokemon = GEODUDE,12
     Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
     AbilityIndex = 0
     Gender = male
     IV = 20,20,20,20,20,20
+    Shiny = true
 Pokemon = ONIX,14
     Name = Rocky
     Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
