@@ -314,3 +314,10 @@ Land,21
     10,PIKACHU,11,14
     10,SANDSHREW_1,11,14
     10,VULPIX_1,11,14
+#-------------------------------
+[042] # Ruta 1
+Land,21
+    10,WEEDLE,2,4
+    45,STARLY,2,4
+    45,SENTRET,2,4
+
