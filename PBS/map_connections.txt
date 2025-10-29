@@ -36,6 +36,8 @@
 69,North,0,66,South,10
 # Pueblo Sopó (33) - Ruta 2 (48)
 33,East,0,48,West,2
+# Monte Pionono (76) - Ruta 2 (48)
+76,South,0,48,North,18
 # Ruta 1 (42) - Pueblo Sopó (33)
 42,East,0,33,West,1
 # Pueblo Primero (32) - Ruta 1 (42)
