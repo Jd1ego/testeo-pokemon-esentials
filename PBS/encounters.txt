@@ -316,8 +316,45 @@ Land,21
     10,VULPIX_1,11,14
 #-------------------------------
 [042] # Ruta 1
-Land,21
+Land,11
     10,WEEDLE,2,4
     45,STARLY,2,4
     45,SENTRET,2,4
+#---------------------------------
+[048] # Ruta 2
+Land,11
+    35,SHROOMISH,4,6
+    30,STARLY,4,6
+    30,SENTRET,4,6
+    5,JIGGLYPUFF,5
+#---------------------------------
+[076] # Monte Pionono
+Land,11
+    15,ZIGZAGOON,3,5
+    10,HOOTHOOT,3,5
+    30,WEEDLE,3,5
+    5,KAKUNA,5
+    30,WURMPLE,3,5
+    10,EKANS,3,5
+#---------------------------------
+[097] # Cordillera Oriental
+Cave,7
+    20,PHANPY,5,7
+    20,GEODUDE,5,7
+    20,ZUBAT,5,7
+    40,ONIX,5,7
+#---------------------------------
+[098] # CO Sotano 1
+Cave,11
+    20,PHANPY,5,7
+    20,GEODUDE,5,7
+    20,ZUBAT,5,7
+    40,PARAS,5,7
+#---------------------------------
+[099] # CO Sotano 2
+Cave,7
+    30,PHANPY,5,7
+    30,GEODUDE,5,7
+    30,ZUBAT,5,7
+    10,ABSOL,5,7
 
