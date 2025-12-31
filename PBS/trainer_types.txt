@@ -20,13 +20,6 @@ Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
 #-------------------------------
-[RIVAL1]
-Name = Rival
-Gender = Male
-BaseMoney = 16
-BattleBGM = HGSS 138 Battle! (Rival)
-VictoryBGM = Battle victory trainer
-#-------------------------------
 [RIVAL2]
 Name = Rival
 Gender = Male
@@ -401,3 +394,21 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------------------------------------------
+#-------------------------------------------------------------------
+#-------------------------------------------------------------------
+#-------------------------------------------------------------------
+#-------------------------------------------------------------------
+[RIVAL1]
+Name = Rival
+Gender = Male
+BaseMoney = 16
+BattleBGM = HGSS 138 Battle! (Rival)
+VictoryBGM = HGSS 119 Victory! (Trainer Battle)
+#-------------------------------
+[MONTANERO]
+Name = Montañero
+Gender = Male
+BaseMoney = 32
+BattleBGM = HGSS 229 Battle! (Trainer Battle Kanto)
+VictoryBGM = HGSS 119 Victory! (Trainer Battle)

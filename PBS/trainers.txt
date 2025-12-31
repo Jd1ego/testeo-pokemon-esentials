@@ -99,7 +99,11 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
-#-------------------------------
+#--------------------------------------------------------------
+#--------------------------------------------------------------
+#--------------------------------------------------------------
+#--------------------------------------------------------------
+#--------------------------------------------------------------
 [RIVAL1,Blue]
 LoseText = que? esta pelea no debería suceder.
 Pokemon = PICHU,5
@@ -116,3 +120,10 @@ Pokemon = TOGEPI,5
 LoseText = Noooo, parece que escogiste la mejor opción.
 Pokemon = MACHOP,5
 #-------------------------------
+[MONTANERO,Jose]
+LoseText = Jmm, puede que no seas tan malo.
+Pokemon = WEEDLE,5
+Pokemon = GEODUDE,6
+	Moves = DEFENSECURL,ROCKTHROW,TACKLE,ROCKPOLISH
+Pokemon = EKANS,7
+	Moves = LEER,WRAP,POISONSTING,BITE

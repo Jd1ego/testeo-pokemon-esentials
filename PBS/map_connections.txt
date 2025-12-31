@@ -28,6 +28,8 @@
 32,East,8,42,West,0
 # Ruta 1 (42) - Pueblo Sopó (33)
 42,East,0,33,West,1
+# Ruta 2 (48) - Pueblo Sopó (33)
+48,West,3,33,East,0
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -38,5 +40,5 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Ruta 2 (48) - Ruta 3 (126)
-48,South,68,126,North,0
+# Ruta 3 (126) - Ciudad Villavicencio (77)
+126,South,5,77,North,0
