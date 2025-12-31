@@ -24,12 +24,6 @@
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
-# Pueblo Primero (32) - Ruta 1 (42)
-32,East,8,42,West,0
-# Ruta 1 (42) - Pueblo Sopó (33)
-42,East,0,33,West,1
-# Ruta 2 (48) - Pueblo Sopó (33)
-48,West,3,33,East,0
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -42,3 +36,11 @@
 69,North,0,66,South,10
 # Ruta 3 (126) - Ciudad Villavicencio (77)
 126,South,5,77,North,0
+# Pueblo Sopó (33) - Ruta 2 (48)
+33,East,0,48,West,3
+# Monte Pionono (76) - Ruta 2 (48)
+76,South,0,48,North,3
+# Ruta 1 (42) - Pueblo Sopó (33)
+42,East,0,33,West,1
+# Pueblo Primero (32) - Ruta 1 (42)
+32,East,8,42,West,0
