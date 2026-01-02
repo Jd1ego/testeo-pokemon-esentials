@@ -412,3 +412,18 @@ Gender = Male
 BaseMoney = 32
 BattleBGM = HGSS 229 Battle! (Trainer Battle Kanto)
 VictoryBGM = HGSS 119 Victory! (Trainer Battle)
+#-------------------------------
+[CAZABICHOS]
+Name = Cazabichos
+Gender = Male
+BaseMoney = 16
+IntroBGM = HGSS 117 Trainers_ Eyes Meet (Youngster)
+BattleBGM = HGSS 229 Battle! (Trainer Battle Kanto)
+VictoryBGM = HGSS 119 Victory! (Trainer Battle)
+#-------------------------------
+[LEADER_Ayala]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)

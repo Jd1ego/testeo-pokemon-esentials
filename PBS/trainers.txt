@@ -122,8 +122,45 @@ Pokemon = MACHOP,5
 #-------------------------------
 [MONTANERO,Jose]
 LoseText = Jmm, puede que no seas tan malo.
-Pokemon = WEEDLE,5
-Pokemon = GEODUDE,6
+Pokemon = WEEDLE,6
+Pokemon = GEODUDE,9
 	Moves = DEFENSECURL,ROCKTHROW,TACKLE,ROCKPOLISH
-Pokemon = EKANS,7
+Pokemon = EKANS,9
 	Moves = LEER,WRAP,POISONSTING,BITE
+#-------------------------------
+[CAZABICHOS,Lucas]
+LoseText = ¿Perdi? Noooo, no se vale!
+Pokemon = WEEDLE,5
+Pokemon = WEEDLE,5
+#-------------------------------
+[CAZABICHOS,Pedrito]
+LoseText = ¿Perdi? Noooo, no se vale!
+Pokemon = KAKUNA,7
+#-------------------------------
+[CAZABICHOS,Nico]
+LoseText = Tu eres más fastidioso que yo!
+Pokemon = ZIGZAGOON,6
+Pokemon = ZIGZAGOON,6
+#-------------------------------
+[CAZABICHOS,Mateo]
+LoseText = ¿Perdi? Noooo, no se vale!
+Pokemon = WURMPLE,5
+Pokemon = WEEDLE,5
+#-------------------------------
+[CAZABICHOS,Tomas]
+LoseText = ¿Perdi? Noooo, no se vale!
+Pokemon = HOOTHOOT,7
+#-------------------------------
+[LEADER_Ayala,Ayala]
+Items = SUPERPOTION
+LoseText = Noooo, soy maricon.. Bien hecho, niño...
+Pokemon = MAGNEMITE,12
+	IV = 20,20,20,20,20,20
+	Moves = THUNDERSHOCK, SUPERSONIC, TACKLE, IRONDEFENSE
+Pokemon = METANG,12
+	IV = 20,20,20,20,20,20
+	Moves = CONFUSION, METALCLAW, MAGNETRISE, IRONDEFENSE
+Pokemon = SKARMORY,14
+	IV = 20,20,20,20,20,20
+	Moves = PECK, METALCLAW, SANDATTACK, IRONDEFENSE
+
