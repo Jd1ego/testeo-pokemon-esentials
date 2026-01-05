@@ -24,6 +24,12 @@
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
+# Pueblo Primero (32) - Ruta 1 (42)
+32,East,8,42,West,0
+# Pueblo Sopó (33) - Ruta 2 (48)
+33,East,0,48,West,3
+# Ruta 1 (42) - Pueblo Sopó (33)
+42,East,0,33,West,1
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -32,15 +38,11 @@
 41,South,6,45,North,0
 # Route 7 (47) - Battle Frontier (52)
 47,East,8,52,West,0
-# Route 8 (69) - Safari Zone outside (66)
-69,North,0,66,South,10
-# Ruta 3 (126) - Ciudad Villavicencio (77)
-126,South,5,77,North,0
-# Pueblo Sopó (33) - Ruta 2 (48)
-33,East,0,48,West,3
 # Monte Pionono (76) - Ruta 2 (48)
 76,South,0,48,North,3
-# Ruta 1 (42) - Pueblo Sopó (33)
-42,East,0,33,West,1
-# Pueblo Primero (32) - Ruta 1 (42)
-32,East,8,42,West,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# Ruta 4 (129) - Ciudad Villavicencio (77)
+129,North,0,77,South,14
+# Lago Norrea (132) - Ruta 3a (128)
+132,North,0,128,South,8
