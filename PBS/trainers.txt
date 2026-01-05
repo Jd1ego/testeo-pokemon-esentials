@@ -134,7 +134,7 @@ Pokemon = WEEDLE,5
 Pokemon = WEEDLE,5
 #-------------------------------
 [CAZABICHOS,Pedrito]
-LoseText = ¿Perdi? Noooo, no se vale!
+LoseText = ¡Uy, no! Me achicharró a mi bichito.
 Pokemon = KAKUNA,7
 #-------------------------------
 [CAZABICHOS,Nico]
@@ -163,4 +163,59 @@ Pokemon = METANG,12
 Pokemon = SKARMORY,14
 	IV = 20,20,20,20,20,20
 	Moves = PECK, METALCLAW, SANDATTACK, IRONDEFENSE
-
+#-------------------------------
+[MONTANERO,Marcos]
+LoseText = Tus pokémones son más duros...
+Pokemon = ONIX,10
+#-------------------------------
+[MONTANERO,Castor]
+LoseText = Tendré que pasar más tiempo en el monte!
+Pokemon = GEODUDE,7
+Pokemon = GEODUDE,9
+#-------------------------------
+[MONTANERO,Rogelio]
+LoseText = Tus pokémones son más duros...
+Pokemon = PHANPY,7
+Pokemon = PHANPY,9
+#-------------------------------
+[MONTANERO,Bernardo]
+LoseText = ¡Qué berraco! Su equipo tiene más fuerza que el mío.
+Pokemon = GEODUDE,7
+Pokemon = PHANPY,9
+#-------------------------------
+[MONTANERO,Eustaquio]
+LoseText = ¡Qué berraco! Su equipo tiene más fuerza que el mío.
+Pokemon = PARAS,8
+Pokemon = PARAS,8
+#-------------------------------
+[MONTANERO,Bruno]
+LoseText = Tendré que pasar más tiempo en el monte!
+Pokemon = ONIX,10
+#-------------------------------
+[CHICA,Ana]
+LoseText = Osea... ¿¿En serio me ganaste!? Qué paila...
+Pokemon = JIGGLYPUFF,9
+#-------------------------------
+[CHICA,Sara]
+LoseText = Osea... ¿¿En serio me ganaste!? Qué paila...
+Pokemon = SENTRET,9
+#-------------------------------
+[CHICA,Sofía]
+LoseText = Nooo! Me despeinaste a mis pokemones...
+Pokemon = SENTRET,8
+Pokemon = BUNEARY,8
+#-------------------------------
+[CHICA,Lucía]
+LoseText = Nooo! Me despeinaste a mis pokemones...
+Pokemon = BUNEARY,8
+Pokemon = BUNEARY,8
+#-------------------------------
+[CHICA,Juana]
+LoseText = Osea... ¿¿En serio me ganaste!? Qué paila...
+Pokemon = JIGGLYPUFF,9
+#-------------------------------
+[FRIKI,Cornelio]
+LoseText = Bueno mamon, te dejaré sano...
+Pokemon = ZUBAT,9
+Pokemon = EKANS,10
+Pokemon = ZUBAT,11

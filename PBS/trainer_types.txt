@@ -404,22 +404,6 @@ Name = Rival
 Gender = Male
 BaseMoney = 16
 BattleBGM = HGSS 138 Battle! (Rival)
-VictoryBGM = HGSS 119 Victory! (Trainer Battle)
-#-------------------------------
-[MONTANERO]
-Name = Montañero
-Gender = Male
-BaseMoney = 32
-BattleBGM = HGSS 229 Battle! (Trainer Battle Kanto)
-VictoryBGM = HGSS 119 Victory! (Trainer Battle)
-#-------------------------------
-[CAZABICHOS]
-Name = Cazabichos
-Gender = Male
-BaseMoney = 16
-IntroBGM = HGSS 117 Trainers_ Eyes Meet (Youngster)
-BattleBGM = HGSS 229 Battle! (Trainer Battle Kanto)
-VictoryBGM = HGSS 119 Victory! (Trainer Battle)
 #-------------------------------
 [LEADER_Ayala]
 Name = Líder de gimnasio
@@ -427,3 +411,27 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
 VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[MONTANERO]
+Name = Montañero
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[CAZABICHOS]
+Name = Cazabichos
+Gender = Male
+BaseMoney = 16
+IntroBGM = HGSS 117 Trainers_ Eyes Meet (Youngster)
+#-------------------------------
+[CHICA]
+Name = Chica
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Girl Version)
+#-------------------------------
+[FRIKI]
+Name = Friki
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
