@@ -120,6 +120,19 @@ Pokemon = TOGEPI,5
 LoseText = Noooo, parece que escogiste la mejor opción.
 Pokemon = MACHOP,5
 #-------------------------------
+[JOVEN,Paco]
+LoseText = ¿Perdi? Noooo, no se vale!
+Pokemon = STARLY,5
+#-------------------------------
+[JOVEN,Albertito]
+LoseText = Uy no, paila... perdí.
+Pokemon = ZIGZAGOON,5
+#-------------------------------
+[JOVEN,Alex]
+LoseText = ¡Listo, listo! Tu ganas...
+Pokemon = SENTRET,5
+Pokemon = SENTRET,5
+#-------------------------------
 [MONTANERO,Jose]
 LoseText = Jmm, puede que no seas tan malo.
 Pokemon = WEEDLE,6
@@ -134,7 +147,7 @@ Pokemon = WEEDLE,5
 Pokemon = WEEDLE,5
 #-------------------------------
 [CAZABICHOS,Pedrito]
-LoseText = ¡Uy, no! Me achicharró a mi bichito.
+LoseText = ¡Nooo! Me achicharró a mi bichito...
 Pokemon = KAKUNA,7
 #-------------------------------
 [CAZABICHOS,Nico]
@@ -143,7 +156,7 @@ Pokemon = ZIGZAGOON,6
 Pokemon = ZIGZAGOON,6
 #-------------------------------
 [CAZABICHOS,Mateo]
-LoseText = ¿Perdi? Noooo, no se vale!
+LoseText = Uy no, paila... perdí.
 Pokemon = WURMPLE,5
 Pokemon = WEEDLE,5
 #-------------------------------

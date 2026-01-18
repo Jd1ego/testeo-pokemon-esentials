@@ -357,4 +357,33 @@ Cave,7
     30,GEODUDE,5,7
     30,ZUBAT,5,7
     10,ABSOL,5,7
+#---------------------------------
+[126] # Ruta 3
+Land,11
+    40,BUNEARY,8,10
+    40,MANKEY,8,10
+    20,SHROOMISH,8,10
+#---------------------------------
+[128] # Ruta 3a
+Land,11
+    10,ABRA,8
+    20,STARLY,8,10
+    35,BELLSPROUT,8,10
+    35,COMBEE,8,10
+#---------------------------------
+[129] # Ruta 4
+Land,11
+    40,BUNEARY,8,10
+    40,MANKEY,8,10
+    20,BELLSPROUT,8,10
+#---------------------------------
+[132] # Lago Norrea
+Water,5
+    80,TENTACOOL,10
+    10,STARYU,10
+    10,TANGELA,8
+GoodRod
+    75,MAGIKARP,5
+    20,PSYDUCK,5,7
+    5,TENTACOOL,10
 

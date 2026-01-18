@@ -428,10 +428,16 @@ IntroBGM = HGSS 117 Trainers_ Eyes Meet (Youngster)
 Name = Chica
 Gender = Female
 BaseMoney = 16
-IntroBGM = FRLG 20 A Trainer Appears (Girl Version)
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
 #-------------------------------
 [FRIKI]
 Name = Friki
 Gender = Male
 BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[JOVEN]
+Name = Joven
+Gender = Male
+BaseMoney = 16
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
