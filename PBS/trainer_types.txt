@@ -394,11 +394,7 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
-#-------------------------------------------------------------------
-#-------------------------------------------------------------------
-#-------------------------------------------------------------------
-#-------------------------------------------------------------------
-#-------------------------------------------------------------------
+#-------------------------------
 [RIVAL1]
 Name = Rival
 Gender = Male
@@ -441,3 +437,9 @@ Name = Joven
 Gender = Male
 BaseMoney = 16
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[CHICO]
+Name = Chico
+Gender = Male
+BaseMoney = 60
+IntroBGM = FRLG 33 A Trainer Appears (Boy Version)

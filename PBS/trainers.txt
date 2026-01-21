@@ -99,11 +99,7 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
-#--------------------------------------------------------------
-#--------------------------------------------------------------
-#--------------------------------------------------------------
-#--------------------------------------------------------------
-#--------------------------------------------------------------
+#-------------------------------
 [RIVAL1,Blue]
 LoseText = que? esta pelea no debería suceder.
 Pokemon = PICHU,5
@@ -137,9 +133,9 @@ Pokemon = SENTRET,5
 LoseText = Jmm, puede que no seas tan malo.
 Pokemon = WEEDLE,6
 Pokemon = GEODUDE,9
-	Moves = DEFENSECURL,ROCKTHROW,TACKLE,ROCKPOLISH
+    Moves = DEFENSECURL,ROCKTHROW,TACKLE,ROCKPOLISH
 Pokemon = EKANS,9
-	Moves = LEER,WRAP,POISONSTING,BITE
+    Moves = LEER,WRAP,POISONSTING,BITE
 #-------------------------------
 [CAZABICHOS,Lucas]
 LoseText = ¿Perdi? Noooo, no se vale!
@@ -166,16 +162,16 @@ Pokemon = HOOTHOOT,7
 #-------------------------------
 [LEADER_Ayala,Ayala]
 Items = SUPERPOTION
-LoseText = Noooo, soy maricon.. Bien hecho, niño...
+LoseText = Noooo, por cierto, Juan Diego Maricón
 Pokemon = MAGNEMITE,12
-	IV = 20,20,20,20,20,20
-	Moves = THUNDERSHOCK, SUPERSONIC, TACKLE, IRONDEFENSE
+    Moves = THUNDERSHOCK,SUPERSONIC,TACKLE,IRONDEFENSE
+    IV = 20,20,20,20,20,20
 Pokemon = METANG,12
-	IV = 20,20,20,20,20,20
-	Moves = CONFUSION, METALCLAW, MAGNETRISE, IRONDEFENSE
+    Moves = CONFUSION,METALCLAW,MAGNETRISE,IRONDEFENSE
+    IV = 20,20,20,20,20,20
 Pokemon = SKARMORY,14
-	IV = 20,20,20,20,20,20
-	Moves = PECK, METALCLAW, SANDATTACK, IRONDEFENSE
+    Moves = PECK,METALCLAW,SANDATTACK,IRONDEFENSE
+    IV = 20,20,20,20,20,20
 #-------------------------------
 [MONTANERO,Marcos]
 LoseText = Tus pokémones son más duros...
@@ -232,3 +228,12 @@ LoseText = Bueno mamon, te dejaré sano...
 Pokemon = ZUBAT,9
 Pokemon = EKANS,10
 Pokemon = ZUBAT,11
+#-------------------------------
+[CHICO,Juan]
+LoseText = O quizá me lo pegue ahora...
+Pokemon = JIGGLYPUFF,10
+#-------------------------------
+[MONTANERO,Pepe]
+LoseText = ...
+Pokemon = CLEFAIRY,15
+Pokemon = MACHOKE,14
