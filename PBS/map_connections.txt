@@ -46,3 +46,5 @@
 129,North,0,77,South,14
 # Lago Norrea (132) - Ruta 3a (128)
 132,North,0,128,South,8
+# Ciudad Bogotá (79) - Ruta 5 (133)
+79,East,36,133,West,0
