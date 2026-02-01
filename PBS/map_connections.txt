@@ -42,9 +42,11 @@
 76,South,0,48,North,3
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Ruta 4 (129) - Ciudad Villavicencio (77)
-129,North,0,77,South,14
-# Lago Norrea (132) - Ruta 3a (128)
-132,North,0,128,South,8
 # Ciudad Bogotá (79) - Ruta 5 (133)
 79,East,36,133,West,0
+# Lago Norrea (132) - Ruta 3a (128)
+132,North,0,128,South,8
+# Ciudad Villavicencio (77) - Ruta 3 (126)
+77,North,0,126,South,5
+# Ruta 4 (129) - Ciudad Villavicencio (77)
+129,North,0,77,South,14

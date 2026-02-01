@@ -432,14 +432,31 @@ Gender = Male
 BaseMoney = 32
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 #-------------------------------
-[JOVEN]
-Name = Joven
+[CHICO]
+Name = Chico
 Gender = Male
 BaseMoney = 16
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 #-------------------------------
-[CHICO]
-Name = Chico
+[EXPLORADOR]
+Name = Explorador
 Gender = Male
-BaseMoney = 60
-IntroBGM = FRLG 33 A Trainer Appears (Boy Version)
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[EXPLORADORA]
+Name = Exploradora
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[BELLA]
+Name = Bella
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[PAREJAJOVEN]
+Name = Pareja joven
+Gender = Unknown
+BaseMoney = 32

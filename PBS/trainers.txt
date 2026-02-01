@@ -116,16 +116,16 @@ Pokemon = TOGEPI,5
 LoseText = Noooo, parece que escogiste la mejor opción.
 Pokemon = MACHOP,5
 #-------------------------------
-[JOVEN,Paco]
+[CHICO,Paco]
 LoseText = ¿Perdi? Noooo, no se vale!
 Pokemon = STARLY,5
 #-------------------------------
-[JOVEN,Albertito]
+[CHICO,Albertito]
 LoseText = Uy no, paila... perdí.
 Pokemon = ZIGZAGOON,5
 #-------------------------------
-[JOVEN,Alex]
-LoseText = ¡Listo, listo! Tu ganas...
+[CHICO,Alex]
+LoseText = ¡Bueno, bueno! Tu ganas...
 Pokemon = SENTRET,5
 Pokemon = SENTRET,5
 #-------------------------------
@@ -162,7 +162,7 @@ Pokemon = HOOTHOOT,7
 #-------------------------------
 [LEADER_Ayala,Ayala]
 Items = SUPERPOTION
-LoseText = Noooo, por cierto, Juan Diego Maricón
+LoseText = Noooo, soy maricon...
 Pokemon = MAGNEMITE,12
     Moves = THUNDERSHOCK,SUPERSONIC,TACKLE,IRONDEFENSE
     IV = 20,20,20,20,20,20
@@ -237,3 +237,29 @@ Pokemon = JIGGLYPUFF,10
 LoseText = ...
 Pokemon = CLEFAIRY,15
 Pokemon = MACHOKE,14
+#-------------------------------
+[PAREJAJOVEN,Linda & Juan]
+LoseText = Juan, creo que toca dejarlo pasar...
+Pokemon = BUNEARY,10
+Pokemon = MANKEY,10
+#-------------------------------
+[EXPLORADOR,Felipe]
+LoseText = Bueno ya! Es tuyo!
+Pokemon = MANKEY,10
+#-------------------------------
+[CAZABICHOS,Carlitos]
+LoseText = Bueno me ganaste, largate igual!
+Pokemon = SILCOON,8
+Pokemon = CASCOON,8
+#-------------------------------
+[CAZABICHOS,Leo]
+LoseText = Marica... Mi bicho...
+Pokemon = BEEDRILL,10
+#-------------------------------
+[BELLA,Catalina]
+LoseText = Pervertido...
+Pokemon = BUNEARY,9
+#-------------------------------
+[BELLA,Luciana]
+LoseText = Como sea, deja de mirarme...
+Pokemon = JIGGLYPUFF,9
