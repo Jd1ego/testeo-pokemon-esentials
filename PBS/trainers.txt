@@ -263,3 +263,11 @@ Pokemon = BUNEARY,9
 [BELLA,Luciana]
 LoseText = Como sea, deja de mirarme...
 Pokemon = JIGGLYPUFF,9
+#-------------------------------
+[CIENTIFICO,Louis]
+LoseText = Se me olvidó meter el factor suerte en la ecuación...
+Pokemon = MAGNEMITE,11
+#-------------------------------
+[CIENTIFICO,Ernesto]
+LoseText = Me dañó el experimento en un momentico...
+Pokemon = MAGNEMITE,11
