@@ -460,3 +460,21 @@ IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
 Name = Pareja joven
 Gender = Unknown
 BaseMoney = 32
+#-------------------------------
+[CIENTIFICO]
+Name = Científico
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[RECLUTA_M]
+Name = RECLUTA
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[RECLUTA_F]
+Name = RECLUTA
+Gender = Female
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)

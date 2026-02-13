@@ -5137,6 +5137,17 @@ Flags = Fling_90
 Move = ROCKCLIMB
 Description = Baja un nivel el ataque especial del rival.
 #-------------------------------
+[TM101]
+Name = MT101
+NamePlural = MT101s
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_90
+Move = IRONDEFENSE
+Description = Fortalece el cuerpo como si fuera hierro y sube mucho la Defensa.
+#-------------------------------
 [HM01]
 Name = MO01
 NamePlural = MO01s
