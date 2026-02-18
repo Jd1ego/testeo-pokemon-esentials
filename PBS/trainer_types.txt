@@ -478,3 +478,9 @@ Name = RECLUTA
 Gender = Female
 BaseMoney = 32
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[LADRON]
+Name = Ladron
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)

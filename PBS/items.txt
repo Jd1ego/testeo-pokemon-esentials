@@ -6576,3 +6576,24 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Un mapa viejo descolorido que muestra el camino a una determinada isla.
+#--------------------------------------------------------------
+#--------------------------------------------------------------
+#--------------------------------------------------------------
+#--------------------------------------------------------------
+#--------------------------------------------------------------
+[CARNETENTRENADOR]
+Name = Carnet de Entrenador
+NamePlural = Carnets de Entrenador
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un carnet que te certifica como entrenador Pokémon. Está firmado con un Sharpie.
+#-------------------------------
+[LACRIMOGENO]
+Name = Gas Lacrimógeno
+NamePlural = Gases Lacrimógenos
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un gas que provoca llanto y dificulta la visión. Se usa en ciertos escenarios de disturbio.
+#-------------------------------

@@ -315,3 +315,9 @@ Pokemon = MANKEY,10
 [RECLUTA_F, DE LA FDC, 3]
 LoseText = No te pudimos detener...
 Pokemon = BELLSPROUT,10
+#-------------------------------
+[LADRON,Joaquin]
+LoseText = *tose*... *tose*... *tose*... ¡¡PERRO HDP!!
+Pokemon = ONIX,16
+Pokemon = ONIX,16
+Pokemon = ABSOL,17
