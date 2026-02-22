@@ -386,4 +386,62 @@ GoodRod
     75,MAGIKARP,5
     20,PSYDUCK,5,7
     5,TENTACOOL,10
-
+#---------------------------------
+[130] # Cordillera Central
+Cave,7
+    30,MAKUHITA,10,12
+    30,HIPPOPOTAS,10,12
+    20,ZUBAT,10,12
+    20,GEODUDE,10,12
+#---------------------------------
+[131] # CC sotano 1
+Cave,7
+    30,DIGLETT,5,7
+    20,GEODUDE,5,7
+    20,ZUBAT,5,7
+    10,ABSOL,5,7
+#---------------------------------
+[133] # Ruta 5
+Land,11
+    30,MAREEP,12,15
+    45,ZIGZAGOON,12,15
+    10,COMBEE,12,15
+    10,ABRA,10
+    5,JIGGLYPUFF,12,15
+#---------------------------------
+[079] # Ciudad Bogotá
+Water,5
+    80,TENTACOOL,10
+    10,STARYU,10
+    10,TANGELA,8
+GoodRod
+    75,MAGIKARP,5
+    20,PSYDUCK,5,7
+    5,TENTACOOL,10
+#---------------------------------
+[134] # Ruta 6
+Land,11
+    25,GROWLITHE,18,22
+    20,FURRET,18,22
+    15,HOOTHOOT,18
+    5,NOCTOWL,22
+    25,RALTS,18
+    10,SCYTHER,18,22
+#---------------------------------
+[135] # FabLab
+Land,11
+    30,SHINX,18,22
+    20,MAREEP,18,22
+    15,MAGNEMITE,18,22
+    25,FURRET,22
+    10,BELDUM,18,22
+#---------------------------------
+[137] # Ruta 7
+Land,11
+    28,HOUNDOUR,22
+    2,HOUNDOOM,25
+    30,BUNEARY,22,25
+    18,NIDORANfE,22
+    18,NIDORANmA,22
+    2,NIDORINA,24
+    2,NIDORINO,24
