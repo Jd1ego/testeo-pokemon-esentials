@@ -6606,3 +6606,11 @@ Price = 0
 Flags = KeyItem
 Description = Un gas que provoca llanto y dificulta la visión. Se usa en ciertos escenarios de disturbio.
 #-------------------------------
+[TIQUETEDEPEAJE]
+Name = Tiquete de Peaje
+NamePlural = Tiquetes de Peaje
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un tiquete que te permite pagar el peaje de Bogotá. Se puede usar varias veces.
+#-------------------------------
