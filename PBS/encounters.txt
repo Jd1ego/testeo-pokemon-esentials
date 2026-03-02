@@ -408,6 +408,14 @@ Land,11
     10,COMBEE,12,15
     10,ABRA,10
     5,JIGGLYPUFF,12,15
+Water,5
+    80,TENTACOOL,10
+    10,STARYU,10
+    10,TANGELA,8
+GoodRod
+    75,MAGIKARP,5
+    20,PSYDUCK,5,7
+    5,TENTACOOL,10
 #---------------------------------
 [079] # Ciudad Bogotá
 Water,5

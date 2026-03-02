@@ -5202,6 +5202,15 @@ FieldUse = HM
 Move = DIVE
 Description = Primer turno: se sumerge en el mar.  Segundo turno: emerge y ataca.
 #-------------------------------
+[HM07]
+Name = MO07
+NamePlural = MO07s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = FLASH
+Description = Luz cegadora que baja la Precisión del objetivo. Fuera de combate sirve para iluminar.
+#-------------------------------
 [CHERIBERRY]
 Name = Baya Zreza
 NamePlural = Bayas Zreza

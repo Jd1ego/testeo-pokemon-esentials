@@ -321,3 +321,44 @@ LoseText = *tose*... *tose*... *tose*... ¡¡PERRO HDP!!
 Pokemon = ONIX,16
 Pokemon = ONIX,16
 Pokemon = ABSOL,17
+#-------------------------------
+[EXPLORADOR,Federico]
+LoseText = El retrasado soy yo...
+Pokemon = BELLSPROUT,11
+Pokemon = BUNEARY,11
+#-------------------------------
+[AVICULTOR,Luciano]
+LoseText = Loco... mi polla...
+Pokemon = STARLY,11
+#-------------------------------
+[AVICULTOR,Alfredo]
+LoseText = Pajaros de mierda...
+Pokemon = STARLY,11
+Pokemon = STARLY,11
+#-------------------------------
+[AVICULTOR,Ernesto]
+LoseText = Bueno, ya lo dejo sano...
+Pokemon = STARLY,12
+Pokemon = COMBEE,12
+#-------------------------------
+[AVICULTOR,Ramiro]
+LoseText = Se me escapó...
+Pokemon = STARLY,12
+Pokemon = COMBEE,12
+#-------------------------------
+[PESCADOR,Emilio]
+LoseText = Bueno ya, pero dejeme pescar hpta...
+Pokemon = PSYDUCK,12
+Pokemon = TENTACOOL,12
+#-------------------------------
+[EXPLORADOR,Jeronimo]
+LoseText = Bueno, ya me quito...
+Pokemon = MAREEP,12
+#-------------------------------
+[EXPLORADORA,Alicia]
+LoseText = Vale...
+Pokemon = JIGGLYPUFF,12
+#-------------------------------
+[LADRON,Luis]
+LoseText = Perdon... Igual tenga cuidado por ahi socio...
+Pokemon = MANKEY,13
