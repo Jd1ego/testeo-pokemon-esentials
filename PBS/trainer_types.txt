@@ -478,3 +478,27 @@ Name = RECLUTA
 Gender = Female
 BaseMoney = 32
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[LADRON]
+Name = Ladron
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[AVICULTOR]
+Name = Avicultor
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[PESCADOR]
+Name = Pescador
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[MOTERO]
+Name = Motero
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
