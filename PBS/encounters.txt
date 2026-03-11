@@ -396,10 +396,10 @@ Cave,7
 #---------------------------------
 [131] # CC sotano 1
 Cave,7
-    30,DIGLETT,5,7
-    20,GEODUDE,5,7
-    20,ZUBAT,5,7
-    10,ABSOL,5,7
+    30,DIGLETT,10,12
+    20,GEODUDE,10,12
+    20,ZUBAT,10,12
+    10,ABSOL,10,12
 #---------------------------------
 [133] # Ruta 5
 Land,11
@@ -413,8 +413,8 @@ Water,5
     10,STARYU,10
     10,TANGELA,8
 GoodRod
-    75,MAGIKARP,5
-    20,PSYDUCK,5,7
+    75,MAGIKARP,10
+    20,PSYDUCK,10
     5,TENTACOOL,10
 #---------------------------------
 [079] # Ciudad Bogotá
@@ -423,8 +423,8 @@ Water,5
     10,STARYU,10
     10,TANGELA,8
 GoodRod
-    75,MAGIKARP,5
-    20,PSYDUCK,5,7
+    75,MAGIKARP,10
+    20,PSYDUCK,10
     5,TENTACOOL,10
 #---------------------------------
 [134] # Ruta 6

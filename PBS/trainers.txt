@@ -200,24 +200,10 @@ LoseText = Tendré que pasar más tiempo en el monte!
 Pokemon = GEODUDE,7
 Pokemon = GEODUDE,9
 #-------------------------------
-[MONTANERO,Rogelio]
-LoseText = Tus pokémones son más duros...
-Pokemon = PHANPY,7
-Pokemon = PHANPY,9
-#-------------------------------
-[MONTANERO,Bernardo]
-LoseText = ¡Na tremendo! Su equipo tiene más fuerza que el mío.
-Pokemon = GEODUDE,7
-Pokemon = PHANPY,9
-#-------------------------------
 [MONTANERO,Eustaquio]
 LoseText = ¡Na tremendo! Su equipo tiene más fuerza que el mío.
 Pokemon = PARAS,8
 Pokemon = PARAS,8
-#-------------------------------
-[MONTANERO,Bruno]
-LoseText = Tendré que pasar más tiempo en el monte!
-Pokemon = ONIX,10
 #-------------------------------
 [CHICA,Ana]
 LoseText = Osea... ¿¿En serio me ganaste!? Qué paila...
@@ -232,20 +218,35 @@ LoseText = Nooo! Me despeinaste a mis pokemones...
 Pokemon = SENTRET,8
 Pokemon = BUNEARY,8
 #-------------------------------
-[CHICA,Lucía]
-LoseText = Nooo! Me despeinaste a mis pokemones...
-Pokemon = BUNEARY,8
-Pokemon = BUNEARY,8
-#-------------------------------
-[CHICA,Juana]
-LoseText = Osea... ¿¿En serio me ganaste!? Qué paila...
-Pokemon = JIGGLYPUFF,9
-#-------------------------------
 [FRIKI,Cornelio]
 LoseText = Bueno mamon, te dejaré sano...
 Pokemon = ZUBAT,9
 Pokemon = EKANS,10
 Pokemon = ZUBAT,11
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 4]
+LoseText = Que monda? Como este pelao es tan fuerte?
+Pokemon = GEODUDE,7
+Pokemon = PHANPY,9
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 5]
+LoseText = Bueno, ande por donde se le de la gana...
+Pokemon = PHANPY,7
+Pokemon = PHANPY,9
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 6]
+LoseText = Bueno llevese esa mierda...
+Pokemon = ONIX,10
+#-------------------------------
+[RECLUTA_F, DE LA FDC, 1]
+LoseText = Bueno vete...
+Pokemon = BUNEARY,8
+Pokemon = BUNEARY,8
+#-------------------------------
+[RECLUTA_F, DE LA FDC, 2]
+LoseText = Ahora es propiedad tuya...
+Pokemon = JIGGLYPUFF,9
+Pokemon = JIGGLYPUFF,9
 #-------------------------------
 [CHICO,Juan]
 LoseText = O quizá me lo pegue ahora...
@@ -362,3 +363,65 @@ Pokemon = JIGGLYPUFF,12
 [LADRON,Luis]
 LoseText = Perdon... Igual tenga cuidado por ahi socio...
 Pokemon = MANKEY,13
+#-------------------------------
+[CHICA,Lucía]
+LoseText = Nooo! Me despeinaste a mis pokemones...
+Pokemon = BUNEARY,11
+Pokemon = BUNEARY,11
+#-------------------------------
+[CHICA,Juana]
+LoseText = Esta bien... es tuya...
+Pokemon = JIGGLYPUFF,11
+Pokemon = JIGGLYPUFF,11
+#-------------------------------
+[MONTANERO,Rogelio]
+LoseText = Mis bolas...
+Pokemon = GEODUDE,11
+Pokemon = GEODUDE,11
+#-------------------------------
+[MONTANERO,Bernardo]
+LoseText = Su equipo es mas teso que el mío...
+Pokemon = GEODUDE,11
+Pokemon = HIPPOPOTAS,11
+#-------------------------------
+[MONTANERO,Bruno]
+LoseText = Tendré que pasar más tiempo en el monte!
+Pokemon = DIGLETT,12
+Pokemon = HIPPOPOTAS,12
+#-------------------------------
+[CHICA,Julieta]
+LoseText = Lo tienes duro... Osea, tu equipo! 
+Pokemon = JIGGLYPUFF,11
+Pokemon = JIGGLYPUFF,11
+#-------------------------------
+[POKEMANIACO,Sneider]
+LoseText = TU TEAM! TAMBIEN ES PEAK!
+Pokemon = MAKUHITA,11
+Pokemon = ZUBAT,11
+#-------------------------------
+[POKEMANIACO,Carlos]
+LoseText = QUIERO UN ABSOL!
+Pokemon = MAKUHITA,11
+Pokemon = DIGLETT,11
+#-------------------------------
+[POKEMANIACO,Fausto]
+LoseText = Bueno, llevate esa garra de shit...
+Pokemon = MAKUHITA,11
+Pokemon = MAKUHITA,11
+#-------------------------------
+[POKEMANIACO,Tavolo]
+LoseText = Dale, vas re roto kbron!
+Pokemon = ABSOL,11
+Pokemon = ZUBAT,11
+#-------------------------------
+[POKEMANIACO,Pedro]
+LoseText = Eres muy bueno...
+Pokemon = ABSOL,12
+#-------------------------------
+[MONTANERO,Rafael]
+LoseText = Sal de esta cueva...
+Pokemon = HIPPOPOTAS,12
+#-------------------------------
+[MONTANERO,Alvaro]
+LoseText = Mi loco lo que trepas!
+Pokemon = HIPPOPOTAS,12

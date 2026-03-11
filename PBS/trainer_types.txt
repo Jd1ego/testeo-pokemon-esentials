@@ -502,3 +502,9 @@ Name = Motero
 Gender = Male
 BaseMoney = 32
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[POKEMANIACO]
+Name = Pokemaniaco
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
