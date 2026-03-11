@@ -52,3 +52,7 @@
 132,North,0,128,South,8
 # Ruta 6 (134) - FabLab (135)
 134,East,0,135,West,10
+# Bosque Putrefacto (158) - Chia (155)
+158,North,0,155,South,4
+# Ruta 7 (137) - Chia (155)
+137,West,0,155,East,8
