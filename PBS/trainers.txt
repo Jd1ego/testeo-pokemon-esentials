@@ -425,3 +425,55 @@ Pokemon = HIPPOPOTAS,12
 [MONTANERO,Alvaro]
 LoseText = Mi loco lo que trepas!
 Pokemon = HIPPOPOTAS,12
+#-------------------------------
+[NADADOR,Micael]
+LoseText = Que? Y mis pescados?
+Pokemon = MAGIKARP,12
+Pokemon = MAGIKARP,12
+Pokemon = MAGIKARP,12
+Pokemon = MAGIKARP,12
+Pokemon = MAGIKARP,12
+Pokemon = MAGIKARP,12
+#-------------------------------
+[NADADOR,Elias]
+LoseText = Mi loco, sigo nadando!
+Pokemon = PSYDUCK,14
+Pokemon = PSYDUCK,14
+#-------------------------------
+[NADADOR,Lucas]
+LoseText = Uff, duro...
+Pokemon = TENTACOOL,14
+#-------------------------------
+[NADADOR,Rodrigo]
+LoseText = Naa, se cancela la paja...
+Pokemon = TENTACOOL,14
+Pokemon = PSYDUCK,14
+#-------------------------------
+[NADADORA,Rebeca]
+LoseText = Estoy cansada de nadar...
+Pokemon = STARYU,14
+Pokemon = PSYDUCK,14
+#-------------------------------
+[NADADORA,Silvia]
+LoseText = Mi estrellita...
+Pokemon = STARYU,14
+#-------------------------------
+[LEADER_Arci,Arci]
+Items = HYPERPOTION
+LoseText = Nooo chavon, no puede ser...
+Pokemon = PSYDUCK,14
+    Moves = TAILWHIP,FURYSWIPES,CONFUSION,WATERPULSE
+    IV = 20,20,20,20,20,20
+    Shiny = true
+Pokemon = TENTACOOL,16
+    Moves = ACID,WRAP,SUPERSONIC,WATERPULSE
+    IV = 20,20,20,20,20,20
+    Shiny = true
+Pokemon = LAPRAS,18
+    Moves = SING,MIST,WATERGUN,ICESHARD
+    IV = 20,20,20,20,20,20
+    Shiny = true
+Pokemon = GYARADOS,20
+    Moves = TWISTER,SCARYFACE,BITE,SCALD
+    IV = 20,20,20,20,20,20
+    Shiny = true

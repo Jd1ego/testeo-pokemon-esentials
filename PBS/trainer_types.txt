@@ -408,6 +408,13 @@ BaseMoney = 100
 BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
 VictoryBGM = HGSS 144 Victory! (Gym Leader)
 #-------------------------------
+[LEADER_Arci]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
 [MONTANERO]
 Name = Montañero
 Gender = Male
@@ -470,13 +477,13 @@ IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 [RECLUTA_M]
 Name = RECLUTA
 Gender = Male
-BaseMoney = 32
+BaseMoney = 16
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
 #-------------------------------
 [RECLUTA_F]
 Name = RECLUTA
 Gender = Female
-BaseMoney = 32
+BaseMoney = 16
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
 #-------------------------------
 [LADRON]
@@ -494,7 +501,7 @@ IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 [PESCADOR]
 Name = Pescador
 Gender = Male
-BaseMoney = 32
+BaseMoney = 16
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 #-------------------------------
 [MOTERO]
@@ -508,3 +515,15 @@ Name = Pokemaniaco
 Gender = Male
 BaseMoney = 32
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[NADADOR]
+Name = Nadador
+Gender = Male
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[NADADORA]
+Name = Nadadora
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
