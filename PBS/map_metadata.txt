@@ -194,7 +194,6 @@ MapSize = 2,11
 Name = Route 4
 Outdoor = true
 ShowArea = true
-BicycleAlways = true
 MapPosition = 0,11,6
 #-------------------------------
 [041]   # Route 5
@@ -398,3 +397,15 @@ MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
 [077]   # Ciudad Villavicencio
+Name = Ciudad Villavicencio
+#-------------------------------
+[165]   # Ruta 10 CR
+Name = Ruta 10 CR
+BicycleAlways = true
+#-------------------------------
+[166]   # Ruta 10 Pendiente
+Name = Ruta 10 Pendiente
+BicycleAlways = true
+#-------------------------------
+[168]   # Ruta 10 CR Fin
+BicycleAlways = true
