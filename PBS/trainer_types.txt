@@ -527,3 +527,9 @@ Name = Nadadora
 Gender = Female
 BaseMoney = 16
 IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[CABALLERO]
+Name = Caballero
+Gender = Male
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)

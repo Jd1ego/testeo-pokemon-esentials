@@ -477,3 +477,105 @@ Pokemon = GYARADOS,20
     Moves = TWISTER,SCARYFACE,BITE,SCALD
     IV = 20,20,20,20,20,20
     Shiny = true
+#-------------------------------
+[CABALLERO,Eugenio]
+LoseText = Siga caminando...
+Pokemon = HOOTHOOT,18
+Pokemon = HOOTHOOT,18
+#-------------------------------
+[CABALLERO,Braulio]
+LoseText = Esta nueva generacion...
+Pokemon = GROWLITHE,18
+Pokemon = GROWLITHE,18
+#-------------------------------
+[CABALLERO,Gerardo]
+LoseText = Bueno ya lleveselo...
+Pokemon = GROWLITHE,18
+Pokemon = HOOTHOOT,18
+#-------------------------------
+[BELLA,Andrea]
+LoseText = Ya no pueden caminar...
+Pokemon = FURRET,17
+Pokemon = FURRET,17
+Pokemon = FURRET,17
+#-------------------------------
+[BELLA,Natalia]
+LoseText = Sigo teniendo un equipo lindo!
+Pokemon = FURRET,18
+Pokemon = RALTS,18
+#-------------------------------
+[BELLA,Veronica]
+LoseText = Eres fuerte...
+Pokemon = FURRET,18
+Pokemon = JIGGLYPUFF,18
+#-------------------------------
+[BELLA,Carla]
+LoseText = Bueno, de pronto si se puede...
+Pokemon = JIGGLYPUFF,18
+Pokemon = RALTS,18
+#-------------------------------
+[MOTERO,Cesar]
+LoseText = Bueno pero quite esos hptas conos!
+Pokemon = SCYTHER,18
+Pokemon = GROWLITHE,18
+#-------------------------------
+[MOTERO,Josue]
+LoseText = Jueputa, me llevó fue a mi...
+Pokemon = SCYTHER,17
+Pokemon = SCYTHER,17
+Pokemon = SCYTHER,17
+#-------------------------------
+[MOTERO,Raul]
+LoseText = Ya ande por donde se le de la gana...
+Pokemon = GROWLITHE,18
+Pokemon = GROWLITHE,18
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 7]
+LoseText = De verdad que no estaba viendo nada raro en el pc...
+Pokemon = TENTACOOL,20
+Pokemon = MAGNEMITE,20
+#-------------------------------
+[RECLUTA_F, DE LA FDC, 4]
+LoseText = Uy, que eres ingeniero...
+Pokemon = TENTACOOL,20
+Pokemon = TENTACOOL,20
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 8]
+LoseText = Lo siento jefe, te he fallado...
+Pokemon = ZUBAT,20
+Pokemon = ZUBAT,20
+#-------------------------------
+[RECLUTA_F, DE LA FDC, 5]
+LoseText = N-nos ganaste...
+Pokemon = TENTACOOL,20
+Pokemon = ZUBAT,20
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 9]
+LoseText = Esta bien! No me llevaré nada!
+Pokemon = MAGNEMITE,20
+Pokemon = ABSOL,20
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 10]
+LoseText = No se quien eres...
+Pokemon = MAGNEMITE,20
+Pokemon = ZUBAT,20
+#-------------------------------
+[RECLUTA_F, DE LA FDC, 6]
+LoseText = Nos van a pillar...
+Pokemon = TENTACOOL,20
+Pokemon = ZUBAT,20
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 11]
+LoseText = Aqui no estaba la maquina...
+Pokemon = MAGNEMITE,20
+Pokemon = MAGNEMITE,20
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 12]
+LoseText = Les he fallado...
+Pokemon = MAGNEMITE,20
+Pokemon = ZUBAT,20
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 13]
+LoseText = No... No puedo defraudar a la FDC...
+Pokemon = TENTACOOL,20
+Pokemon = TENTACOOL,20
