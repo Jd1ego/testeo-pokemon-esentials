@@ -579,3 +579,43 @@ Pokemon = ZUBAT,20
 LoseText = No... No puedo defraudar a la FDC...
 Pokemon = TENTACOOL,20
 Pokemon = TENTACOOL,20
+#-------------------------------
+[CIENTIFICO, Blas]
+LoseText = Que...?
+Pokemon = MAGNEMITE,17
+Pokemon = MAGNEMITE,17
+#-------------------------------
+[CIENTIFICO, Eloy]
+LoseText = Tu no ere FdC... Tu ere peor...
+Pokemon = SHINX,17
+Pokemon = SHINX,17
+#-------------------------------
+[POKEMANIACO, Alan]
+LoseText = Igual y soy yo eh...
+Pokemon = SCYTHER,17
+Pokemon = SCYTHER,17
+#-------------------------------
+[POKEMANIACO, Adrian]
+LoseText = Loco pero ¿Por que?
+Pokemon = SCYTHER,17
+Pokemon = SCYTHER,17
+#-------------------------------
+[POKEMANIACO, Borja]
+LoseText = Que equipo tan god...
+Pokemon = SCYTHER,17
+Pokemon = SCYTHER,17
+#-------------------------------
+[DAMISELA, Blanca]
+LoseText = Vaya...
+Pokemon = JIGGLYPUFF,18
+Pokemon = RALTS,18
+#-------------------------------
+[DAMISELA, Victoria]
+LoseText = Que buen entrenador...
+Pokemon = JIGGLYPUFF,18
+Pokemon = RALTS,18
+#-------------------------------
+[DAMISELA, Raquel]
+LoseText = Pues no tengo te...
+Pokemon = JIGGLYPUFF,18
+Pokemon = RALTS,18

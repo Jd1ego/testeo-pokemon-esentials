@@ -495,7 +495,7 @@ IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
 [AVICULTOR]
 Name = Avicultor
 Gender = Male
-BaseMoney = 32
+BaseMoney = 16
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 #-------------------------------
 [PESCADOR]
@@ -533,3 +533,9 @@ Name = Caballero
 Gender = Male
 BaseMoney = 16
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[DAMISELA]
+Name = Damisela
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
