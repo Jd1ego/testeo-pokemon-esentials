@@ -542,13 +542,13 @@ Pokemon = TENTACOOL,20
 #-------------------------------
 [RECLUTA_M, DE LA FDC, 8]
 LoseText = Lo siento jefe, te he fallado...
-Pokemon = ZUBAT,20
+Pokemon = GOLBAT,22
 Pokemon = ZUBAT,20
 #-------------------------------
 [RECLUTA_F, DE LA FDC, 5]
 LoseText = N-nos ganaste...
-Pokemon = TENTACOOL,20
-Pokemon = ZUBAT,20
+Pokemon = TENTACOOL,22
+Pokemon = GOLBAT,22
 #-------------------------------
 [RECLUTA_M, DE LA FDC, 9]
 LoseText = Esta bien! No me llevaré nada!
@@ -582,40 +582,65 @@ Pokemon = TENTACOOL,20
 #-------------------------------
 [CIENTIFICO, Blas]
 LoseText = Que...?
-Pokemon = MAGNEMITE,17
-Pokemon = MAGNEMITE,17
+Pokemon = MAGNEMITE,20
+Pokemon = MAGNEMITE,20
 #-------------------------------
 [CIENTIFICO, Eloy]
 LoseText = Tu no ere FdC... Tu ere peor...
-Pokemon = SHINX,17
-Pokemon = SHINX,17
+Pokemon = SHINX,20
+Pokemon = SHINX,20
 #-------------------------------
 [POKEMANIACO, Alan]
 LoseText = Igual y soy yo eh...
-Pokemon = SCYTHER,17
-Pokemon = SCYTHER,17
+Pokemon = NIDORINO,23
+Pokemon = NIDORINA,23
 #-------------------------------
 [POKEMANIACO, Adrian]
 LoseText = Loco pero ¿Por que?
-Pokemon = SCYTHER,17
-Pokemon = SCYTHER,17
+Pokemon = HOUNDOUR,23
+Pokemon = HOUNDOUR,23
 #-------------------------------
 [POKEMANIACO, Borja]
 LoseText = Que equipo tan god...
-Pokemon = SCYTHER,17
-Pokemon = SCYTHER,17
+Pokemon = HOUNDOUR,23
+Pokemon = NIDORINA,23
 #-------------------------------
 [DAMISELA, Blanca]
 LoseText = Vaya...
-Pokemon = JIGGLYPUFF,18
-Pokemon = RALTS,18
+Pokemon = LOPUNNY,23
+Pokemon = KIRLIA,23
 #-------------------------------
 [DAMISELA, Victoria]
 LoseText = Que buen entrenador...
-Pokemon = JIGGLYPUFF,18
-Pokemon = RALTS,18
+Pokemon = LOPUNNY,23
+Pokemon = LOPUNNY,23
 #-------------------------------
 [DAMISELA, Raquel]
 LoseText = Pues no tengo te...
-Pokemon = JIGGLYPUFF,18
-Pokemon = RALTS,18
+Pokemon = FURRET,23
+Pokemon = KIRLIA,23
+#-------------------------------
+[EXPLORADOR, Valentino]
+LoseText = Que buena pinga...
+Pokemon = GROWLITHE,26
+Pokemon = SPOINK,26
+#-------------------------------
+[EXPLORADOR, Damian]
+LoseText = Esta bien... es tuya...
+Pokemon = GROWLITHE,26
+Pokemon = GROWLITHE,26
+#-------------------------------
+[EXPLORADOR, Saltarin]
+LoseText = Boing? D:
+Pokemon = SPOINK,26
+Pokemon = SPOINK,26
+#-------------------------------
+[EXPLORADORA, Emilia]  
+LoseText = Parece que si...
+Pokemon = LOPUNNY,26
+Pokemon = LOPUNNY,26
+#-------------------------------
+[EXPLORADORA, Antonia]
+LoseText = Desgraciado...
+Pokemon = STARAVIA,26
+Pokemon = LOPUNNY,26
