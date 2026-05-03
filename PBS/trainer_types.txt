@@ -539,3 +539,15 @@ Name = Damisela
 Gender = Female
 BaseMoney = 16
 IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[COSPLAYER]
+Name = Cosplayer
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[PROFESOR]
+Name = Profesor
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)

@@ -622,25 +622,60 @@ Pokemon = KIRLIA,23
 #-------------------------------
 [EXPLORADOR, Valentino]
 LoseText = Que buena pinga...
-Pokemon = GROWLITHE,26
-Pokemon = SPOINK,26
+Pokemon = GROWLITHE,28
+Pokemon = SPOINK,28
 #-------------------------------
 [EXPLORADOR, Damian]
 LoseText = Esta bien... es tuya...
-Pokemon = GROWLITHE,26
-Pokemon = GROWLITHE,26
+Pokemon = GROWLITHE,28
+Pokemon = GROWLITHE,28
 #-------------------------------
 [EXPLORADOR, Saltarin]
 LoseText = Boing? D:
-Pokemon = SPOINK,26
-Pokemon = SPOINK,26
+Pokemon = SPOINK,28
+Pokemon = SPOINK,28
 #-------------------------------
 [EXPLORADORA, Emilia]  
 LoseText = Parece que si...
-Pokemon = LOPUNNY,26
-Pokemon = LOPUNNY,26
+Pokemon = LOPUNNY,28
+Pokemon = LOPUNNY,28
 #-------------------------------
 [EXPLORADORA, Antonia]
 LoseText = Desgraciado...
-Pokemon = STARAVIA,26
-Pokemon = LOPUNNY,26
+Pokemon = STARAVIA,28
+Pokemon = LOPUNNY,28
+#-------------------------------
+[COSPLAYER, Putito_SAS]
+LoseText = SOY RE PUTOOOO!!!
+Pokemon = KIRLIA,25
+Pokemon = LOPUNNY,25
+#-------------------------------
+[COSPLAYER, xX_JoseElPro_Xx]
+LoseText = Na, tas hackeando...
+Pokemon = NIDORINA,25
+Pokemon = LOPUNNY,25
+#-------------------------------
+[COSPLAYER, Juanito_Vlogs]
+LoseText = Eso no va a salir en el vlog...
+Pokemon = ARBOK,25
+Pokemon = LOPUNNY,25
+#-------------------------------
+[COSPLAYER, Diego_Sniper]
+LoseText = Supongo que ya sabes quien soy...
+Pokemon = NUZLEAF,25
+Pokemon = LOPUNNY,25
+#-------------------------------
+[COSPLAYER, Don_Comedia_xD]
+LoseText = Nada...
+Pokemon = MRMIME,25
+Pokemon = LOPUNNY,25
+#-------------------------------
+[COSPLAYER, Pro_Gamer_God_YT]
+LoseText = Mucha potra que tienes...
+Pokemon = NIDORINO,25
+Pokemon = LOPUNNY,25
+#-------------------------------
+[PROFESOR, Wilber]
+LoseText = Empiti vius...
+Pokemon = HOUNDOOM,26
+Pokemon = NIDOKING,26
