@@ -398,6 +398,7 @@ BattleBack = city
 #-------------------------------
 [077]   # Ciudad Villavicencio
 Name = Ciudad Villavicencio
+Weather = Rain,67
 #-------------------------------
 [165]   # Ruta 10 CR
 Name = Ruta 10 CR
@@ -412,4 +413,5 @@ Name = Ruta 10 CR Fin
 BicycleAlways = true
 #-------------------------------
 [203]   # Isla Kokkola
+Name = Isla Kokkola
 Weather = Snow,100
