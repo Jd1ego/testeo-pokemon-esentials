@@ -408,4 +408,8 @@ Name = Ruta 10 Pendiente
 BicycleAlways = true
 #-------------------------------
 [168]   # Ruta 10 CR Fin
+Name = Ruta 10 CR Fin
 BicycleAlways = true
+#-------------------------------
+[203]   # Isla Kokkola
+Weather = Snow,100

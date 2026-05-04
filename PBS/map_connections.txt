@@ -62,3 +62,5 @@
 165,West,0,166,East,0
 # Ruta 10 CR Fin (168) - Ruta 10 Pendiente (166)
 168,East,0,166,West,34
+# Fin ruta 10 (174) - Ciudad Barranquilla (173)
+174,West,0,173,East,34
