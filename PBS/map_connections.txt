@@ -24,12 +24,16 @@
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
-# Pueblo Primero (32) - Ruta 1 (42)
-32,East,8,42,West,0
-# Pueblo Sopó (33) - Ruta 2 (48)
-33,East,0,48,West,3
-# Ruta 1 (42) - Pueblo Sopó (33)
-42,East,0,33,West,1
+# Pueblo Primero (32) - Ciudad Barranquilla (173)
+32,West,275,173,East,0
+# Pueblo Primero (32) - Ruta 13 (201)
+32,West,0,201,East,6
+# Ruta 1 (42) - Pueblo Primero (32)
+42,West,0,32,East,8
+# Pueblo Sopó (33) - Ruta 1 (42)
+33,West,1,42,East,0
+# Ruta 2 (48) - Pueblo Sopó (33)
+48,West,3,33,East,0
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -46,10 +50,6 @@
 77,North,0,126,South,5
 # Ruta 4 (129) - Ciudad Villavicencio (77)
 129,North,0,77,South,14
-# Ruta 5 (133) - Ciudad Bogotá (79)
-133,West,0,79,East,36
-# Ruta 10 (161) - Ciudad Bogotá (79)
-161,East,0,79,West,57
 # Lago Norrea (132) - Ruta 3a (128)
 132,North,0,128,South,8
 # Ruta 6 (134) - FabLab (135)
@@ -58,19 +58,31 @@
 137,West,0,155,East,8
 # Bosque Putrefacto (158) - Chia (155)
 158,North,0,155,South,4
-# Ruta 10 CR (165) - Ruta 10 Pendiente (166)
-165,West,0,166,East,0
-# Ruta 10 CR Fin (168) - Ruta 10 Pendiente (166)
-168,East,0,166,West,34
 # Ruta 11 (162) - Isla Seoul (202)
 162,North,0,202,South,0
-# Bosque CP (205) - Isla Seoul (202)
-205,East,0,202,West,2
-# Ruta 12 (200) - Isla Seoul (202)
-200,South,0,202,North,3
 # Ciudad Barranquilla (173) - Ruta 11 (162)
 173,North,0,162,South,3
 # Bosque CP (205) - Ruta 11 (162)
 205,East,48,162,West,0
-# Isla Kokkola (203) - Ruta 12 (200)
-203,South,0,200,North,0
+# Ruta 10 CR (165) - Ruta 10 Pendiente (166)
+165,West,0,166,East,0
+# Ruta 10 CR Fin (168) - Ruta 10 Pendiente (166)
+168,East,0,166,West,34
+# Fin ruta 10 (174) - Ciudad Barranquilla (173)
+174,West,0,173,East,34
+# Fin ruta 10 (174) - Ruta 13 (201)
+174,West,0,201,East,315
+# Ruta 12 (200) - Isla Kokkola (203)
+200,North,0,203,South,0
+# Isla Seoul (202) - Ruta 12 (200)
+202,North,3,200,South,0
+# Ruta 13 (201) - Isla Kokkola (203)
+201,South,0,203,North,10
+# Bosque CP (205) - Isla Seoul (202)
+205,East,0,202,West,2
+# Ruta 5 (133) - Ciudad Bogotá (79)
+133,West,0,79,East,36
+# Ruta 10 (161) - Ciudad Bogotá (79)
+161,East,0,79,West,57
+# Ruta 8 (159) - Ciudad Bogotá (79)
+159,North,0,79,South,28
