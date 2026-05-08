@@ -679,3 +679,62 @@ Pokemon = LOPUNNY,25
 LoseText = Empiti vius...
 Pokemon = HOUNDOOM,26
 Pokemon = NIDOKING,26
+#-------------------------------
+[PSIQUICO, Ismael]
+LoseText = Me follaste la mente...
+Pokemon = KADABRA,22
+Pokemon = KADABRA,22
+#-------------------------------
+[PSIQUICO, Adrian]
+LoseText = No ganamos ni con el doble tipado...
+Pokemon = KADABRA,22
+Pokemon = RALTS,22
+#-------------------------------
+[PSIQUICO, Celso]
+LoseText = Pero muy tryhard...
+Pokemon = HOUNDOOM,22
+Pokemon = HOUNDOOM,22
+#-------------------------------
+[PSIQUICO, Enzo]
+LoseText = Loco pero que salon es?
+Pokemon = NUZLEAF,22
+Pokemon = NUZLEAF,22
+#-------------------------------
+[PSIQUICA, Estela]
+LoseText = No paso ni de chiste...
+Pokemon = NUZLEAF,22
+Pokemon = KADABRA,22
+#-------------------------------
+[PSIQUICA, Miriam]
+LoseText = Estás demente...
+Pokemon = HOUNDOUR,22
+Pokemon = NUZLEAF,22
+#-------------------------------
+[PSIQUICA, Violeta]
+LoseText = Malditos daltonicos...
+Pokemon = RALTS,22
+Pokemon = RALTS,22
+#-------------------------------
+[PSIQUICA, Gema]
+LoseText = Me voy a volver loca...
+Pokemon = HOUNDOOM,22
+Pokemon = RALTS,22
+#-------------------------------
+[LEADER_JuanjoTrack, Juanjo & Track]
+Items = HYPERPOTION
+LoseText = Basuron mesopotamico...
+Pokemon = HOUNDOUR,24
+    Moves = THIEF,TAUNT,SMOG,ROAR
+    IV = 20,20,20,20,20,20
+Pokemon = KIRLIA,24
+    Moves = PSYCHIC,LIFEDEW,DRAININGKISS,DOUBLETEAM
+    IV = 20,20,20,20,20,20
+Pokemon = SNEASEL,26
+    Moves = THIEF,ICYWIND,QUICKATTACK,METALCLAW
+    IV = 20,20,20,20,20,20
+Pokemon = KADABRA,26
+    Moves = PSYCHIC,RECOVER,DISABLE,REFLECT
+    IV = 20,20,20,20,20,20
+Pokemon = ABSOL,26
+    Moves = THIEF,SLASH,DETECT,DOUBLETEAM
+    IV = 20,20,20,20,20,20

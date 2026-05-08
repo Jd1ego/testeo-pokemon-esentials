@@ -415,6 +415,13 @@ BaseMoney = 100
 BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
 VictoryBGM = HGSS 144 Victory! (Gym Leader)
 #-------------------------------
+[LEADER_JuanjoTrack]
+Name = Líderes de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
 [MONTANERO]
 Name = Montañero
 Gender = Male
@@ -551,3 +558,15 @@ Name = Profesor
 Gender = Male
 BaseMoney = 32
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[PSIQUICO]
+Name = Psiquico
+Gender = Male
+BaseMoney = 36
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[PSIQUICA]
+Name = Psiquica
+Gender = Female
+BaseMoney = 36
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
