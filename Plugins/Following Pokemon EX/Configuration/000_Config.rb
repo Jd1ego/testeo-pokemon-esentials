@@ -51,7 +51,7 @@
   ALWAYS_ANIMATE            = true
 
   # Whether the Follower always faces the player, or not like in HGSS.
-  ALWAYS_FACE_PLAYER        = false
+  ALWAYS_FACE_PLAYER        = true
 
   # Whether other events can walk through Follower or no
   IMPASSABLE_FOLLOWER       = true

@@ -133,7 +133,7 @@ EventHandlers.add(:following_pkmn_talk, :angry_generic, proc { |pkmn, random_val
     pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
     messages = [
       _INTL("{1} let out a roar!"),
-      _INTL("{1} is making a face like it's angry!"),
+      _INTL("{1} se caga en la gran puta!"),
       _INTL("{1} seems to be angry for some reason."),
       _INTL("{1} chewed on {2}'s feet."),
       _INTL("{1} turned to face the other way, showing a defiant expression."),
