@@ -3,47 +3,47 @@
 #-------------------------------
 [SCRIPT_TEXTS]
 Items
-Items
+Objetos
 Medicine
-Medicine
+Botiquín
 Poké Balls
 Poké Balls
 TMs & HMs
-TMs & HMs
+MT / MO
 Berries
-Berries
+Bayas
 Mail
-Mail
+Correo
 Battle Items
-Battle Items
+Obj. batalla
 Key Items
-Key Items
+Obj.clave
 National Pokédex
-National Pokédex
+Pokédex Nacional
 zero
-zero
+cero
 one
-one
+uno
 two
-two
+dos
 three
-three
+tres
 four
-four
+cuatro
 five
-five
+cinco
 six
-six
+seis
 seven
-seven
+siete
 eight
-eight
+ocho
 nine
-nine
+nueve
 ten
-ten
+diez
 eleven
-eleven
+once
 twelve
 twelve
 thirteen
@@ -143,7 +143,7 @@ Coins:<<n>><ar>{1}</ar>
 Battle Points:<<n>><ar>{1}</ar>
 Battle Points:<<n>><ar>{1}</ar>
 Yes
-Yes
+Sí
 No
 No
 Medium
@@ -253,7 +253,7 @@ White
 Pink
 Pink
 None
-None
+Ninguno
 Grassland
 Grassland
 Forest
@@ -833,25 +833,25 @@ You can't switch {1}'s Pokémon with one of yours!
 Use next Pokémon?
 Use next Pokémon?
 Good job, {1}! Come back!
-Good job, {1}! Come back!
+Buen trabajo, {1}! ¡Vuelve!
 OK, {1}! Come back!
-OK, {1}! Come back!
+OK, {1}! ¡Vuelve!
 {1}, that's enough! Come back!
-{1}, that's enough! Come back!
+{1}, ¡eso fue suficiente! ¡Vuelve!
 {1}, come back!
-{1}, come back!
+¡{1}, Vuelve!
 {1}, switch out! Come back!
-{1}, switch out! Come back!
+¡{1}, cambio!¡Vuelve!
 {1} withdrew {2}!
 {1} withdrew {2}!
 You're in charge, {1}!
-You're in charge, {1}!
+Estás a cargo, {1}!
 Go for it, {1}!
-Go for it, {1}!
+Ve por él , {1}!
 Just a little more! Hang in there, {1}!
-Just a little more! Hang in there, {1}!
+¡Solo un poco más! Aguanta, {1}!
 Your opponent's weak! Get 'em, {1}!
-Your opponent's weak! Get 'em, {1}!
+¡Tu rival es un pringado! ¡A por él! {1}!
 Oh!<<n>>A Shadow Pokémon!
 Oh!<<n>>A Shadow Pokémon!
 The healing wish came true for {1}!
@@ -897,7 +897,7 @@ Treat as running away/forfeit
 Treat as a capture
 Treat as a capture
 Cancel
-Cancel
+Cancelar
 Choose the outcome of this battle.
 Choose the outcome of this battle.
 You got away safely!
@@ -909,7 +909,7 @@ Would you like to forfeit the match and quit now?
 {1} forfeited the match!
 {1} forfeited the match!
 You can't escape!
-You can't escape!
+¡No puedes escapar!
 {1} fled using its {2}!
 {1} fled using its {2}!
 {1} prevents escape with {2}!
@@ -1079,19 +1079,19 @@ The battlefield is weird.
 The Hyper Mode attack hurts {1}!
 The Hyper Mode attack hurts {1}!
 the opposing {1}
-the opposing {1}
+El {1} rival
 the wild {1}
-the wild {1}
+el {1} salvaje
 the ally {1}
 the ally {1}
 the opposing team
-the opposing team
+el equipo rival
 The opposing team
-The opposing team
+El equipo rival
 your team
-your team
+tu equipo
 Your team
-Your team
+Tu equipo
 {1} is unaffected!
 {1} is unaffected!
 {1} is unaffected because of its {2}!
@@ -1301,7 +1301,7 @@ The effects of the neutralizing gas wore off!
 {1} became confused due to fatigue!
 {1} became confused due to fatigue!
 {1} used {2}!
-{1} used {2}!
+{1} usó {2}!
 But there was no PP left for the move!
 But there was no PP left for the move!
 {1} changed to Blade Forme!
@@ -1455,7 +1455,7 @@ The substitute took damage for {1}!
 A critical hit on {1}!
 A critical hit on {1}!
 A critical hit!
-A critical hit!
+Un golpe critico!
 {1}'s substitute faded!
 {1}'s substitute faded!
 Its disguise served it as a decoy!
@@ -1773,7 +1773,7 @@ All Pokémon that hear the song will faint in three turns!
 {1} stole {2}'s {3}!
 {1} stole {2}'s {3}!
 {1} received {2} from {3}!
-{1} received {2} from {3}!
+{1} recibió {2} de {3}!
 {1} switched items with its opponent!
 {1} switched items with its opponent!
 {1} obtained {2}.
@@ -1909,17 +1909,17 @@ Call
 Run
 Run
 Choose a Pokémon.
-Choose a Pokémon.
+Elige un Pokémon.
 Send which Pokémon to Boxes?
 Send which Pokémon to Boxes?
 Switch In
-Switch In
+Mover
 Send to Boxes
 Send to Boxes
 Summary
-Summary
+Datos
 Do what with {1}?
-Do what with {1}?
+¿Qué quieres hacer con {1}?
 Use
 Use
 {1} is selected.
@@ -2565,7 +2565,7 @@ No room in party for Pokémon.
 No Pokémon found in Day Care to choose from.
 No Pokémon found in Day Care to choose from.
 CANCEL
-CANCEL
+CANCELAR
 Couldn't generate the egg.
 Couldn't generate the egg.
 No room in party for egg.
@@ -3047,25 +3047,25 @@ Graphics/UI/Pokedex/icon_searchslider
 Search results
 Search results
 Seen:
-Seen:
+Avistados:
 Owned:
-Owned:
+Atrapados:
 Search Mode
-Search Mode
+Buscar Pokémon
 Order
-Order
+Orden
 Name
-Name
+Nombre
 Type
-Type
+Tipo
 Height
-Height
+Altura
 Weight
-Weight
+Peso
 Color
 Color
 Shape
-Shape
+Silueta
 Reset
 Reset
 Start
@@ -3139,11 +3139,11 @@ Z
 No matching Pokémon were found.
 No matching Pokémon were found.
 One Form
-One Form
+Ona Forma
 Male
-Male
+Macho
 Female
-Female
+Hembra
 Graphics/UI/Pokedex/bg_info
 Graphics/UI/Pokedex/bg_info
 Graphics/UI/Pokedex/overlay_info
@@ -3151,7 +3151,7 @@ Graphics/UI/Pokedex/overlay_info
 {1}{2} {3}
 {1}{2} {3}
 Number Battled
-Number Battled
+Numero de batallas
 {1} Pokémon
 {1} Pokémon
 {1:d}'{2:02d}"
@@ -3259,7 +3259,7 @@ Not enough HP...
 {1} can't be used on that Pokémon.
 {1} can't be used on that Pokémon.
 Switch
-Switch
+Mover
 Do what with the mail?
 Do what with the mail?
 Read
@@ -3267,7 +3267,7 @@ Read
 Take
 Take
 Item
-Item
+Objeto
 Do what with an item?
 Do what with an item?
 Give
@@ -3281,21 +3281,21 @@ Move {1} to where?
 INFO
 INFO
 TRAINER MEMO
-TRAINER MEMO
+NOTAS ENTR.
 SKILLS
-SKILLS
+HABIL. POKéMON
 MOVES
-MOVES
+MOV. COMBATE
 RIBBONS
-RIBBONS
+CINTAS
 Dex No.
-Dex No.
+N.° Pokédex
 Species
-Species
+Especie
 OT
-OT
+EO
 ID No.
-ID No.
+N.° ID
 RENTAL
 RENTAL
 Heart Gauge
@@ -3313,9 +3313,9 @@ The door to its heart is opening up.
 The door to its heart is tightly shut.
 The door to its heart is tightly shut.
 Exp. Points
-Exp. Points
+Ptos. Exp.
 To Next Lv.
-To Next Lv.
+Nv. siguien
 {1} {2}, {3}
 {1} {2}, {3}
 A mysterious Pokémon Egg received from {1}.
@@ -3421,7 +3421,7 @@ POWER
 ACCURACY
 ACCURACY
 No. of Ribbons:
-No. of Ribbons:
+N.° de cintas:
 Mark {1}
 Mark {1}
 Give item
@@ -3437,13 +3437,13 @@ HM moves can't be forgotten now.
 You must choose a move!
 You must choose a move!
 CLOSE BAG
-CLOSE BAG
+CERRAR MOCHILA
 Graphics/UI/Bag/icon_register
 Graphics/UI/Bag/icon_register
 x{1: 3d}
 x{1: 3d}
 Close bag.
-Close bag.
+Cerrar mochila.
 Toss
 Toss
 Deselect
@@ -3467,7 +3467,7 @@ Choose new quantity of {1} (max. {2}).
 How many do you want to withdraw?
 How many do you want to withdraw?
 Withdrew {1} {2}.
-Withdrew {1} {2}.
+Sacaste {1} {2}.
 There's no more room in the Bag.
 There's no more room in the Bag.
 How many do you want to deposit?
@@ -3551,7 +3551,7 @@ Badges:
 Pokédex:
 Pokédex:
 Time:
-Time:
+Tiempo:
 Player character {1}'s walking charset was not found (filename: "{2}").
 Player character {1}'s walking charset was not found (filename: "{2}").
 The save file is corrupt. A backup will be loaded.
@@ -3591,11 +3591,11 @@ The previous save file has been backed up.
 Save failed.
 Save failed.
 Player
-Player
+Jugador
 Badges
-Badges
+Medallas
 Would you like to save the game?
-Would you like to save the game?
+¿Quieres guardar la partida?
 WARNING!
 WARNING!
 There is a different game file that is already saved.
@@ -3607,7 +3607,7 @@ Are you sure you want to save now and overwrite the other save file?
 {1} saved the game.
 {1} saved the game.
 Close
-Close
+Cerrar
 Type {1}/{2}
 Type {1}/{2}
 Close the screen.
@@ -3719,7 +3719,7 @@ Place
 Store
 Store
 Withdraw
-Withdraw
+Sacar
 Release
 Release
 Which one will you take?
@@ -3781,9 +3781,9 @@ Select
 x{1: 2d}
 x{1: 2d}
 Close storage.
-Close storage.
+Cerrar almacenamiento.
 Withdraw<<n>>Item
-Withdraw<<n>>Item
+Sacar<<n>>Objeto
 Toss<<n>>Item
 Toss<<n>>Item
 x{1:03d}
@@ -4059,7 +4059,7 @@ Please pick up your gift from the deliveryman in any Poké Mart.
 Couldn't find an unclaimed Mystery Gift with ID {1}.
 Couldn't find an unclaimed Mystery Gift with ID {1}.
 {1} received {2}!
-{1} received {2}!
+{1} recibió {2}!
 Enter text using the keyboard. Press<<n>>Enter to confirm, or Esc to cancel.
 Enter text using the keyboard. Press<<n>>Enter to confirm, or Esc to cancel.
 Enter text using the keyboard.<<n>>Press Enter to confirm.
@@ -4489,7 +4489,7 @@ Writing results
 Generate Pokémon teams for this challenge?
 Generate Pokémon teams for this challenge?
 YES
-YES
+SÍ
 NO
 NO
 YES, USE EXISTING
@@ -4771,7 +4771,7 @@ Pokémon {1}
 A Pokémon owned by the Trainer.
 A Pokémon owned by the Trainer.
 Item {1}
-Item {1}
+Objeto {1}
 An item used by the Trainer during battle.
 An item used by the Trainer during battle.
 Trainer Battles
@@ -6231,7 +6231,7 @@ Pokémon is not a Shadow Pokémon.
 Set effects
 Set effects
 <<[>>None<<]>>
-<<[>>None<<]>>
+<<[>>Ninguno<<]>>
 Set value ({1}-{2}).
 Set value ({1}-{2}).
 Choose a battler/position.
