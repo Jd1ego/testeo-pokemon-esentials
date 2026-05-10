@@ -1,0 +1,312 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MAP_NAMES]
+Intro
+Intro
+Lappet Town
+Lappet Town
+\PN's house
+\PN's house
+Pokémon Lab
+Pokémon Lab
+Route 1
+Route 1
+Cedolan City
+Cedolan City
+Route 2
+Route 2
+Lerucean Town
+Lerucean Town
+Natural Park
+Natural Park
+Route 3
+Route 3
+Pueblo Primero
+Pueblo Primero
+Pueblo Sopó
+Pueblo Sopó
+Ingido Plateau
+Ingido Plateau
+Route 4
+Route 4
+Route 5
+Route 5
+Ruta 1
+Ruta 1
+Laboratorio de Oak
+Laboratorio de Oak
+Route 6
+Route 6
+Route 7
+Route 7
+Ruta 2
+Ruta 2
+Battle Frontier
+Battle Frontier
+Safari Zone
+Safari Zone
+Route 8
+Route 8
+Berth Island
+Berth Island
+Faraday Island
+Faraday Island
+Tiall Region
+Tiall Region
+Monte Pionono
+Monte Pionono
+Ciudad Villavicencio
+Ciudad Villavicencio
+Casa del Jugador
+Casa del Jugador
+Ciudad Bogotá
+Ciudad Bogotá
+Escuela de música
+Escuela de música
+Casa naranja
+Casa naranja
+Casa azul
+Casa azul
+CP Sopó
+CP Sopó
+D1 Sopó
+D1 Sopó
+Casa gris
+Casa gris
+Gym Sopó
+Gym Sopó
+Casa verde
+Casa verde
+Gym Villavicencio
+Gym Villavicencio
+D1 Villavicencio
+D1 Villavicencio
+CP Villavicencio
+CP Villavicencio
+Casa ladrillos
+Casa ladrillos
+Cabaña de ponyta
+Cabaña de ponyta
+Edificio 1
+Edificio 1
+Edificio 2
+Edificio 2
+Edificio 3
+Edificio 3
+Cordillera Oriental
+Cordillera Oriental
+CO Sotano 1
+CO Sotano 1
+CO Sotano 2
+CO Sotano 2
+Casa del Rival
+Casa del Rival
+Choza
+Choza
+CP Bogotá
+CP Bogotá
+D1 Bogotá
+D1 Bogotá
+Torre Colpatria
+Torre Colpatria
+Torre Colpatria P2
+Torre Colpatria P2
+Edificio
+Edificio
+Tienda de Bici
+Tienda de Bici
+Casa Verde Sur 1
+Casa Verde Sur 1
+Casa Verde Sur 2
+Casa Verde Sur 2
+Casa Amarilla Sur
+Casa Amarilla Sur
+Casino
+Casino
+CC Unicentro
+CC Unicentro
+Museo La Banda
+Museo La Banda
+Gym Bogotá
+Gym Bogotá
+Tienda de musica
+Tienda de musica
+Casa de Lasprilla
+Casa de Lasprilla
+Casa Naranja Norte
+Casa Naranja Norte
+Casa Verde Norte
+Casa Verde Norte
+Casa Lujosa 1
+Casa Lujosa 1
+Casa Lujosa 2
+Casa Lujosa 2
+Casa de Arci
+Casa de Arci
+Casa de Arci P2
+Casa de Arci P2
+Casa de Arci P3
+Casa de Arci P3
+Casa de Arci Piscina
+Casa de Arci Piscina
+Casa Lujosa 3
+Casa Lujosa 3
+Ruta 3
+Ruta 3
+Peaje Ruta 2
+Peaje Ruta 2
+Ruta 3a
+Ruta 3a
+Ruta 4
+Ruta 4
+Cordillera Central
+Cordillera Central
+CC sotano 1
+CC sotano 1
+Lago Norrea
+Lago Norrea
+Ruta 5
+Ruta 5
+Ruta 6
+Ruta 6
+FabLab
+FabLab
+Universidad De La Sabana
+Universidad De La Sabana
+Ruta 7
+Ruta 7
+Edificio A
+Edificio A
+Edificio B
+Edificio B
+Edificio C
+Edificio C
+Edificio K
+Edificio K
+Edificio AdPortas
+Edificio AdPortas
+Laboratorio
+Laboratorio
+Laboratorio 2
+Laboratorio 2
+Peaje Villavicencio-3A
+Peaje Villavicencio-3A
+Caseta Subterrateo
+Caseta Subterrateo
+Peaje Bogotá - 6
+Peaje Bogotá - 6
+Pueblo Chia
+Pueblo Chia
+Casa Caña
+Casa Caña
+Casa Flash
+Casa Flash
+Bosque Putrefacto
+Bosque Putrefacto
+Ruta 8
+Ruta 8
+Ruta 9
+Ruta 9
+Ruta 10
+Ruta 10
+Ruta 11
+Ruta 11
+Ciudad Ibague
+Ciudad Ibague
+Ruta 10 Peaje
+Ruta 10 Peaje
+Ruta 10 Peaje Salida
+Ruta 10 Peaje Salida
+Cueva Na
+Cueva Na
+Puente
+Puente
+SEMENterio
+SEMENterio
+Ciudad Barranquilla
+Ciudad Barranquilla
+Caseta subterraneo
+Caseta subterraneo 
+Choza R7
+Choza R7
+The Spot
+The Spot
+McDonalds
+McDonalds
+Gimnasio Chia
+Gimnasio Chia
+Dominos
+Dominos
+D1 Chia
+D1 Chia
+Cp Chia
+Cp Chia
+Casa Dos pisos
+Casa Dos pisos
+Edificio Verde
+Edificio Verde
+Choza BP
+Choza BP
+Cp Ibague
+Cp Ibague
+Casa Freddy
+Casa Freddy
+Casa SrMotes
+Casa SrMotes
+Casa Morada
+Casa Morada
+D1 Ibague
+D1 Ibague
+Edificio Amarillo
+Edificio Amarillo
+Casa techo Verde
+Casa techo Verde
+D1 Barranquilla
+D1 Barranquilla
+Cp Barranquilla
+Cp Barranquilla
+Casa Amarilla 1
+Casa Amarilla 1
+Casa Amarilla 2
+Casa Amarilla 2
+Casa Amarilla 3
+Casa Amarilla 3
+Casa Amarilla 4
+Casa Amarilla 4
+Electricaribe
+Electricaribe
+Ruta 12
+Ruta 12
+Ruta 13
+Ruta 13
+Isla Seoul
+Isla Seoul
+Isla Kokkola
+Isla Kokkola
+Iceberg On
+Iceberg On
+Bosque CP
+Bosque CP
+Pescaderia
+Pescaderia
+Cp seoul
+Cp seoul
+D1 seoul
+D1 seoul
+Gimnasio Seoul
+Gimnasio Seoul
+Casa pequeña
+Casa pequeña
+casa grande
+casa grande
+Cp kokkola
+Cp kokkola
+Casa recuerda movimientos
+Casa recuerda movimientos
+D1 kokkola
+D1 kokkola
+Gym kokkola
+Gym kokkola
+Torre Safari
+Torre Safari

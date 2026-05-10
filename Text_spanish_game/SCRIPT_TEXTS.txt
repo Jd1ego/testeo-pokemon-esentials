@@ -1,0 +1,950 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SCRIPT_TEXTS]
+Kanto Pokédex
+Kanto Pokédex
+Johto Pokédex
+Johto Pokédex
+My Game by:
+My Game by:
+Also involved were:
+Also involved were:
+Special thanks to:
+Special thanks to:
+Joder un putisimo {1} aparecio!
+Joder un putisimo {1} aparecio!
+Bandak Pokédex
+Bandak Pokédex
+Joder un putisimo {1} y {2} aparecieron!
+Joder un putisimo {1} y {2} aparecieron!
+Joder un putisimo {1}, {2} y {3} aparecieron!
+Joder un putisimo  {1}, {2} y {3} aparecieron!
+Mochila
+Mochila
+Mapa de Region
+Mapa de Region
+Guardar
+Guardar
+Opciones
+Opciones
+Salir
+Salir
+¿Estas seguro de salir del juego?
+¿Estas seguro de salir del juego?
+CANCELAR
+CANCELAR
+CONFIRMAR
+CONFIRMAR
+Sacar Objeto
+Sacar Objeto
+Dejar Objeto
+Dejar Objeto
+Tirar Objeto
+Tirar Objeto
+Sacar objetos del PC.
+Sacar objetos del PC.
+Almacenar objetos en el PC.
+Almacenar objetos en el PC.
+Descartar objetos almacenados en el PC.
+Descartar objetos almacenados en el PC.
+Volver al menú anterior.
+Volver al menú anterior.
+No hay objetos.
+No hay objetos.
+No hay ningun correo.
+No hay ningun correo.
+{1} encendió el PC.
+{1} encendió el PC.
+¿Qué quieres hacer?
+¿Qué quieres hacer?
+Almacén Objetos
+Almacén Objetos
+Buzón
+Buzón
+Desconexión
+Desconexión
+¿A qué PC quieres acceder?
+¿A qué PC quieres acceder?
+PC de {1}
+PC de {1}
+PC de Alguien
+PC de Alguien
+El Sistema de Almacenamiento Pokémon fue accedido.
+El Sistema de Almacenamiento Pokémon fue accedido.
+Mover Pokémon
+Mover Pokémon
+Sacar Pokémon
+Sacar Pokémon
+Dejar Pokémon
+Dejar Pokémon
+¡Nos vemos!
+¡Nos vemos!
+Ordena los Pokémon de las cajas y de tu equipo.
+Ordena los Pokémon de las cajas y de tu equipo.
+Pasar un Pokémon guardado en alguna caja a tu equipo.
+Pasar un Pokémon guardado en alguna caja a tu equipo.
+Guardar algun Pokémon de tu equipo en una caja.
+Guardar algun Pokémon de tu equipo en una caja.
+Regresar al menú anterior.
+Regresar al menú anterior.
+Tu equipo está lleno!
+Tu equipo está lleno!
+No puedes depositar tu último Pokémon!
+No puedes depositar tu último Pokémon!
+Se accedió al PC de {1}.
+Se accedió al PC de {1}.
+Apagar
+Apagar
+No tienes suficiente dinero.
+No tienes suficiente dinero.
+Asi que quieres {1}?<<n>>Serian ${2}. ¿Está bien?
+Asi que quieres {1}?<<n>>Serian ${2}. ¿Está bien?
+¿Cuantos {1} quieres?
+¿Cuantos {1} quieres?
+Asi que quieres {1} {2}?<<n>>Serian ${3}. ¿Está bien?
+Asi que quieres {1} {2}?<<n>>Serian ${3}. ¿Está bien?
+Aqui tiene, ¡Muchas gracias!
+Aqui tiene, ¡Muchas gracias!
+Y toma {1} {2} como obsequio!
+Y toma {1} {2} como obsequio!
+Y toma 1 {1} como obsequio!
+Y toma 1 {1} como obsequio!
+No tienes espacio en tu mochila.
+No tienes espacio en tu mochila.
+¿Cuantos {1} quieres vender?
+¿Cuantos {1} quieres vender?
+Te doy ${1}.<<n>>¿Estaría bien?
+Te doy ${1}.<<n>>¿Estaría bien?
+Vendiste {1} y conseguiste ${2}.
+Vendiste {1} y conseguiste ${2}.
+Voy a comprar
+Voy a comprar
+Voy a vender
+Voy a vender
+Nada, gracias
+Nada, gracias
+¡D1, de todos!¿Que se le ofrece?
+¡D1, de todos!¿Que se le ofrece?
+¡Vuelva pronto!
+¡Vuelva pronto!
+¿Que se le ofrece?
+¿Que se le ofrece?
+Nombre
+Nombre
+Dinero
+Dinero
+Tiempo
+Tiempo
+Empezó
+Empezó
+{1} te quiere joder la vida!
+{1} te quiere joder la vida!
+{1} y {2} te quieren joder la vida!
+{1} y {2} te quieren joder la vida!
+{1}, {2} y {3} te quieren joder la vida!
+{1}, {2} y {3} te quieren joder la vida!
+{1} envió a {2}!
+{1} envió a {2}!
+{1} enviaron a {2} y a {3}!
+{1} enviaron a {2} y a {3}!
+{1} enviaron a {2}, a {3} y a {4}!
+{1} enviaron a {2}, a {3} y a {4}!
+Dale! {1}!
+Dale! {1}!
+Dale! {1} y {2}!
+Denle! {1} y {2}!
+Dale! {1}, {2} y {3}!
+Denle! {1}, {2} y {3}!
+Hace mucho fokin sol.
+Hace mucho fokin sol.
+Cae tremendo aguacero.
+Cae tremendo aguacero.
+Conseguiste ${1} por ganar!
+Conseguiste ${1} por ganar!
+Te toco darle ${1} al ganador...
+Te toco darle ${1} al ganador...
+Derrotaste a {1}!
+Derrotaste a {1}!
+Derrootaste a {1} y a {2}!
+Derrootaste a {1} y a {2}!
+Derrotaste a {1}, a {2} y a {3}!
+Derrotaste a {1}, a {2} y a {3}!
+Te quedaste sin jodidos Pokémon para pelear!
+Te quedaste sin jodidos Pokémon para pelear!
+{1} te jodió la vida!
+{1} te jodió la vida!
+{1} y {2} te jodieron la vida!
+{1} y {2} te jodieron la vida!
+{1}, {2} y {3} te jodieron la vida!
+{1}, {2} y {3} te jodieron la vida!
+Valiste polla!
+Valiste polla!
+{1} envió a {2} y a {3}!
+{1} envió a {2} y a {3}!
+{1} envió a {2}, a {3} y a {4}!
+{1} envió a {2}, a {3} y a {4}!
+Hay alta tormenta de arena.
+Hay alta tormenta de arena.
+Nieva que te cagas.
+Nieva que te cagas.
+Derrotaste a {1} y a {2}!
+Derrotaste a {1} y a {2}!
+{1} consiguió {2} Puntos de Exp. aumentada!
+{1} consiguió {2} Puntos de Exp. aumentada!
+{1} consiguió {2} Puntos de Exp.!
+{1} consiguió {2} Puntos de Exp.!
+{1} subió a Lv. {2}!
+{1} subió a Lv. {2}!
+{1} aprendió {2}!
+{1} aprendió {2}!
+{1} quiere aprender {2}, pero ya conoce {3} movimientos.
+{1} quiere aprender {2}, pero ya conoce {3} movimientos.
+¿Deberia {1} olvidar un movimiento para aprender {2}?
+¿Deberia {1} olvidar un movimiento para aprender {2}?
+1, 2, y... ... ... Listo!
+1, 2, y... ... ... Listo!
+{1} olvidó cómo usar {2}. Y...
+{1} olvidó cómo usar {2}. Y...
+¿Rendirse en aprender {1}?
+¿Rendirse en aprender {1}?
+{1} no aprendió {2}.
+{1} no aprendió {2}.
+¡Este movimiento no tiene mas PP!
+¡Este movimiento no tiene mas PP!
+{1} tiene que usar {2}!
+{1} tiene que usar {2}!
+{1} se quedó sin movimientos!
+{1} se quedó sin movimientos!
+¡Un huevo no puede pelear!
+¡Un huevo no puede pelear!
+¡{1} no puede pelear!¡Está muerto!
+¡{1} no puede pelear!¡Está muerto!
+¡{1} ya está en pelea!
+¡{1} ya está en pelea!
+Battle
+Battle
+{1} is holding a round object...
+{1} está sostenieno un objeto redondo...
+What would you like to do?
+¿Qué te gustaría hacer?
+Play
+Jugar
+Talk
+Hablar
+{1} is shivering with the effects of being poisoned.
+{1} is shivering with the effects of being poisoned.
+{1}'s burn looks painful.
+{1}'s burn looks painful.
+{1} seems very cold. It's frozen solid!
+{1} seems very cold. It's frozen solid!
+{1} seems really tired.
+{1} seems really tired.
+{1} is standing still and twitching.
+{1} is standing still and twitching.
+{1} is touching some kind of switch.
+{1} is touching some kind of switch.
+{1} has a cord in its mouth!
+{1} has a cord in its mouth!
+{1} seems to want to touch the machinery.
+{1} seems to want to touch the machinery.
+{1} is sniffing around the room.
+{1} is sniffing around the room.
+{1} noticed {2}'s mom is nearby.
+{1} noticed {2}'s mom is nearby.
+{1} seems to want to settle down at home.
+{1} seems to want to settle down at home.
+{1} looks happy to see the nurse.
+{1} looks happy to see the nurse.
+{1} looks a little better just being in the Pokémon Center.
+{1} looks a little better just being in the Pokémon Center.
+{1} seems fascinated by the healing machinery.
+{1} seems fascinated by the healing machinery.
+{1} looks like it wants to take a nap.
+{1} looks like it wants to take a nap.
+{1} chirped a greeting at the nurse.
+{1} chirped a greeting at the nurse.
+{1} is watching {2} with a playful gaze.
+{1} is watching {2} with a playful gaze.
+{1} seems to be completely at ease.
+{1} seems to be completely at ease.
+{1} is making itself comfortable.
+{1} is making itself comfortable.
+There's a content expression on {1}'s face.
+There's a content expression on {1}'s face.
+{1} looks eager to battle!
+{1} looks eager to battle!
+{1} is looking at {2} with a determined gleam in its' eye.
+{1} is looking at {2} with a determined gleam in its' eye.
+{1} is trying to intimidate the other trainers.
+{1} is trying to intimidate the other trainers.
+{1} trusts {2} to come up with a winning strategy.
+{1} trusts {2} to come up with a winning strategy.
+{1} is keeping an eye on the gym leader.
+{1} is keeping an eye on the gym leader.
+{1} is ready to pick a fight with someone.
+{1} is ready to pick a fight with someone.
+{1} looks like it might be preparing for a big showdown!
+{1} looks like it might be preparing for a big showdown!
+{1} wants to show off how strong it is!
+{1} wants to show off how strong it is!
+{1} is...doing warm-up exercises?
+{1} is...doing warm-up exercises?
+{1} is growling quietly in contemplation...
+{1} is growling quietly in contemplation...
+{1} is staring up at the sky.
+{1} is staring up at the sky.
+The storm seems to be making {1} excited.
+The storm seems to be making {1} excited.
+{1} looked up at the sky and shouted loudly!
+{1} looked up at the sky and shouted loudly!
+The storm only seems to be energizing {1}!
+The storm only seems to be energizing {1}!
+{1} is happily zapping and jumping in circles!
+{1} is happily zapping and jumping in circles!
+The lightning doesn't bother {1} at all.
+The lightning doesn't bother {1} at all.
+The storm seems to be making {1} a bit nervous.
+The storm seems to be making {1} a bit nervous.
+The lightning startled {1}!
+The lightning startled {1}!
+The rain doesn't seem to bother {1} much.
+The rain doesn't seem to bother {1} much.
+The weather seems to be putting {1} on edge.
+The weather seems to be putting {1} on edge.
+{1} was startled by the lightning and snuggled up to {2}!
+{1} was startled by the lightning and snuggled up to {2}!
+{1} is watching the snow fall.
+{1} is watching the snow fall.
+{1} is thrilled by the snow!
+{1} is thrilled by the snow!
+{1} is staring up at the sky with a smile.
+{1} is staring up at the sky with a smile.
+The snow seems to have put {1} in a good mood.
+The snow seems to have put {1} in a good mood.
+{1} is cheerful because of the cold!
+{1} is cheerful because of the cold!
+{1} is nipping at the falling snowflakes.
+{1} is nipping at the falling snowflakes.
+{1} wants to catch a snowflake in its' mouth.
+{1} wants to catch a snowflake in its' mouth.
+{1} is fascinated by the snow.
+{1} is fascinated by the snow.
+{1}'s teeth are chattering!
+{1}'s teeth are chattering!
+{1} made its body slightly smaller because of the cold...
+{1} made its body slightly smaller because of the cold...
+{1} is watching the hail fall.
+{1} is watching the hail fall.
+{1} isn't bothered at all by the hail.
+{1} isn't bothered at all by the hail.
+The hail seems to have put {1} in a good mood.
+The hail seems to have put {1} in a good mood.
+{1} is gnawing on a piece of hailstone.
+{1} is gnawing on a piece of hailstone.
+{1} is getting pelted by hail!
+{1} is getting pelted by hail!
+{1} wants to avoid the hail.
+{1} wants to avoid the hail.
+The hail is hitting {1} painfully.
+The hail is hitting {1} painfully.
+{1} looks unhappy.
+{1} looks unhappy.
+{1} is shaking like a leaf!
+{1} is shaking like a leaf!
+{1} is coated in sand.
+{1} is coated in sand.
+The weather doesn't seem to bother {1} at all!
+The weather doesn't seem to bother {1} at all!
+The sand can't slow {1} down!
+The sand can't slow {1} down!
+{1} is enjoying the weather.
+{1} is enjoying the weather.
+{1} is coated in sand, but doesn't seem to mind.
+{1} is coated in sand, but doesn't seem to mind.
+{1} seems unbothered by the sandstorm.
+{1} seems unbothered by the sandstorm.
+The sand doesn't slow {1} down.
+The sand doesn't slow {1} down.
+{1} doesn't seem to mind the weather.
+{1} doesn't seem to mind the weather.
+{1} is covered in sand...
+{1} is covered in sand...
+{1} spat out a mouthful of sand!
+{1} spat out a mouthful of sand!
+{1} is squinting through the sandstorm.
+{1} is squinting through the sandstorm.
+The sand seems to be bothering {1}.
+The sand seems to be bothering {1}.
+{1} seems highly interested in the trees.
+{1} seems highly interested in the trees.
+{1} seems to enjoy the buzzing of the bug Pokémon.
+{1} seems to enjoy the buzzing of the bug Pokémon.
+{1} is jumping around restlessly in the forest.
+{1} is jumping around restlessly in the forest.
+{1} is wandering around and listening to the different sounds.
+{1} is wandering around and listening to the different sounds.
+{1} is munching at the grass.
+{1} is munching at the grass.
+{1} is wandering around and enjoying the forest scenery.
+{1} is wandering around and enjoying the forest scenery.
+{1} is playing around, plucking bits of grass.
+{1} is playing around, plucking bits of grass.
+{1} is staring at the light coming through the trees.
+{1} is staring at the light coming through the trees.
+{1} is playing around with a leaf!
+{1} is playing around with a leaf!
+{1} seems to be listening to the sound of rustling leaves.
+{1} seems to be listening to the sound of rustling leaves.
+{1} is standing perfectly still and might be imitating a tree...
+{1} is standing perfectly still and might be imitating a tree...
+{1} got tangled in the branches and almost fell down!
+{1} got tangled in the branches and almost fell down!
+{1} was surprised when it got hit by a branch!
+{1} was surprised when it got hit by a branch!
+{1} seems very upset the weather.
+{1} seems very upset the weather.
+{1} is shivering...
+{1} is shivering...
+{1} doesn't seem to like being all wet...
+{1} doesn't seem to like being all wet...
+{1} keeps trying to shake itself dry...
+{1} keeps trying to shake itself dry...
+{1} moved closer to {2} for comfort.
+{1} moved closer to {2} for comfort.
+{1} is looking up at the sky and scowling.
+{1} is looking up at the sky and scowling.
+{1} seems to be having difficulty moving its body.
+{1} seems to be having difficulty moving its body.
+{1} seems to be enjoying the weather.
+{1} seems to be enjoying the weather.
+{1} seems to be happy about the rain!
+{1} seems to be happy about the rain!
+{1} seems to be very surprised that it's raining!
+{1} seems to be very surprised that it's raining!
+{1} beamed happily at {2}!
+{1} beamed happily at {2}!
+{1} is gazing up at the rainclouds.
+{1} is gazing up at the rainclouds.
+Raindrops keep falling on {1}.
+Raindrops keep falling on {1}.
+{1} is looking up with its mouth gaping open.
+{1} is looking up with its mouth gaping open.
+{1} looks a bit surprised to see rain.
+{1} looks a bit surprised to see rain.
+{1} keeps trying to shake itself dry.
+{1} keeps trying to shake itself dry.
+{1} is playing in a puddle!
+{1} is playing in a puddle!
+{1} is slipping in the water and almost fell over!
+{1} is slipping in the water and almost fell over!
+{1} seems to be enjoying the scenery.
+{1} seems to be enjoying the scenery.
+{1} seems to enjoy the sound of the waves moving the sand.
+{1} seems to enjoy the sound of the waves moving the sand.
+{1} looks like it wants to swim!
+{1} looks like it wants to swim!
+{1} can barely look away from the ocean.
+{1} can barely look away from the ocean.
+{1} is staring longingly at the water.
+{1} is staring longingly at the water.
+{1} keeps trying to shove {2} towards the water.
+{1} keeps trying to shove {2} towards the water.
+{1} is excited to be looking at the sea!
+{1} is excited to be looking at the sea!
+{1} is happily watching the waves!
+{1} is happily watching the waves!
+{1} is playing on the sand!
+{1} is playing on the sand!
+{1} is staring at {2}'s footprints in the sand.
+{1} is staring at {2}'s footprints in the sand.
+{1} is rolling around in the sand.
+{1} is rolling around in the sand.
+{1} seems pleased to be out in the sunshine.
+{1} seems pleased to be out in the sunshine.
+{1} is soaking up the sunshine.
+{1} is soaking up the sunshine.
+The bright sunlight doesn't seem to bother {1} at all.
+The bright sunlight doesn't seem to bother {1} at all.
+{1} sent a ring-shaped cloud of spores into the air!
+{1} sent a ring-shaped cloud of spores into the air!
+{1} is stretched out its body and is relaxing in the sunshine.
+{1} is stretched out its body and is relaxing in the sunshine.
+{1} is giving off a floral scent.
+{1} is giving off a floral scent.
+{1} seems to be happy about the great weather!
+{1} seems to be happy about the great weather!
+{1} looks thrilled by the sunshine!
+{1} looks thrilled by the sunshine!
+{1} blew out a fireball.
+{1} blew out a fireball.
+{1} is breathing out fire!
+{1} is breathing out fire!
+{1} is hot and cheerful!
+{1} is hot and cheerful!
+{1} is glaring up at the sky.
+{1} is glaring up at the sky.
+{1} seems personally offended by the sunshine.
+{1} seems personally offended by the sunshine.
+The bright sunshine seems to bothering {1}.
+The bright sunshine seems to bothering {1}.
+{1} looks upset for some reason.
+{1} looks upset for some reason.
+{1} is trying to stay in {2}'s shadow.
+{1} is trying to stay in {2}'s shadow.
+{1} keeps looking for shelter from the sunlight.
+{1} keeps looking for shelter from the sunlight.
+{1} is squinting in the bright sunshine.
+{1} is squinting in the bright sunshine.
+{1} is starting to sweat.
+{1} is starting to sweat.
+{1} seems a little uncomfortable in this weather.
+{1} seems a little uncomfortable in this weather.
+{1} looks a little overheated.
+{1} looks a little overheated.
+{1} seems very hot...
+{1} seems very hot...
+{1} shielded its vision against the sparkling light!
+{1} shielded its vision against the sparkling light!
+{1} seems to want to play with {2}.
+{1} seems to want to play with {2}.
+{1} is singing and humming.
+{1} is singing and humming.
+{1} is looking up at {2} with a happy expression.
+{1} is looking up at {2} with a happy expression.
+{1} swayed and danced around as it pleased.
+{1} swayed and danced around as it pleased.
+{1} is jumping around in a carefree way!
+{1} is jumping around in a carefree way!
+{1} is showing off its agility!
+{1} is showing off its agility!
+{1} is moving around happily!
+{1} is moving around happily!
+Whoa! {1} suddenly started dancing in happiness!
+Whoa! {1} suddenly started dancing in happiness!
+{1} is steadily keeping up with {2}!
+{1} is steadily keeping up with {2}!
+{1} is happy skipping about.
+{1} is happy skipping about.
+{1} is playfully nibbling at the ground.
+{1} is playfully nibbling at the ground.
+{1} is playfully nipping at {2}'s feet!
+{1} is playfully nipping at {2}'s feet!
+{1} is following {2} very closely!
+{1} is following {2} very closely!
+{1} turns around and looks at {2}.
+{1} turns around and looks at {2}.
+{1} is working hard to show off its mighty power!
+{1} is working hard to show off its mighty power!
+{1} looks like it wants to run around!
+{1} looks like it wants to run around!
+{1} is wandering around enjoying the scenery.
+{1} is wandering around enjoying the scenery.
+{1} seems to be enjoying this a little bit!
+{1} seems to be enjoying this a little bit!
+{1} is cheerful!
+{1} is cheerful!
+{1} seems to be singing something?
+{1} seems to be singing something?
+{1} is dancing around happily!
+{1} is dancing around happily!
+{1} is having fun dancing a lively jig!
+{1} is having fun dancing a lively jig!
+{1} is so happy, it started singing!
+{1} is so happy, it started singing!
+{1} looked up and howled!
+{1} looked up and howled!
+{1} seems to be feeling optimistic.
+{1} seems to be feeling optimistic.
+It looks like {1} feels like dancing!
+It looks like {1} feels like dancing!
+{1} suddenly started to sing! It seems to be feeling great.
+{1} suddenly started to sing! It seems to be feeling great.
+It looks like {1} wants to dance with {2}!
+It looks like {1} wants to dance with {2}!
+{1} let out a roar!
+{1} let out a roar!
+{1} is making a face like it's angry!
+{1} is making a face like it's angry!
+{1} seems to be angry for some reason.
+{1} seems to be angry for some reason.
+{1} chewed on {2}'s feet.
+{1} chewed on {2}'s feet.
+{1} turned to face the other way, showing a defiant expression.
+{1} turned to face the other way, showing a defiant expression.
+{1} is trying to intimidate {2}'s foes!
+{1} is trying to intimidate {2}'s foes!
+{1} wants to pick a fight!
+{1} wants to pick a fight!
+{1} is ready to fight!
+{1} is ready to fight!
+It looks like {1} will fight just about anyone right now!
+It looks like {1} will fight just about anyone right now!
+{1} is growling in a way that sounds almost like speech...
+{1} is growling in a way that sounds almost like speech...
+{1} is looking down steadily.
+{1} is looking down steadily.
+{1} is sniffing around.
+{1} is sniffing around.
+{1} is concentrating deeply.
+{1} is concentrating deeply.
+{1} faced {2} and nodded.
+{1} faced {2} and nodded.
+{1} is glaring straight into {2}'s eyes.
+{1} is glaring straight into {2}'s eyes.
+{1} is surveying the area.
+{1} is surveying the area.
+{1} focused with a sharp gaze!
+{1} focused with a sharp gaze!
+{1} is looking around absentmindedly.
+{1} is looking around absentmindedly.
+{1} yawned very loudly!
+{1} yawned very loudly!
+{1} is relaxing comfortably.
+{1} is relaxing comfortably.
+{1} is focusing its attention on {2}.
+{1} is focusing its attention on {2}.
+{1} is staring intently at nothing.
+{1} is staring intently at nothing.
+{1} is concentrating.
+{1} is concentrating.
+{1} is looking at {2}'s footprints.
+{1} is looking at {2}'s footprints.
+{1} seems to want to play and is gazing at {2} expectedly.
+{1} seems to want to play and is gazing at {2} expectedly.
+{1} seems to be thinking deeply about something.
+{1} seems to be thinking deeply about something.
+{1} isn't paying attention to {2}...Seems it's thinking about something else.
+{1} isn't paying attention to {2}...Seems it's thinking about something else.
+{1} seems to be feeling serious.
+{1} seems to be feeling serious.
+{1} seems disinterested.
+{1} seems disinterested.
+{1}'s mind seems to be elsewhere.
+{1}'s mind seems to be elsewhere.
+{1} seems to be observing the surroundings instead of watching {2}.
+{1} seems to be observing the surroundings instead of watching {2}.
+{1} looks a bit bored.
+{1} looks a bit bored.
+{1} has an intense look on its face.
+{1} has an intense look on its face.
+{1} is staring off into the distance.
+{1} is staring off into the distance.
+{1} seems to be carefully examining {2}'s face.
+{1} seems to be carefully examining {2}'s face.
+{1} seems to be trying to communicate with its eyes.
+{1} seems to be trying to communicate with its eyes.
+... {1} seems to have sneezed!
+... {1} seems to have sneezed!
+... {1} noticed that {2}'s shoes are a bit dirty.
+... {1} noticed that {2}'s shoes are a bit dirty.
+Seems {1} ate something strange, it's making an odd face...
+Seems {1} ate something strange, it's making an odd face... 
+{1} seems to be smelling something good.
+{1} seems to be smelling something good.
+{1} noticed that {2}'s Bag has a little dirt on it...
+{1} noticed that {2}'s Bag has a little dirt on it...
+...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... {1} silently nodded!
+...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... {1} silently nodded!
+{1} began poking {2}.
+{1} began poking {2}.
+{1} looks very happy.
+{1} looks very happy.
+{1} happily cuddled up to {2}.
+{1} happily cuddled up to {2}.
+{1} is so happy that it can't stand still.
+{1} is so happy that it can't stand still.
+{1} looks like it wants to lead!
+{1} looks like it wants to lead!
+{1} is coming along happily.
+{1} is coming along happily.
+{1} seems to be feeling great about walking with {2}!
+{1} seems to be feeling great about walking with {2}!
+{1} is glowing with health.
+{1} is glowing with health.
+{1} put in extra effort just for {2}!
+{1} put in extra effort just for {2}!
+{1} is smelling the scents of the surounding air.
+{1} is smelling the scents of the surounding air.
+{1} is jumping with joy!
+{1} is jumping with joy!
+{1} is still feeling great!
+{1} is still feeling great!
+{1} stretched out its body and is relaxing.
+{1} stretched out its body and is relaxing.
+{1} is doing its best to keep up with {2}.
+{1} is doing its best to keep up with {2}.
+{1} is happily cuddling up to {2}!
+{1} is happily cuddling up to {2}!
+{1} is full of energy!
+{1} is full of energy!
+{1} is so happy that it can't stand still!
+{1} is so happy that it can't stand still!
+{1} gives {2} a happy look and a smile.
+{1} gives {2} a happy look and a smile.
+{1} started breathing roughly through its nose in excitement!
+{1} started breathing roughly through its nose in excitement!
+{1} is trembling with eagerness!
+{1} is trembling with eagerness!
+{1} is so happy, it started rolling around.
+{1} is so happy, it started rolling around.
+{1} looks thrilled at getting attention from {2}.
+{1} looks thrilled at getting attention from {2}.
+{1} seems very pleased that {2} is noticing it!
+{1} seems very pleased that {2} is noticing it!
+{1} started wriggling its entire body with excitement!
+{1} started wriggling its entire body with excitement!
+It seems like {1} can barely keep itself from hugging {2}!
+It seems like {1} can barely keep itself from hugging {2}!
+{1} is keeping close to {2}'s feet.
+{1} is keeping close to {2}'s feet.
+{1} suddenly started walking closer to {2}.
+{1} suddenly started walking closer to {2}.
+Woah! {1} suddenly hugged {2}.
+Woah! {1} suddenly hugged {2}.
+{1} is rubbing up against {2}.
+{1} is rubbing up against {2}.
+{1} is keeping close to {2}.
+{1} is keeping close to {2}.
+{1} blushed.
+{1} blushed.
+{1} loves spending time with {2}!
+{1} loves spending time with {2}!
+{1} is suddenly playful!
+{1} is suddenly playful!
+{1} is rubbing against {2}'s legs!
+{1} is rubbing against {2}'s legs!
+{1} is regarding {2} with adoration!
+{1} is regarding {2} with adoration!
+{1} seems to want some affection from {2}.
+{1} seems to want some affection from {2}.
+{1} seems to want some attention from {2}.
+{1} seems to want some attention from {2}.
+{1} seems happy travelling with {2}.
+{1} seems happy travelling with {2}.
+{1} seems to be feeling affectionate towards {2}.
+{1} seems to be feeling affectionate towards {2}.
+{1} is looking at {2} with loving eyes.
+{1} is looking at {2} with loving eyes.
+{1} looks like it wants a treat from {2}.
+{1} looks like it wants a treat from {2}.
+{1} looks like it wants {2} to pet it!
+{1} looks like it wants {2} to pet it!
+{1} is rubbing itself against {2} affectionately.
+{1} is rubbing itself against {2} affectionately.
+{1} bumps its head gently against {2}'s hand.
+{1} bumps its head gently against {2}'s hand.
+{1} rolls over and looks at {2} expectantly.
+{1} rolls over and looks at {2} expectantly.
+{1} is looking at {2} with trusting eyes.
+{1} is looking at {2} with trusting eyes.
+{1} seems to be begging {2} for some affection!
+{1} seems to be begging {2} for some affection!
+{1} mimicked {2}!
+{1} mimicked {2}!
+{1} spun around in a circle!
+{1} spun around in a circle!
+{1} let out a battle cry.
+{1} let out a battle cry.
+{1} is on the lookout!
+{1} is on the lookout!
+{1} is standing patiently.
+{1} is standing patiently.
+{1} is looking around restlessly.
+{1} is looking around restlessly.
+{1} is wandering around.
+{1} is wandering around.
+{1} yawned loudly!
+{1} yawned loudly!
+{1} is steadily poking at the ground around {2}'s feet.
+{1} is steadily poking at the ground around {2}'s feet.
+{1} is looking at {2} and smiling.
+{1} is looking at {2} and smiling.
+{1} is staring intently into the distance.
+{1} is staring intently into the distance.
+{1} is keeping up with {2}.
+{1} is keeping up with {2}.
+{1} looks pleased with itself.
+{1} looks pleased with itself.
+{1} is still going strong!
+{1} is still going strong!
+{1} is walking in sync with {2}.
+{1} is walking in sync with {2}.
+{1} started spinning around in circles.
+{1} started spinning around in circles.
+{1} looks at {2} with anticipation.
+{1} looks at {2} with anticipation.
+{1} fell down and looks a little embarrassed.
+{1} fell down and looks a little embarrassed.
+{1} is waiting to see what {2} will do.
+{1} is waiting to see what {2} will do.
+{1} is calmly watching {2}.
+{1} is calmly watching {2}.
+{1} is looking to {2} for some kind of cue.
+{1} is looking to {2} for some kind of cue.
+{1} is staying in place, waiting for {2} to make a move.
+{1} is staying in place, waiting for {2} to make a move.
+{1} obediently sat down at {2}'s feet.
+{1} obediently sat down at {2}'s feet.
+{1} jumped in surprise!
+{1} jumped in surprise!
+{1} jumped a little!
+{1} jumped a little!
+{1} seems to be holding something...
+{1} seems to be holding something...
+\me[{1}]{3} found some \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{3} found some \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{3} found \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{3} found \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{4} found \c[1]{2} {3}\c[0]!\wtnp[30]
+\me[{1}]{4} found \c[1]{2} {3}\c[0]!\wtnp[30]
+\me[{1}]{4} found {2} \c[1]{3}\c[0]!\wtnp[30]
+\me[{1}]{4} found {2} \c[1]{3}\c[0]!\wtnp[30]
+\me[{1}]{3} found an \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{3} found an \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{3} found a \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{3} found a \c[1]{2}\c[0]!\wtnp[30]
+You put the {1} away\<<n>>in the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
+You put the {1} away\<<n>>in the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
+{1} found some \c[1]{2}\c[0]!\wtnp[30]
+{1} found some \c[1]{2}\c[0]!\wtnp[30]
+{1} found \c[1]{2}\c[0]!\wtnp[30]
+{1} found \c[1]{2}\c[0]!\wtnp[30]
+{1} found \c[1]{2} {3}\c[0]!\wtnp[30]
+{1} found \c[1]{2} {3}\c[0]!\wtnp[30]
+{1} found {2} \c[1]{3}\c[0]!\wtnp[30]
+{1} found {2} \c[1]{3}\c[0]!\wtnp[30]
+{1} found an \c[1]{2}\c[0]!\wtnp[30]
+{1} found an \c[1]{2}\c[0]!\wtnp[30]
+{1} found a \c[1]{2}\c[0]!\wtnp[30]
+{1} found a \c[1]{2}\c[0]!\wtnp[30]
+Following Pokemon
+Following Pokemon
+Let the first Pokemon in your party follow you in the overworld.
+Let the first Pokemon in your party follow you in the overworld.
+¿Que te gustaría hacer?
+¿Que te gustaría hacer?
+{1} Está muy jodido, parece que el veneno le dio SIDA!
+{1} Está muy jodido, parece que el veneno le dio SIDA!
+{1} huele toda la habitación.
+{1} huele toda la habitación.
+{1} siente la presencia de la mamá de {2}
+{1} siente la presencia de la mamá de {2}
+{1} se siente seguro en casa
+{1} se siente seguro en casa
+{1} se ve feliz de ver a la enermera.
+{1} se ve feliz de ver a la enermera.
+{1} se siente tranquilo de estar en un Centro Pokemon.
+{1} se siente tranquilo de estar en un Centro Pokemon.
+{1} se ve facinado por la maquina de curación!
+{1} se ve facinado por la maquina de curación!
+{1} parece querer una siesta.
+{1} parece querer una siesta.
+{1} ama el cp!
+{1} ama el cp!
+{1} está mirando a {2} con emoción.
+{1} está mirando a {2} con emoción.
+{1} se siente relajado
+{1} se siente relajado
+{1} se está poniendo comodo
+{1} se está poniendo comodo
+Hay una gran sonrisa en la cara de {1}.
+Hay una gran sonrisa en la cara de {1}.
+Hablar
+Hablar
+{1} Dice: No puede hacer tanto caloooooooooooooooor!
+{1} Dice: No puede hacer tanto caloooooooooooooooor!
+Parece que {1} tiene frio, tiene hielo hasta en el culo!
+Parece que {1} tiene frio, tiene hielo hasta en el culo!  
+{1} se de cansado, Parece que hubiera salido de una clase de Carvajal
+{1} se de cansado, Parece que hubiera salido de una clase de Carvajal
+{1} está todo tieso como Stephen Hawking!
+{1} está todo tieso como Stephen Hawking!
+{1} se ve cansado, Parece que hubiera salido de una clase de Carvajal
+{1} se ve cansado, Parece que hubiera salido de una clase de Carvajal
+{1} está tocando una clase de switch.
+{1} está tocando una clase de switch.
+{1} está mordiendo un cable!
+{1} está mordiendo un cable!
+Parece que {1} quiere tocar la maquinaria.
+Parece que {1}  quiere tocar la maquinaria.
+{1} tiene ganas de pelear!
+{1} tiene ganas de pelear!
+{1} está mirando a {2} con ganas de follar.
+{1} está mirando a {2} con ganas de follar.
+{1} está tratando de intimidar a los otros entrenadores.
+{1} está tratando de intimidar a los otros entrenadores.
+{1} Confia en {2} para hacer una buena estrategia.
+{1} Confia en {2} para hacer una buena estrategia.
+{1} tiene la mirada sobre el lider de gimnasio.
+{1} tiene la mirada sobre el lider de gimnasio.
+{1} Está listo para romperse a vergazos con alguien!
+{1} Está listo para romperse a vergazos con alguien!
+{1} se caga en la gran puta!
+{1} se caga en la gran puta!
+Denle! {1} y {2}!
+Denle! {1} y {2}!
+{1} recibió {2} de {3}!
+{1} recibió {2} de {3}!
+Pero falló!
+Pero falló!
+{1} obtuvo {2}.
+{1} obtuvo {2}.
+¿Qué debería hacer {1}?
+¿Qué debería hacer {1}?
+Cambiar
+Cambiar
+Datos
+Datos
+Cancelar
+Cancelar
+¿Qué quieres hacer con {1}?
+¿Qué quieres hacer con {1}?
+Quieres ponerle un apodo a {1}?
+Quieres ponerle un apodo a {1}?
+{1} sobrevivió al envenenamiento.\<<n>>El veneno desapareció!
+{1} sobrevivió al envenenamiento.\<<n>>El veneno desapareció!
+{1} se debilitó...
+{1} se debilitó...
+Encontraste {1} \c[1]{2}\c[0]!
+Encontraste {1} \c[1]{2}\c[0]!
+Encontraste un \c[1]{1}\c[0]!
+Encontraste un \c[1]{1}\c[0]!
+Encontraste una \c[1]{1}\c[0]!
+Encontraste una \c[1]{1}\c[0]!
+Pusiste el {1} en\<<n>>tu mochila <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
+Pusiste el {1} en\<<n>>tu mochila <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
+Encontraste {1} \c[1]{2} {3}\c[0]!
+Encontraste {1} \c[1]{2} {3}\c[0]!
+Encontraste \c[1]{1} {2}\c[0]!
+Encontraste \c[1]{1} {2}\c[0]!
+Pero tu mochila está llena...
+Pero tu mochila está llena...
+Obtuviste \c[1]{1}\c[0]!
+Obtuviste \c[1]{1}\c[0]!
+Obtuviste {1} \c[1]{2} {3}\c[0]!
+Obtuviste {1} \c[1]{2} {3}\c[0]!
+Obtuviste \c[1]{1} {2}\c[0]!
+Obtuviste \c[1]{1} {2}\c[0]!
+Obtuviste {1} \c[1]{2}\c[0]!
+Obtuviste {1} \c[1]{2}\c[0]!
+Obtuviste un \c[1]{1}\c[0]!
+Obtuviste un \c[1]{1}\c[0]!
+Obtuviste una \c[1]{1}\c[0]!
+Obtuviste una \c[1]{1}\c[0]!
+¿Quieres darle un apodo a {1}?
+¿Quieres darle un apodo a {1}?
+¿Qué apodo tendrá {1}?
+¿Qué apodo tendrá {1}?
+{1} obtuvo un {2}!
+{1} obtuvo un {2}!
+La información de {1} fué añadida a la Pokédex.
+La información de {1} fué añadida a la Pokédex.
+{1} obtuvo {2}!
+{1} obtuvo {2}!
+{1} recibió un Pokémon de {2}.
+{1} recibió un Pokémon de {2}.
+{1} recibió un Pokémon.
+{1} recibió un Pokémon.
+La información del Pokémon fué añadida a la Pokédex.
+La información del Pokémon fué añadida a la Pokédex.

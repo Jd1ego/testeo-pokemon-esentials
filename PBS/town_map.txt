@@ -125,7 +125,6 @@ Point = 7,16,Ruta 10,
 Point = 6,16,Ruta 10,
 Point = 5,16,Ruta 10,
 Point = 4,16,Ciudad Barranquilla,
-
 Point = 3,16,Ciudad Barranquilla,,173,59,24,
 Point = 3,15,Ruta 11,
 Point = 3,14,Ruta 11,

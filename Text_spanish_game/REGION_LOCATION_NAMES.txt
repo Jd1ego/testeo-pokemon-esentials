@@ -1,0 +1,108 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[REGION_LOCATION_NAMES]
+Lappet Town
+Lappet Town
+Route 1
+Route 1
+Cedolan City
+Cedolan City
+Route 2
+Route 2
+Lerucean Town
+Lerucean Town
+Natural Park
+Natural Park
+Route 3
+Route 3
+Ingido Plateau
+Ingido Plateau
+Route 4
+Route 4
+Route 5
+Route 5
+Route 6
+Route 6
+Route 7
+Route 7
+Battle Frontier
+Battle Frontier
+Safari Zone
+Safari Zone
+Route 8
+Route 8
+Berth Island
+Berth Island
+Faraday Island
+Faraday Island
+Here
+Here
+Pueblo Primero
+Pueblo Primero
+Ruta 1
+Ruta 1
+Pueblo Sopó
+Pueblo Sopó
+Ruta 2
+Ruta 2
+Monte Pionono
+Monte Pionono
+Cordillera Oriental
+Cordillera Oriental
+Ruta 3
+Ruta 3
+Ciudad villavicencio
+Ciudad villavicencio
+Ruta 3a
+Ruta 3a
+Lago Norrea
+Lago Norrea
+Ruta 4
+Ruta 4
+Ruta 5
+Ruta 5
+Ciudad Bogotá
+Ciudad Bogotá
+Ruta 8
+Ruta 8
+Cordillera Central
+Cordillera Central
+Ruta 9
+Ruta 9
+Ciudad Ibagué
+Ciudad Ibagué
+Puente Ibagué
+Puente Ibagué
+SEMENterio Ibagué
+SEMENterio Ibagué
+Ruta 6
+Ruta 6
+FabLab
+FabLab
+Universidad De La Sabana
+Universidad De La Sabana
+Ruta 7
+Ruta 7
+Pueblo Chia
+Pueblo Chia
+Bosque Putrefacto
+Bosque Putrefacto
+Ruta 10
+Ruta 10
+Ciudad Barranquilla
+Ciudad Barranquilla
+Ruta 11
+Ruta 11
+Isla Seoul
+Isla Seoul
+Bosque CP
+Bosque CP
+Ruta 12
+Ruta 12
+Iceberg On
+Iceberg On
+Isla Kokkola
+Isla Kokkola
+Ruta 13
+Ruta 13
