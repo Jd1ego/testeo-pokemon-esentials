@@ -325,17 +325,16 @@ Land,11
 Land,11
     35,SHROOMISH,4,6
     30,STARLY,4,6
-    30,SENTRET,4,6
-    5,JIGGLYPUFF,5
+    25,SENTRET,4,6
+    10,IGGLYBUFF,1
 #---------------------------------
 [076] # Monte Pionono
 Land,11
-    15,ZIGZAGOON,3,5
+    20,SENTRET,3,5
     10,HOOTHOOT,3,5
-    30,WEEDLE,3,5
-    5,KAKUNA,5
-    30,WURMPLE,3,5
-    10,EKANS,3,5
+    40,WEEDLE,3,5
+    10,KAKUNA,5
+    20,EKANS,3,5
 #---------------------------------
 [097] # Cordillera Oriental
 Cave,7
@@ -361,7 +360,7 @@ Cave,7
 [126] # Ruta 3
 Land,11
     40,BUNEARY,8,10
-    40,MANKEY,8,10
+    40,MACHOP,8,10
     20,SHROOMISH,8,10
 #---------------------------------
 [128] # Ruta 3a
@@ -374,7 +373,7 @@ Land,11
 [129] # Ruta 4
 Land,11
     40,BUNEARY,8,10
-    40,MANKEY,8,10
+    40,MACHOP,8,10
     20,BELLSPROUT,8,10
 #---------------------------------
 [132] # Lago Norrea
@@ -392,11 +391,12 @@ Cave,7
     30,MAKUHITA,10,12
     30,HIPPOPOTAS,10,12
     20,ZUBAT,10,12
-    20,GEODUDE,10,12
+    10,DRILBUR,10,12
+    10,GEODUDE,10,12
 #---------------------------------
 [131] # CC sotano 1
 Cave,7
-    30,DIGLETT,10,12
+    30,DRILBUR,10,12
     20,GEODUDE,10,12
     20,ZUBAT,10,12
     10,ABSOL,10,12
@@ -404,7 +404,7 @@ Cave,7
 [133] # Ruta 5
 Land,11
     30,MAREEP,12,15
-    45,ZIGZAGOON,12,15
+    45,ZANGOOSE,12,15
     10,COMBEE,12,15
     10,ABRA,10
     5,JIGGLYPUFF,12,15
@@ -438,7 +438,7 @@ Land,11
 #---------------------------------
 [135] # FabLab
 Land,11
-    30,SHINX,18,22
+    30,ZANGOOSE,18,22
     20,MAREEP,18,22
     15,MAGNEMITE,18,22
     25,FURRET,22
@@ -448,8 +448,170 @@ Land,11
 Land,11
     28,HOUNDOUR,22
     2,HOUNDOOM,25
-    30,BUNEARY,22,25
+    30,FOONGUS,22,25
     18,NIDORANfE,22
     18,NIDORANmA,22
     2,NIDORINA,24
     2,NIDORINO,24
+#---------------------------------
+[158] # Bosque Putrefacto
+Land,11
+    25,SEEDOT,24
+    5,NUZLEAF,26
+    10,GRIMER,24,26
+    8,EKANS,22
+    2,ARBOK,26
+    30,FOONGUS,24,26
+    8,NIDORANfE,24,26
+    8,NIDORANmA,24,26
+    2,NIDORINA,24,26
+    2,NIDORINO,24,26
+#---------------------------------
+[159] # Ruta 8
+Land,11
+    20,SPOINK,25,27
+    30,STARAVIA,25,27
+    30,COTTONEE,25,27
+    20,GROWLITHE,25,27
+#---------------------------------
+[164] # Cordillera Occidental
+Cave,7
+    25,NUMEL,26,28
+    15,CUBONE,26,28
+    20,NOSEPASS,26,28
+    10,ZUBAT,26
+    5,GOLBAT,28
+    15,JOLTIK,26
+    5,PARASECT,28
+    5,ARON,28
+#---------------------------------
+[160] # Ruta 9
+Land,11
+    35,NOCTOWL,27,29
+    20,GOTHITA,25
+    30,HOUNDOUR,27
+    5,HOUNDOOM,29
+    10,NUZLEAF,27,29
+#---------------------------------
+[170] # Ruta 9 Cueva
+Land,11
+    50,ARON,27,29
+    25,NOSEPASS,25
+    25,JOLTIK,27
+#---------------------------------
+[171] # Puente Ibagué
+Cave,7
+    35,GASTLY,20
+    45,LITWICK,25
+    20,DRIFLOON,25
+#---------------------------------
+[172] # Sementerio Ibagué
+Cave,7
+    35,GASTLY,20
+    45,SPIRITOMB,25
+    20,DRIFLOON,25
+#---------------------------------
+[166] # Ruta 10 Pendiente
+Land,11
+    20,FURRET,27,29
+    30,SWABLU,27,29
+    30,EXEGGCUTE,27,29
+    20,COTTONEE,27,29
+#---------------------------------
+[173] # Ciudad Barranquilla
+Water,5
+    40,TENTACOOL,28
+    5,TENTACRUEL,30
+    25,TANGELA,28,30
+    20,HORSEA,28,30
+    10,WAILMER,28,30
+GoodRod
+    50,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    5,TENTACOOL,28,30
+#---------------------------------
+[162] # Ruta 11
+Water,5
+    40,TENTACOOL,28
+    5,TENTACRUEL,30
+    25,TANGELA,28,30
+    20,HORSEA,28,30
+    10,WAILMER,28,30
+GoodRod
+    50,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    5,TENTACOOL,28,30
+#---------------------------------
+[200] # Ruta 12
+Water,5
+    20,TENTACOOL,28
+    5,TENTACRUEL,30
+    20,TANGELA,28,30
+    20,HORSEA,28,30
+    35,SPHEAL,28,30
+GoodRod
+    10,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    45,SPHEAL,28,30
+#---------------------------------
+[202] # Isla Seoul
+Water,5
+    40,TENTACOOL,28
+    5,TENTACRUEL,30
+    25,TANGELA,28,30
+    20,HORSEA,28,30
+    10,WAILMER,28,30
+GoodRod
+    50,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    5,TENTACOOL,28,30
+#---------------------------------
+[205] # Bosque CP
+Land,11
+    30,DROWZEE,30,32
+    15,FOONGUS,30
+    10,WEEPINBELL,32
+    10,VESPIQUEN,30,32
+    20,SCYTHER,30,32
+    15,JOLTIK,30,32
+Water,5
+    40,TENTACOOL,28
+    5,TENTACRUEL,30
+    25,TANGELA,28,30
+    20,HORSEA,28,30
+    10,WAILMER,28,30
+GoodRod
+    50,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    5,TENTACOOL,28,30
+#---------------------------------
+[203] # Isla Kokkola
+Water,5
+    20,TENTACOOL,28
+    5,TENTACRUEL,30
+    20,TANGELA,28,30
+    20,SEADRA,30
+    35,SPHEAL,28,30
+GoodRod
+    10,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    45,SPHEAL,28,30
+#---------------------------------
+[201] # Ruta 13
+Water,5
+    20,TENTACOOL,28
+    5,TENTACRUEL,30
+    20,TANGELA,28,30
+    20,SEADRA,30
+    35,SPHEAL,28,30
+GoodRod
+    10,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    45,SPHEAL,28,30
+#---------------------------------
+[204] # IcebergOn
+Cave,7
+    35,SWINUB,30,32
+    35,SPHEAL,30,32
+    15,SNEASEL,30,32
+    15,DRUDDIGON,30,32

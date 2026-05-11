@@ -415,8 +415,15 @@ BaseMoney = 100
 BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
 VictoryBGM = HGSS 144 Victory! (Gym Leader)
 #-------------------------------
-[LEADER_JuanjoTrack]
-Name = Líderes de gimnasio
+[LEADER_Juanjo]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Track]
+Name = Líder de gimnasio
 Gender = Male
 BaseMoney = 100
 BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
@@ -570,3 +577,14 @@ Name = Psiquica
 Gender = Female
 BaseMoney = 36
 IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[KARATEKA]
+Name = Karateka
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[DUOFUERTE]
+Name = Pareja joven
+Gender = Unknown
+BaseMoney = 32

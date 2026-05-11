@@ -720,20 +720,24 @@ LoseText = Me voy a volver loca...
 Pokemon = HOUNDOOM,22
 Pokemon = RALTS,22
 #-------------------------------
-[LEADER_JuanjoTrack, Juanjo & Track]
+[LEADER_Juanjo, Juanjo]
 Items = HYPERPOTION
 LoseText = Basuron mesopotamico...
-Pokemon = HOUNDOUR,24
-    Moves = THIEF,TAUNT,SMOG,ROAR
-    IV = 20,20,20,20,20,20
 Pokemon = KIRLIA,24
     Moves = PSYCHIC,LIFEDEW,DRAININGKISS,DOUBLETEAM
     IV = 20,20,20,20,20,20
-Pokemon = SNEASEL,26
-    Moves = THIEF,ICYWIND,QUICKATTACK,METALCLAW
-    IV = 20,20,20,20,20,20
 Pokemon = KADABRA,26
     Moves = PSYCHIC,RECOVER,DISABLE,REFLECT
+    IV = 20,20,20,20,20,20
+    #-------------------------------
+[LEADER_Track, Track]
+Items = HYPERPOTION
+LoseText = Ostia...
+Pokemon = HOUNDOUR,24
+    Moves = THIEF,TAUNT,SMOG,ROAR
+    IV = 20,20,20,20,20,20
+Pokemon = SNEASEL,26
+    Moves = THIEF,ICYWIND,QUICKATTACK,METALCLAW
     IV = 20,20,20,20,20,20
 Pokemon = ABSOL,26
     Moves = THIEF,SLASH,DETECT,DOUBLETEAM
