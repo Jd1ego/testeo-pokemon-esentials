@@ -454,9 +454,11 @@ Name = Escuela de música
 MapPosition = 2,15,4
 #-------------------------------
 [081]   # Casa naranja
+Name = Casa naranja
 MapPosition = 2,15,4
 #-------------------------------
 [082]   # Casa azul
+Name = Casa azul
 MapPosition = 2,15,4
 #-------------------------------
 [083]   # CP Sopó
@@ -466,44 +468,57 @@ MapPosition = 2,15,4
 Flags = PokeCenter
 #-------------------------------
 [084]   # D1 Sopó
+Name = D1 Sopó
 MapPosition = 2,15,4
 #-------------------------------
 [085]   # Casa gris
+Name = Casa gris
 MapPosition = 2,15,4
 #-------------------------------
 [086]   # Gym Sopó
+Name = Gym Sopó
 MapPosition = 2,15,4
 #-------------------------------
 [087]   # Casa azul
+Name = Casa azul
 MapPosition = 2,25,9
 #-------------------------------
 [088]   # Casa verde
+Name = Casa verde
 MapPosition = 2,25,9
 #-------------------------------
 [089]   # Gym Villavicencio
+Name = Gym Villavicencio
 MapPosition = 2,25,9
 #-------------------------------
 [090]   # D1 Villavicencio
+Name = D1 Villavicencio
 MapPosition = 2,25,9
 #-------------------------------
 [091]   # CP Villavicencio
+Name = CP Villavicencio
 HealingSpot = 77,29,23
 MapPosition = 2,25,9
 Flags = PokeCenter
 #-------------------------------
 [092]   # Casa ladrillos
+Name = Casa ladrillos
 MapPosition = 2,25,9
 #-------------------------------
 [093]   # Cabaña de ponyta
+Name = Cabaña de ponyta
 MapPosition = 2,25,9
 #-------------------------------
 [094]   # Edificio 1
+Name = Edificio 1
 MapPosition = 2,25,9
 #-------------------------------
 [095]   # Edificio 2
+Name = Edificio 2
 MapPosition = 2,25,9
 #-------------------------------
 [096]   # Edificio 3
+Name = Edificio 3
 MapPosition = 2,25,9
 #-------------------------------
 [097]   # Cordillera Oriental
@@ -512,9 +527,11 @@ ShowArea = true
 MapPosition = 2,23,4
 #-------------------------------
 [098]   # CO Sotano 1
+Name = CO Sotano 1
 MapPosition = 2,25,4
 #-------------------------------
 [099]   # CO Sotano 2
+Name = CO Sotano 2
 MapPosition = 2,25,5
 #-------------------------------
 [100]   # Casa del Rival
@@ -526,77 +543,101 @@ Name = Choza
 MapPosition = 2,11,4
 #-------------------------------
 [102]   # CP Bogotá
+Name = CP Bogotá
 HealingSpot = 79,37,54
 MapPosition = 2,14,12
 Flags = PokeCenter
 #-------------------------------
 [103]   # D1 Bogotá
+Name = D1 Bogotá
 MapPosition = 2,15,12
 #-------------------------------
 [104]   # Torre Colpatria
+Name = Torre Colpatria
 MapPosition = 2,15,12
 #-------------------------------
 [105]   # Torre Colpatria P2
+Name = Torre Colpatria P2
 MapPosition = 2,15,12
 #-------------------------------
 [106]   # Edificio
+Name = Edificio
 MapPosition = 2,15,12
 #-------------------------------
 [107]   # Tienda de Bici
+Name = Tienda de Bici
 MapPosition = 2,15,13
 #-------------------------------
 [108]   # Casa Verde Sur 1
+Name = Casa Verde Sur 1
 MapPosition = 2,15,13
 #-------------------------------
 [109]   # Casa Verde Sur 2
+Name = Casa Verde Sur 2
 MapPosition = 2,15,13
 #-------------------------------
 [110]   # Casa Amarilla Sur
+Name = Casa Amarilla Sur
 MapPosition = 2,13,13
 #-------------------------------
 [111]   # Casino
+Name = Casino
 MapPosition = 2,13,12
 #-------------------------------
 [112]   # CC Unicentro
+Name = CC Unicentro
 MapPosition = 2,14,12
 #-------------------------------
 [113]   # Museo La Banda
+Name = Museo La Banda
 MapPosition = 2,14,11
 #-------------------------------
 [114]   # Gym Bogotá
+Name = Gym Bogotá
 MapPosition = 2,13,12
 #-------------------------------
 [115]   # Tienda de musica
+Name = Tienda de musica
 MapPosition = 2,14,13
 #-------------------------------
 [116]   # Casa de Lasprilla
+Name = Casa de Lasprilla
 MapPosition = 2,14,11
 #-------------------------------
 [117]   # Casa Naranja Norte
+Name = Casa Naranja Norte
 MapPosition = 2,14,11
 #-------------------------------
 [118]   # Casa Verde Norte
+Name = Casa Verde Norte
 MapPosition = 2,15,11
 #-------------------------------
 [119]   # Casa Lujosa 1
+Name = Casa Lujosa 1
 MapPosition = 2,15,11
 #-------------------------------
 [120]   # Casa Lujosa 2
+Name = Casa Lujosa 2
 MapPosition = 2,15,11
 #-------------------------------
 [121]   # Casa de Arci
+Name = Casa de Arci
 MapPosition = 2,15,11
 #-------------------------------
 [122]   # Casa de Arci P2
+Name = Casa de Arci P2
 MapPosition = 2,15,11
 #-------------------------------
 [123]   # Casa de Arci P3
+Name = Casa de Arci P3
 MapPosition = 2,15,11
 #-------------------------------
 [124]   # Casa de Arci Piscina
+Name = Casa de Arci Piscina
 MapPosition = 2,15,11
 #-------------------------------
 [125]   # Casa Lujosa 3
+Name = Casa Lujosa 3
 MapPosition = 2,15,11
 #-------------------------------
 [126]   # Ruta 3
@@ -606,6 +647,7 @@ ShowArea = true
 MapPosition = 2,25,7
 #-------------------------------
 [127]   # Peaje Ruta 2
+Name = Peaje Ruta 2
 MapPosition = 2,19,4
 #-------------------------------
 [128]   # Ruta 3a
@@ -627,6 +669,7 @@ MapPosition = 2,24,12
 DarkMap = true
 #-------------------------------
 [131]   # CC sotano 1
+Name = CC sotano 1
 MapPosition = 2,20,12
 DarkMap = true
 #-------------------------------
@@ -723,18 +766,23 @@ Name = Edificio AdPortas
 MapPosition = 2,12,7
 #-------------------------------
 [150]   # Laboratorio
+Name = Laboratorio
 MapPosition = 2,17,8
 #-------------------------------
 [151]   # Laboratorio 2
+Name = Laboratorio 2
 MapPosition = 2,17,8
 #-------------------------------
 [152]   # Peaje Villavicencio-3A
+Name = Peaje Villavicencio-3A
 MapPosition = 2,26,9
 #-------------------------------
 [153]   # Caseta Subterrateo
+Name = Caseta Subterrateo
 MapPosition = 2,14,10
 #-------------------------------
 [154]   # Peaje Bogotá - 6
+Name = Peaje Bogotá - 6
 MapPosition = 2,14,10
 #-------------------------------
 [155]   # Chia
@@ -745,9 +793,11 @@ Weather = Rain,30
 MapPosition = 2,9,8
 #-------------------------------
 [156]   # Casa Caña
+Name = Casa Caña
 MapPosition = 2,28,13
 #-------------------------------
 [157]   # Casa Flash
+Name = Casa Flash
 MapPosition = 2,28,13
 #-------------------------------
 [158]   # Bosque Putrefacto
@@ -807,6 +857,7 @@ BicycleAlways = true
 MapPosition = 2,8,15
 #-------------------------------
 [167]   # Ruta 10 Peaje
+Name = Ruta 10 Peaje
 MapPosition = 2,12,13
 #-------------------------------
 [168]   # Ruta 10 CR Fin
@@ -817,6 +868,7 @@ BicycleAlways = true
 MapPosition = 2,6,16
 #-------------------------------
 [169]   # Ruta 10 Peaje Salida
+Name = Ruta 10 Peaje Salida
 MapPosition = 2,5,16
 #-------------------------------
 [170]   # Ruta 9 cueva
@@ -825,7 +877,9 @@ ShowArea = true
 MapPosition = 2,15,18
 #-------------------------------
 [171]   # Puente
+Name = Puente
 Outdoor = true
+Weather = Fog,100
 MapPosition = 2,12,18
 #-------------------------------
 [172]   # SEMENterio
@@ -847,9 +901,11 @@ ShowArea = true
 MapPosition = 2,5,16
 #-------------------------------
 [175]   # Caseta subterraneo 
+Name = Caseta subterraneo 
 MapPosition = 2,17,8
 #-------------------------------
 [176]   # Choza R7
+Name = Choza R7
 MapPosition = 2,10,8
 #-------------------------------
 [177]   # Spot
@@ -858,6 +914,7 @@ ShowArea = true
 MapPosition = 2,9,8
 #-------------------------------
 [178]   # McDonalds
+Name = McDonalds
 MapPosition = 2,9,8
 #-------------------------------
 [179]   # Gym Chia
@@ -866,9 +923,11 @@ ShowArea = true
 MapPosition = 2,9,8
 #-------------------------------
 [180]   # Dominos
+Name = Dominos
 MapPosition = 2,9,8
 #-------------------------------
 [181]   # D1 Chia
+Name = D1 Chia
 MapPosition = 2,9,8
 #-------------------------------
 [182]   # Cp Chia
@@ -878,56 +937,71 @@ MapPosition = 2,9,8
 Flags = PokeCenter
 #-------------------------------
 [183]   # Casa Dos pisos
+Name = Casa Dos pisos
 MapPosition = 2,9,8
 #-------------------------------
 [184]   # Edificio Verde
+Name = Edificio Verde
 MapPosition = 2,9,8
 #-------------------------------
 [185]   # Choza BP
+Name = Choza BP
 MapPosition = 2,9,11
 #-------------------------------
 [186]   # Cp Ibague
-Name = 
+Name = Cp Ibague
 HealingSpot = 163,43,20
 MapPosition = 2,13,18
 Flags = PokeCenter
 #-------------------------------
 [187]   # Casa Freddy
+Name = Casa Freddy
 MapPosition = 2,13,18
 #-------------------------------
 [188]   # Casa SrMotes
+Name = Casa SrMotes
 MapPosition = 2,13,18
 #-------------------------------
 [189]   # Casa Morada
+Name = Casa Morada
 MapPosition = 2,13,18
 #-------------------------------
 [190]   # D1 Ibague
+Name = D1 Ibague
 MapPosition = 2,13,18
 #-------------------------------
 [191]   # Edificio Amarillo
+Name = Edificio Amarillo
 MapPosition = 2,13,18
 #-------------------------------
 [192]   # Casa techo Verde
+Name = Casa techo Verde
 MapPosition = 2,13,18
 #-------------------------------
 [193]   # D1 Barranquilla
+Name = D1 Barranquilla
 MapPosition = 2,4,16
 #-------------------------------
 [194]   # Cp Barranquilla
+Name = Cp Barranquilla
 HealingSpot = 173,59,24
 MapPosition = 2,4,16
 Flags = PokeCenter
 #-------------------------------
 [195]   # Casa Amarilla 1
+Name = Casa Amarilla 1
 MapPosition = 2,4,16
 #-------------------------------
 [196]   # Casa Amarilla 2
+Name = Casa Amarilla 2
 MapPosition = 2,4,16
 #-------------------------------
 [197]   # Casa Amarilla 3
+Name = Casa Amarilla 3
 MapPosition = 2,4,16
 #-------------------------------
 [198]   # Casa Amarilla 4
+Name = Casa Amarilla 4
 MapPosition = 2,4,16
 #-------------------------------
 [199]   # Electricaribe
@@ -972,14 +1046,17 @@ ShowArea = true
 MapPosition = 2,1,11
 #-------------------------------
 [206]   # Pescaderia
+Name = Pescaderia
 MapPosition = 2,3,11
 #-------------------------------
 [207]   # Cp seoul
+Name = Cp seoul
 HealingSpot = 202,30,21
 MapPosition = 2,3,11
 Flags = PokeCenter
 #-------------------------------
 [208]   # D1 seoul
+Name = D1 seoul
 MapPosition = 2,3,11
 #-------------------------------
 [209]   # Gyn seoul
@@ -987,23 +1064,29 @@ Name = Gimnasio Seoul
 MapPosition = 2,3,11
 #-------------------------------
 [210]   # Casa pequeña
+Name = Casa pequeña
 MapPosition = 2,3,11
 #-------------------------------
 [211]   # casa grande
+Name = casa grande
 MapPosition = 2,3,11
 #-------------------------------
 [212]   # Cp kokkola
+Name = Cp kokkola
 HealingSpot = 203,16,20
 MapPosition = 2,3,6
 Flags = PokeCenter
 #-------------------------------
 [213]   # Casa recuerda movimientos
+Name = Casa recuerda movimientos
 MapPosition = 2,3,6
 #-------------------------------
 [214]   # D1 kokkola
+Name = D1 kokkola
 MapPosition = 2,3,6
 #-------------------------------
 [215]   # Gym kokkola
+Name = Gym kokkola
 MapPosition = 2,3,6
 #-------------------------------
 [216]   # Torre safari

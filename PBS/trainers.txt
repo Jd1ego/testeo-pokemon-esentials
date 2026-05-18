@@ -742,3 +742,8 @@ Pokemon = SNEASEL,26
 Pokemon = ABSOL,26
     Moves = THIEF,SLASH,DETECT,DOUBLETEAM
     IV = 20,20,20,20,20,20
+#-------------------------------
+[POKEMONTRAINER_Fredy,Fredy]
+LoseText = ...
+Pokemon = GENGAR,30
+Pokemon = SPIRITOMB,30

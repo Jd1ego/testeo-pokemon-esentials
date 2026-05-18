@@ -20,6 +20,11 @@ Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
 #-------------------------------
+[POKEMONTRAINER_Fredy]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
 [RIVAL2]
 Name = Rival
 Gender = Male
