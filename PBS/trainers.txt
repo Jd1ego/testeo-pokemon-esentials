@@ -156,7 +156,7 @@ Pokemon = EKANS,9
     Moves = LEER,WRAP,POISONSTING,BITE
 #-------------------------------
 [CAZABICHOS,Lucas]
-LoseText = ¿Perdi? Noooo, no se vale!
+LoseText = Nooo!
 Pokemon = WEEDLE,5
 Pokemon = WEEDLE,5
 #-------------------------------
@@ -210,7 +210,7 @@ LoseText = Osea... ¿¿En serio me ganaste!? Qué paila...
 Pokemon = JIGGLYPUFF,9
 #-------------------------------
 [CHICA,Sara]
-LoseText = Osea... ¿¿En serio me ganaste!? Qué paila...
+LoseText = Que grosero...
 Pokemon = SENTRET,9
 #-------------------------------
 [CHICA,Sofía]
@@ -747,3 +747,28 @@ Pokemon = ABSOL,26
 LoseText = ...
 Pokemon = GENGAR,30
 Pokemon = SPIRITOMB,30
+#-------------------------------
+[EXORCISTA, Yurisei]
+LoseText = El diablo...
+Pokemon = HAUNTER,30
+Pokemon = LITWICK,30
+#-------------------------------
+[EXORCISTA, Dolores]
+LoseText = Sal de aqui!
+Pokemon = HAUNTER,30
+Pokemon = DRIFBLIM,30
+#-------------------------------
+[EXORCISTA, Deborah]
+LoseText = Deja de profanar maldita puta...
+Pokemon = HAUNTER,30
+Pokemon = DRIFBLIM,30
+#-------------------------------
+[HIJUEPUTA1, Juan]
+LoseText = Gonorrea...
+Pokemon = DRIFBLIM,32
+Pokemon = HAUNTER,32
+#-------------------------------
+[HIJUEPUTA2, Perez]
+LoseText = Bueno! Ya le devolvemos su chimbada...
+Pokemon = SPIRITOMB,32
+Pokemon = HAUNTER,32

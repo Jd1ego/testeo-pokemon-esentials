@@ -593,3 +593,21 @@ IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 Name = Pareja joven
 Gender = Unknown
 BaseMoney = 32
+#-------------------------------
+[EXORCISTA]
+Name = Exorcista
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[HIJUEPUTA1]
+Name = Hijueputa
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[HIJUEPUTA2]
+Name = Hijueputa
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
