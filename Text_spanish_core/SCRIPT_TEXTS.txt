@@ -45,23 +45,23 @@ diez
 eleven
 once
 twelve
-twelve
+doce
 thirteen
-thirteen
+trece
 fourteen
-fourteen
+catorce
 fifteen
-fifteen
+quince
 sixteen
-sixteen
+dieciseis
 seventeen
-seventeen
+diecisiete
 eighteen
-eighteen
+dieciocho
 nineteen
-nineteen
+diecinueve
 twenty
-twenty
+veinte
 The default core messages file "messages_core.dat" was not found.
 The default core messages file "messages_core.dat" was not found.
 The default game messages file "messages_game.dat" was not found.
@@ -137,287 +137,287 @@ Field {1} is not a positive integer
 ${1}
 ${1}
 Money:<<n>><ar>{1}</ar>
-Money:<<n>><ar>{1}</ar>
+Dinero:<<n>><ar>{1}</ar>
 Coins:<<n>><ar>{1}</ar>
-Coins:<<n>><ar>{1}</ar>
+Monedas:<<n>><ar>{1}</ar>
 Battle Points:<<n>><ar>{1}</ar>
-Battle Points:<<n>><ar>{1}</ar>
+Puntos de Batalla:<<n>><ar>{1}</ar>
 Yes
 Sí
 No
 No
 Medium
-Medium
+Medio
 Erratic
-Erratic
+Erratico
 Fluctuating
-Fluctuating
+Fluctuante
 Parabolic
-Parabolic
+Parabolico
 Fast
-Fast
+Rápido
 Slow
-Slow
+Lento
 Always Male
-Always Male
+Siempre Macho
 Always Female
-Always Female
+Siempre Hembra
 Genderless
-Genderless
+Sin Genero
 Female One Eighth
-Female One Eighth
+Hembra 1/8
 Female 25 Percent
-Female 25 Percent
+hembra 25 porciento
 Female 50 Percent
-Female 50 Percent
+hembra 50 porciento
 Female 75 Percent
-Female 75 Percent
+Hembra 75 porciento
 Female Seven Eighths
-Female Seven Eighths
+Hembra 7/8
 Undiscovered
-Undiscovered
+Sin descubrir
 Monster
-Monster
+Monstruo
 Water 1
-Water 1
+Agua 1
 Bug
-Bug
+Bicho
 Flying
-Flying
+Volador
 Field
-Field
+Tierra
 Fairy
-Fairy
+Hada
 Grass
-Grass
+Planta
 Humanlike
-Humanlike
+Humanoide
 Water 3
-Water 3
+Agua 3
 Mineral
 Mineral
 Amorphous
-Amorphous
+Amorfo
 Water 2
-Water 2
+Agua 2
 Ditto
 Ditto
 Dragon
 Dragon
 Head
-Head
+Cabeza
 Serpentine
-Serpentine
+Serpentina
 Finned
 Finned
 Head and arms
-Head and arms
+cabeza y Brazos
 Head and base
 Head and base
 Bipedal with tail
 Bipedal with tail
 Head and legs
-Head and legs
+Cabeza y piernas
 Quadruped
-Quadruped
+Cuadrupedo
 Winged
-Winged
+Alado
 Multiped
 Multiped
 Multi Body
-Multi Body
+Multi cuerpo
 Bipedal
 Bipedal
 Multi Winged
-Multi Winged
+Multi Alado
 Insectoid
-Insectoid
+Insectoide
 Red
-Red
+Rojo
 Blue
-Blue
+Azul
 Yellow
-Yellow
+Amarillo
 Green
-Green
+Verde
 Black
-Black
+Negro
 Brown
-Brown
+Café
 Purple
-Purple
+Morado
 Gray
-Gray
+Gris
 White
-White
+Blanco
 Pink
-Pink
+Rosa
 None
 Ninguno
 Grassland
 Grassland
 Forest
-Forest
+Bosque
 Water's Edge
-Water's Edge
+Borde del Agua
 Sea
-Sea
+Mar
 Cave
-Cave
+Cueva
 Mountain
-Mountain
+Montaña
 Rough Terrain
-Rough Terrain
+Terreno Accidentado
 Urban
-Urban
+Urbano
 Rare
-Rare
+Raro
 HP
-HP
+PV
 Attack
-Attack
+Ataque
 Atk
-Atk
+Atq
 Defense
-Defense
+Defensa
 Def
 Def
 Special Attack
-Special Attack
+Ataque Especial
 SpAtk
-SpAtk
+EspAtq
 Special Defense
-Special Defense
+Defensa Especial
 SpDef
-SpDef
+EspDef
 Speed
-Speed
+velocidad
 Spd
-Spd
+Vel
 accuracy
-accuracy
+Puntería
 Acc
-Acc
+Pun
 evasiveness
-evasiveness
+evasividad
 Eva
 Eva
 Hardy
-Hardy
+Resistencia
 Lonely
-Lonely
+Solitario
 Brave
-Brave
+valiente
 Adamant
-Adamant
+Intransigente
 Naughty
-Naughty
+Travieso
 Bold
-Bold
+Audaz
 Docile
-Docile
+Dócil
 Relaxed
-Relaxed
+Tranquilo
 Impish
-Impish
+Pícaro
 Lax
-Lax
+Descuidado
 Timid
-Timid
+Timido
 Hasty
-Hasty
+Precipitado
 Serious
-Serious
+Serio
 Jolly
-Jolly
+Alegre
 Naive
-Naive
+Ingenuo
 Modest
-Modest
+Modesto
 Mild
-Mild
+Leve
 Quiet
-Quiet
+Callado
 Bashful
-Bashful
+Tímido
 Rash
-Rash
+sarpullido
 Calm
-Calm
+Calmado
 Gentle
-Gentle
+Gentil
 Sassy
-Sassy
+Descarado
 Careful
-Careful
+Cuidadoso
 Quirky
-Quirky
+Peculiar
 Sleep
-Sleep
+Dormir
 Poison
-Poison
+Veneno
 Burn
-Burn
+Quemadura
 Paralysis
-Paralysis
+Paralisis
 Frozen
-Frozen
+Congelado
 Tall grass
-Tall grass
+Hierba Alta
 Moving water
-Moving water
+Agua en movimiento
 Still water
-Still water
+Agua en reposo
 Puddle
-Puddle
+charco
 Underwater
-Underwater
+Bajo el agua
 Rock
-Rock
+Roca
 Sand
-Sand
+Arena
 Forest grass
-Forest grass
+Hierba del bosque
 Snow
-Snow
+Nieve
 Ice
-Ice
+Hielo
 Volcano
-Volcano
+Volcan
 Graveyard
-Graveyard
+Cementerio
 Sky
-Sky
+Cielo
 Space
-Space
+Espacio
 Ultra Space
-Ultra Space
+Ultra Espacio
 Sun
-Sun
+Sol
 Rain
-Rain
+Lluvia
 Sandstorm
-Sandstorm
+Tormenta de arena
 Hail
-Hail
+Granizo
 Harsh Sun
-Harsh Sun
+Sol abrasador
 Heavy Rain
-Heavy Rain
+Lluvia intensa
 Strong Winds
-Strong Winds
+Vientos fuertes
 Shadow Sky
-Shadow Sky
+Cielo sombrío
 Electric
-Electric
+Eléctrico
 Grassy
-Grassy
+Con hierba
 Misty
-Misty
+Nublada
 Psychic
-Psychic
+Vidente
 User
-User
+Usuario
 Near Ally
 Near Ally
 User or Near Ally
