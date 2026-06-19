@@ -118,7 +118,7 @@ Pokemon = TURTWIG,5
 #-------------------------------
 [RIVAL1,Blue,4]
 LoseText = Bueno, fue una buena pelea...
-Pokemon = CYNDAQUIL
+Pokemon = CYNDAQUIL,12
 Pokemon = SENTRET,10
 Pokemon = BEEDRILL,10
 #-------------------------------
