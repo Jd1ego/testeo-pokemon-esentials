@@ -2,7 +2,7 @@
 #-------------------------------
 [CAMPER,Liam]
 LoseText = A very good battle, indeed!
-Pokemon = DIGLETT,10
+Pokemon = HIPPOPOTAS,10
 Pokemon = BONSLY,11
 #-------------------------------
 [LEADER_Brock,Brock]
@@ -106,32 +106,32 @@ Pokemon = PICHU,5
 #-------------------------------
 [RIVAL1,Blue,1]
 LoseText = Noooo, parece que escogiste la mejor opción inicial.
-Pokemon = ARON,5
+Pokemon = CYNDAQUIL,5
 #-------------------------------
 [RIVAL1,Blue,2]
 LoseText = Noooo, parece que escogiste la mejor opción inicial.
-Pokemon = TOGEPI,5
+Pokemon = SQUIRTLE,5
 #-------------------------------
 [RIVAL1,Blue,3]
 LoseText = Noooo, parece que escogiste la mejor opción inicial.
-Pokemon = MACHOP,5
+Pokemon = TURTWIG,5
 #-------------------------------
 [RIVAL1,Blue,4]
 LoseText = Bueno, fue una buena pelea...
-Pokemon = ARON,12
-Pokemon = ZIGZAGOON,10
+Pokemon = CYNDAQUIL
+Pokemon = SENTRET,10
 Pokemon = BEEDRILL,10
 #-------------------------------
 [RIVAL1,Blue,5]
 LoseText = Bueno, fue una buena pelea...
-Pokemon = TOGEPI,12
-Pokemon = ZIGZAGOON,10
+Pokemon = SQUIRTLE,12
+Pokemon = SENTRET,10
 Pokemon = BEEDRILL,10
 #-------------------------------
 [RIVAL1,Blue,6]
 LoseText = Bueno, fue una buena pelea...
-Pokemon = MACHOP,12
-Pokemon = ZIGZAGOON,10
+Pokemon = TURTWIG,12
+Pokemon = SENTRET,10
 Pokemon = BEEDRILL,10
 #-------------------------------
 [CHICO,Paco]
@@ -140,7 +140,7 @@ Pokemon = STARLY,5
 #-------------------------------
 [CHICO,Albertito]
 LoseText = Uy no, paila... perdí.
-Pokemon = ZIGZAGOON,5
+Pokemon = SENTRET,5
 #-------------------------------
 [CHICO,Alex]
 LoseText = ¡Bueno, bueno! Tu ganas...
@@ -166,12 +166,12 @@ Pokemon = KAKUNA,7
 #-------------------------------
 [CAZABICHOS,Nico]
 LoseText = Tu eres más fastidioso que yo!
-Pokemon = ZIGZAGOON,6
-Pokemon = ZIGZAGOON,6
+Pokemon = SENTRET,6
+Pokemon = SENTRET,6
 #-------------------------------
 [CAZABICHOS,Mateo]
 LoseText = Uy no, paila... perdí.
-Pokemon = WURMPLE,5
+Pokemon = WEEDLE,5
 Pokemon = WEEDLE,5
 #-------------------------------
 [CAZABICHOS,Tomas]
@@ -260,11 +260,11 @@ Pokemon = MACHOKE,14
 [PAREJAJOVEN,Linda & Juan]
 LoseText = Juan, creo que toca dejarlo pasar...
 Pokemon = BUNEARY,10
-Pokemon = MANKEY,10
+Pokemon = MACHOP,10
 #-------------------------------
 [EXPLORADOR,Felipe]
 LoseText = Bueno ya! Es tuyo!
-Pokemon = MANKEY,10
+Pokemon = MACHOP,10
 #-------------------------------
 [CAZABICHOS,Carlitos]
 LoseText = Bueno me ganaste, largate igual!
@@ -302,16 +302,16 @@ Pokemon = SHROOMISH,10
 #-------------------------------
 [RECLUTA_M, DE LA FDC, 1]
 LoseText = Bueno pasa... Hijueputa...
-Pokemon = MANKEY,10
+Pokemon = MACHOP,10
 #-------------------------------
 [RECLUTA_M, DE LA FDC, 2]
 LoseText = Que desgraciado...
-Pokemon = MANKEY,10
-Pokemon = MANKEY,10
+Pokemon = MACHOP,10
+Pokemon = MACHOP,10
 #-------------------------------
 [RECLUTA_M, DE LA FDC, 3]
 LoseText = Carajo...
-Pokemon = MANKEY,10
+Pokemon = MACHOP,10
 #-------------------------------
 [RECLUTA_F, DE LA FDC, 3]
 LoseText = No te pudimos detener...
@@ -362,7 +362,7 @@ Pokemon = JIGGLYPUFF,12
 #-------------------------------
 [LADRON,Luis]
 LoseText = Perdon... Igual tenga cuidado por ahi socio...
-Pokemon = MANKEY,13
+Pokemon = MACHOP,13
 #-------------------------------
 [CHICA,Lucía]
 LoseText = Nooo! Me despeinaste a mis pokemones...
@@ -386,7 +386,7 @@ Pokemon = HIPPOPOTAS,11
 #-------------------------------
 [MONTANERO,Bruno]
 LoseText = Tendré que pasar más tiempo en el monte!
-Pokemon = DIGLETT,12
+Pokemon = HIPPOPOTAS,12
 Pokemon = HIPPOPOTAS,12
 #-------------------------------
 [CHICA,Julieta]
@@ -402,7 +402,7 @@ Pokemon = ZUBAT,11
 [POKEMANIACO,Carlos]
 LoseText = QUIERO UN ABSOL!
 Pokemon = MAKUHITA,11
-Pokemon = DIGLETT,11
+Pokemon = HIPPOPOTAS,11
 #-------------------------------
 [POKEMANIACO,Fausto]
 LoseText = Bueno, llevate esa garra de shit...
@@ -587,8 +587,8 @@ Pokemon = MAGNEMITE,20
 #-------------------------------
 [CIENTIFICO, Eloy]
 LoseText = Tu no ere FdC... Tu ere peor...
-Pokemon = SHINX,20
-Pokemon = SHINX,20
+Pokemon = MAREEP,20
+Pokemon = MAREEP,20
 #-------------------------------
 [POKEMANIACO, Alan]
 LoseText = Igual y soy yo eh...
