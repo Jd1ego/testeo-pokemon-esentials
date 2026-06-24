@@ -622,28 +622,28 @@ Pokemon = KIRLIA,23
 #-------------------------------
 [EXPLORADOR, Valentino]
 LoseText = Que buena pinga...
-Pokemon = GROWLITHE,28
-Pokemon = SPOINK,28
+Pokemon = GROWLITHE,26
+Pokemon = SPOINK,26
 #-------------------------------
 [EXPLORADOR, Damian]
 LoseText = Esta bien... es tuya...
-Pokemon = GROWLITHE,28
-Pokemon = GROWLITHE,28
+Pokemon = GROWLITHE,26
+Pokemon = GROWLITHE,26
 #-------------------------------
 [EXPLORADOR, Saltarin]
 LoseText = Boing? D:
-Pokemon = SPOINK,28
-Pokemon = SPOINK,28
+Pokemon = SPOINK,26
+Pokemon = SPOINK,26
 #-------------------------------
 [EXPLORADORA, Emilia]  
 LoseText = Parece que si...
-Pokemon = LOPUNNY,28
-Pokemon = LOPUNNY,28
+Pokemon = LOPUNNY,26
+Pokemon = LOPUNNY,26
 #-------------------------------
 [EXPLORADORA, Antonia]
 LoseText = Desgraciado...
-Pokemon = STARAVIA,28
-Pokemon = LOPUNNY,28
+Pokemon = STARAVIA,26
+Pokemon = LOPUNNY,26
 #-------------------------------
 [COSPLAYER, Putito_SAS]
 LoseText = SOY RE PUTOOOO!!!
@@ -772,3 +772,51 @@ Pokemon = HAUNTER,32
 LoseText = Bueno! Ya le devolvemos su chimbada...
 Pokemon = SPIRITOMB,32
 Pokemon = HAUNTER,32
+#-------------------------------
+[MONTANERO, Viernes]
+LoseText = Van a estar a todo ojete...
+Pokemon = NOSEPASS,27
+Pokemon = NOSEPASS,27
+#-------------------------------
+[MONTANERO, Roman]
+LoseText = Pero muy heavy...
+Pokemon = NOSEPASS,27
+Pokemon = JOLTIK,27
+#-------------------------------
+[MONTANERO, Nestor]
+LoseText = Jueputa me voy a caer yo...
+Pokemon = NUMEL,27
+Pokemon = NUMEL,27
+#-------------------------------
+[MONTANERO, Benicio]
+LoseText = Maldita sea...
+Pokemon = NOSEPASS,27
+Pokemon = PARASECT,32
+#-------------------------------
+[DUOFUERTE, Yeison & Yesenia]
+LoseText = Eres fuerte...
+Pokemon = BRELOOM,27
+Pokemon = MACHOKE,27
+#-------------------------------
+[CHICA, Luisa]
+LoseText = Está bien, tu ganas...
+Pokemon = FOONGUS,27
+Pokemon = FOONGUS,27
+#-------------------------------
+[CHICA, Paula]
+LoseText = Atrevido...
+Pokemon = NIDORINA,27
+Pokemon = NIDORINA,27
+#-------------------------------
+[MONTANERO, Nicasio]
+LoseText = Valió pa mierda mi Acero...
+Pokemon = ARON,27
+#-------------------------------
+[MONTANERO, Melchor]
+LoseText = Y de paso usted es un hpta...
+Pokemon = JOLTIK,27
+Pokemon = JOLTIK,27
+#-------------------------------
+[MONTANERO, Ignasio]
+LoseText = Na jueputa...
+Pokemon = NOSEPASS,27

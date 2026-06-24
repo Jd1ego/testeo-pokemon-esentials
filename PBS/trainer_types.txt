@@ -486,6 +486,7 @@ IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
 Name = Pareja joven
 Gender = Unknown
 BaseMoney = 32
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
 #-------------------------------
 [CIENTIFICO]
 Name = Científico
@@ -590,9 +591,10 @@ BaseMoney = 32
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 #-------------------------------
 [DUOFUERTE]
-Name = Pareja joven
+Name = Duo Fuerte
 Gender = Unknown
 BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 #-------------------------------
 [EXORCISTA]
 Name = Exorcista
