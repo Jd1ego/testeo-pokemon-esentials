@@ -255,7 +255,7 @@ Pokemon = JIGGLYPUFF,10
 [MONTANERO,Pepe]
 LoseText = ...
 Pokemon = CLEFAIRY,15
-Pokemon = MACHOKE,14
+Pokemon = MACHOP,14
 #-------------------------------
 [PAREJAJOVEN,Linda & Juan]
 LoseText = Juan, creo que toca dejarlo pasar...
@@ -306,12 +306,12 @@ Pokemon = MACHOP,10
 #-------------------------------
 [RECLUTA_M, DE LA FDC, 2]
 LoseText = Que desgraciado...
-Pokemon = MACHOP,10
+Pokemon = ZUBAT,10
 Pokemon = MACHOP,10
 #-------------------------------
 [RECLUTA_M, DE LA FDC, 3]
 LoseText = Carajo...
-Pokemon = MACHOP,10
+Pokemon = ZUBAT,10
 #-------------------------------
 [RECLUTA_F, DE LA FDC, 3]
 LoseText = No te pudimos detener...
@@ -820,3 +820,10 @@ Pokemon = JOLTIK,27
 [MONTANERO, Ignasio]
 LoseText = Na jueputa...
 Pokemon = NOSEPASS,27
+#-------------------------------
+[SUPERVISORA, Martica]
+LoseText = Pero llene el formulario...
+Pokemon = MAGNETON,36
+Pokemon = ELECTRODE,36
+Pokemon = MAGNETON,36
+Pokemon = EXCADRILL,36

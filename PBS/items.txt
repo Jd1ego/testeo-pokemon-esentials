@@ -6614,7 +6614,6 @@ Price = 0
 Flags = KeyItem
 Description = Un tiquete que te permite pagar el peaje de Bogotá. Se puede usar varias veces.
 #-------------------------------
-#-------------------------------
 [TASERPOTENTE]
 Name = Taser Potente
 NamePlural = Tasers Potentes
@@ -6622,4 +6621,12 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Un taser tan potente que podrías despertar a una vaca con esto.
+#-------------------------------
+[PIC16F877A]
+Name = PIC16F877A
+NamePlural = PIC16F877As
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Es un PIC16F877A. Se programa en Assembler (Que asco).
 #-------------------------------

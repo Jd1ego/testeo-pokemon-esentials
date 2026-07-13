@@ -613,3 +613,9 @@ Name = Hijueputa
 Gender = Male
 BaseMoney = 32
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[SUPERVISORA]
+Name = Supervisora
+Gender = Female
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
