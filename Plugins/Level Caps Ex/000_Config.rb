@@ -34,7 +34,7 @@ module LevelCapsEX
   # When BADGE_AUTO_CAP is true, the level cap automatically updates
   # whenever the player earns a new badge. The BADGE_LEVEL_CAPS hash
   # maps badge count → new level cap. Set to false to disable.
-  BADGE_AUTO_CAP = true
+  BADGE_AUTO_CAP = false
 
   BADGE_LEVEL_CAPS = {
     0 => 14,   # Start of game

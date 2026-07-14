@@ -232,6 +232,7 @@ class Battle
       end
       exp = 1 if exp < 1
     end
+    exp = (exp * 0.9).to_i 
     # Make sure Exp doesn't exceed the maximum
     expFinal = growth_rate.add_exp(pkmn.exp, exp)
     
@@ -245,9 +246,9 @@ class Battle
     return if expGained <= 0
     # "Exp gained" message
     if showMessages
-      message = _INTL("{1} got {2} Exp. Points!", pkmn.name, expGained)
-      message = _INTL("{1} got a boosted {2} Exp. Points!", pkmn.name, expGained) if isOutsider
-      message = _INTL("{1} got a reduced {2} Exp. Points!", pkmn.name, expGained) if over_level_cap
+      message = _INTL("{1} consiguió {2} Puntos de Exp.!", pkmn.name, expGained)
+      message = _INTL("{1} consiguió {2} Puntos de Exp. aumentada!", pkmn.name, expGained) if isOutsider
+      message = _INTL("{1} consiguió {2} Puntos de Exp. aumentada!", pkmn.name, expGained) if over_level_cap
       pbDisplayPaused(message)
     end
     curLevel = pkmn.level
@@ -300,7 +301,7 @@ class Battle
       pkmn.calc_stats
       battler&.pbUpdate(false)
       @scene.pbRefreshOne(battler.index) if battler
-      pbDisplayPaused(_INTL("{1} grew to Lv. {2}!", pkmn.name, curLevel)) { pbSEPlay("Pkmn level up") }
+      pbDisplayPaused(_INTL("{1} subió a Lv. {2}!", pkmn.name, curLevel)) { pbSEPlay("Pkmn level up") }
       @scene.pbLevelUp(pkmn, battler, oldTotalHP, oldAttack, oldDefense,
                        oldSpAtk, oldSpDef, oldSpeed)
       # Learn all moves learned at this level
