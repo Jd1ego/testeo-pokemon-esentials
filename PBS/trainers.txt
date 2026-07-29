@@ -823,7 +823,32 @@ Pokemon = NOSEPASS,27
 #-------------------------------
 [SUPERVISORA, Martica]
 LoseText = Pero llene el formulario...
-Pokemon = MAGNETON,36
-Pokemon = ELECTRODE,36
-Pokemon = MAGNETON,36
-Pokemon = EXCADRILL,36
+Pokemon = MAGNETON,34
+Pokemon = ELECTRODE,34
+Pokemon = MAGNETON,34
+Pokemon = EXCADRILL,34
+#-------------------------------
+[CIENTIFICO, Yovani]
+LoseText = Muchacho...
+Pokemon = ARCANINE,36
+Pokemon = MAGMAR,36
+#-------------------------------
+[CIENTIFICO, Maicol]
+LoseText = Muchacho...
+Pokemon = ARCANINE,36
+Pokemon = ARCANINE,36
+#-------------------------------
+[CIENTIFICO, Dairo]
+LoseText = Muchacho...
+Pokemon = RAPIDASH,36
+Pokemon = RAPIDASH,36
+#-------------------------------
+[CIENTIFICO, Jhon]
+LoseText = Muchacho...
+Pokemon = CAMERUPT,36
+Pokemon = CAMERUPT,36
+#-------------------------------
+[CIENTIFICO, Dainer]
+LoseText = Muchacho...
+Pokemon = CAMERUPT,36
+Pokemon = ARCANINE,36
