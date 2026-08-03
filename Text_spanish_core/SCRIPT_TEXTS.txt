@@ -1,4 +1,4 @@
-# To localize this text for a particular language, please
+﻿# To localize this text for a particular language, please
 # translate every second line of this file.
 #-------------------------------
 [SCRIPT_TEXTS]
@@ -667,7 +667,7 @@ El grupo 1 no tiene Pokémon.
 Party 2 has no Pokémon.
 El grupo 2 no tiene Pokémon.
 The opposing {1}
-El {1} ​​contrario
+El {1} contrario
 The wild {1}
 El salvaje {1}
 The ally {1}

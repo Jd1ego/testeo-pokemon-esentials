@@ -1,4 +1,4 @@
-# To localize this text for a particular language, please
+﻿# To localize this text for a particular language, please
 # translate every second line of this file.
 #-------------------------------
 [SCRIPT_TEXTS]
@@ -165,11 +165,11 @@ Conseguiste ${1} para ganar!
 Te toco darle ${1} al ganador...
 Te toco darle ${1} al ganador...
 Derrotaste a {1}!
-¡Derrota el sabor de un {1}!
-Derrootaste a {1} y a {2}!
-¡Derrootaste a {1} y a {2}!
+¡Te follaste a {1}!
+Derrotaste a {1} y a {2}!
+¡Derrotaste a {1} y a {2}!
 Derrotaste a {1}, a {2} y a {3}!
-¡Derrotate a {1}, a {2} y a {3}!
+¡Derrotaste a {1}, a {2} y a {3}!
 Te quedaste sin jodidos Pokémon para pelear!
 Te quedaste sin jodidos Pokémon para pelear!
 {1} te jodió la vida!
@@ -200,8 +200,8 @@ Derrotaste a {1} y a {2}!
 {1} aprendió {2}!
 {1} quiere aprender {2}, pero ya conoce {3} movimientos.
 {1} quiere aprender {2}, pero ya conoce {3} movimientos.
-¿Deberia {1} olvidar un movimiento para aprender {2}?
-¿Deberia {1} olvidar un movimiento para aprender {2}?
+¿Debería {1} olvidar un movimiento para aprender {2}?
+¿Debería {1} olvidar un movimiento para aprender {2}?
 1, 2, y... ... ... Listo!
 1, 2, y... ... ... ¡Listo!
 {1} olvidó cómo usar {2}. Y...
@@ -503,13 +503,13 @@ El sol brillante parece molestar a {1}.
 {1} looks a little overheated.
 {1} parece un poco sobrecalentado.
 {1} seems very hot...
-{1} parece muy atractivo...
+{1} parece estar putamente caliente...
 {1} shielded its vision against the sparkling light!
 {1} protegió su visión contra la luz brillante!
 {1} seems to want to play with {2}.
 {1} parece querer jugar con {2}.
 {1} is singing and humming.
-{1} está cantando y tarareando.
+{1} está cantando y tarareando."El me dice que quiere divertirse, yo le digo que los rumores vuelan, el me dice que no le importa estar con una super estrella!"
 {1} is looking up at {2} with a happy expression.
 {1} está mirando a {2} con una expresión feliz.
 {1} swayed and danced around as it pleased.
