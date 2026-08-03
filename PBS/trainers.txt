@@ -183,12 +183,15 @@ Items = SUPERPOTION
 LoseText = Noooo, soy maricon...
 Pokemon = MAGNEMITE,12
     Moves = THUNDERSHOCK,SUPERSONIC,TACKLE,IRONDEFENSE
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = METANG,12
     Moves = CONFUSION,METALCLAW,MAGNETRISE,IRONDEFENSE
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = SKARMORY,14
     Moves = PECK,METALCLAW,SANDATTACK,IRONDEFENSE
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 #-------------------------------
 [MONTANERO,Marcos]
@@ -463,18 +466,22 @@ Items = HYPERPOTION
 LoseText = Nooo chavon, no puede ser...
 Pokemon = PSYDUCK,14
     Moves = TAILWHIP,FURYSWIPES,CONFUSION,WATERPULSE
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
     Shiny = true
 Pokemon = TENTACOOL,16
     Moves = ACID,WRAP,SUPERSONIC,WATERPULSE
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
     Shiny = true
 Pokemon = LAPRAS,18
     Moves = SING,MIST,WATERGUN,ICESHARD
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
     Shiny = true
 Pokemon = GYARADOS,20
     Moves = TWISTER,SCARYFACE,BITE,SCALD
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
     Shiny = true
 #-------------------------------
@@ -725,22 +732,27 @@ Items = HYPERPOTION
 LoseText = Basuron mesopotamico...
 Pokemon = KIRLIA,24
     Moves = PSYCHIC,LIFEDEW,DRAININGKISS,DOUBLETEAM
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = KADABRA,26
     Moves = PSYCHIC,RECOVER,DISABLE,REFLECT
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
-    #-------------------------------
+#-------------------------------
 [LEADER_Track, Track]
 Items = HYPERPOTION
 LoseText = Ostia...
 Pokemon = HOUNDOUR,24
     Moves = THIEF,TAUNT,SMOG,ROAR
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = SNEASEL,26
     Moves = THIEF,ICYWIND,QUICKATTACK,METALCLAW
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = ABSOL,26
     Moves = THIEF,SLASH,DETECT,DOUBLETEAM
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 #-------------------------------
 [POKEMONTRAINER_Fredy,Fredy]
@@ -852,3 +864,27 @@ Pokemon = CAMERUPT,36
 LoseText = Muchacho...
 Pokemon = CAMERUPT,36
 Pokemon = ARCANINE,36
+#-------------------------------
+[LEADER_Richie, Richie]
+Items = FULLRESTORE
+LoseText = Erda...
+Pokemon = RAPIDASH,36
+    Moves = AGILITY, FLAMEWHEEL, QUICKATTACK, WILLOWISP
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = ARCANINE,38
+    Moves = EXTREMESPEED, FLAREBLITZ, ROAR, AGILITY
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = HOUNDOOM,38
+    Moves = OVERHEAT, DOUBLETEAM, PAYBACK, FLAMETHROWER
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = CAMERUPT,38
+    Moves = OVERHEAT, DOUBLEEDGE, YAWN, EARTHQUAKE
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = MAGMORTAR,40
+    Moves = OVERHEAT, FLAMETHROWER, CONFUSERAY, SCARYFACE
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
