@@ -841,17 +841,17 @@ Pokemon = MAGNETON,34
 Pokemon = EXCADRILL,34
 #-------------------------------
 [CIENTIFICO, Yovani]
-LoseText = Muchacho...
+LoseText = La bala me alcanzó...
 Pokemon = ARCANINE,36
 Pokemon = MAGMAR,36
 #-------------------------------
 [CIENTIFICO, Maicol]
-LoseText = Muchacho...
+LoseText = Es como si hubiera ganado un baneo...
 Pokemon = ARCANINE,36
 Pokemon = ARCANINE,36
 #-------------------------------
 [CIENTIFICO, Dairo]
-LoseText = Muchacho...
+LoseText = Me banearon...
 Pokemon = RAPIDASH,36
 Pokemon = RAPIDASH,36
 #-------------------------------
@@ -861,7 +861,7 @@ Pokemon = CAMERUPT,36
 Pokemon = CAMERUPT,36
 #-------------------------------
 [CIENTIFICO, Dainer]
-LoseText = Muchacho...
+LoseText = Me traspasó...
 Pokemon = CAMERUPT,36
 Pokemon = ARCANINE,36
 #-------------------------------
@@ -886,5 +886,68 @@ Pokemon = CAMERUPT,38
     IV = 20,20,20,20,20,20
 Pokemon = MAGMORTAR,40
     Moves = OVERHEAT, FLAMETHROWER, CONFUSERAY, SCARYFACE
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[MONTANERO, Berto]
+LoseText = Genial, ahora me duele el culo.
+Pokemon = DONPHAN,31
+Pokemon = HIPPOWDON,32
+#-------------------------------
+[MONTANERO, Gonzalo]
+LoseText = Debí quedarme en mi casa...
+Pokemon = DONPHAN,31
+Pokemon = HIPPOWDON,31
+#-------------------------------
+[MONTANERO, Bautista]
+LoseText = Parece que no...
+Pokemon = GRAVELER,31
+Pokemon = GRAVELER,31
+#-------------------------------
+[MONTANERO, Alberto]
+LoseText = Espero que te mueras...
+Pokemon = HIPPOWDON,32
+Pokemon = DONPHAN,31
+#-------------------------------
+[LADRON, Brayan]
+LoseText = Maldito bastardo...
+Pokemon = MAROWAK,32
+Pokemon = NIDORINA,32
+#-------------------------------
+[LADRON, Toño]
+LoseText = Me cagaste la vida, perro miserable.
+Pokemon = NIDORINA,32
+Pokemon = NIDORINA,32
+#-------------------------------
+[LADRON, Gonzalo]
+LoseText = Vete a la mierda...
+Pokemon = MAROWAK,32
+Pokemon = NIDORINA,31
+#-------------------------------
+[LEADER_Zacri, Zacri]
+Items = FULLRESTORE
+LoseText = Valí polla...
+Pokemon = HIPPOWDON,32
+    Moves = SANDTOMB, TAKEDOWN, HEAVYSLAM, AMNESIA
+    Ability = SANDSTREAM
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = GABITE,34
+    Moves = DRAGONCLAW, DIG, SANDSTORM, SANDATTACK
+    Ability = SANDVEIL
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = EXCADRILL,36
+    Ability = SANDRUSH
+    Moves = EARTHQUAKE, SLASH, DOUBLETEAM, ROCKSLIDE
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = GOLEM,33
+    Moves = SELFDESTRUCT, SMACKDOWN, BULLDOZE, SANDSTORM
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = NIDOKING,35
+    Moves = THRASH, DOUBLEKICK, POISONJAB, ROAR
+    Ability = SHEERFORCE
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
