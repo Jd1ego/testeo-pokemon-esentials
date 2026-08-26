@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Consulte la documentación en la wiki para aprender cómo editar este archivo.
 #-------------------------------
 [001]   # Intro
 Name = Intro
@@ -1090,7 +1090,25 @@ MapPosition = 2,3,6
 Name = Gym kokkola
 MapPosition = 2,3,6
 #-------------------------------
-[216]   # Torre safari
+[216]   # Torre Safari
 Name = Torre Safari
 ShowArea = true
 MapPosition = 2,3,6
+SafariMap = true
+#-------------------------------
+[218]   # TS P1
+Name = TS P1
+SafariMap = true
+#-------------------------------
+[219]   # TS P2
+Name = TS P2
+SafariMap = true
+#-------------------------------
+[220]   # TS P3
+Name = TS P3
+Weather = Fog,100
+SafariMap = true
+#-------------------------------
+[221]   # TS P4
+Name = TS P4
+SafariMap = true
