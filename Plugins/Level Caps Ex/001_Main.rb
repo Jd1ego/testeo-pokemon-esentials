@@ -184,7 +184,7 @@ class Battle
     exp = (exp * 1.5).floor if Settings::MORE_EXP_FROM_TRAINER_POKEMON && trainerBattle?
     # Scale the gained Exp based on the gainer's level (or not)
     if Settings::SCALED_EXP_FORMULA
-      exp /= 5
+      exp /= 7
       levelAdjust = ((2 * level) + 10.0) / (pkmn.level + level + 10.0)
       levelAdjust **= 5
       levelAdjust = Math.sqrt(levelAdjust)

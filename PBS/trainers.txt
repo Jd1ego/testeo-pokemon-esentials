@@ -136,23 +136,23 @@ Pokemon = BEEDRILL,10
 #-------------------------------
 [CHICO,Paco]
 LoseText = ¿Perdi? Noooo, no se vale!
-Pokemon = STARLY,5
+Pokemon = STARLY,4
 #-------------------------------
 [CHICO,Albertito]
 LoseText = Uy no, paila... perdí.
-Pokemon = SENTRET,5
+Pokemon = SENTRET,4
 #-------------------------------
 [CHICO,Alex]
 LoseText = ¡Bueno, bueno! Tu ganas...
-Pokemon = SENTRET,5
-Pokemon = SENTRET,5
+Pokemon = SENTRET,4
+Pokemon = SENTRET,4
 #-------------------------------
 [MONTANERO,Jose]
 LoseText = Jmm, puede que no seas tan malo.
 Pokemon = WEEDLE,6
-Pokemon = GEODUDE,9
+Pokemon = GEODUDE,7
     Moves = DEFENSECURL,ROCKTHROW,TACKLE,ROCKPOLISH
-Pokemon = EKANS,9
+Pokemon = EKANS,7
     Moves = LEER,WRAP,POISONSTING,BITE
 #-------------------------------
 [CAZABICHOS,Lucas]
@@ -162,7 +162,7 @@ Pokemon = WEEDLE,5
 #-------------------------------
 [CAZABICHOS,Pedrito]
 LoseText = ¡Nooo! Me achicharró a mi bichito...
-Pokemon = KAKUNA,7
+Pokemon = KAKUNA,6
 #-------------------------------
 [CAZABICHOS,Nico]
 LoseText = Tu eres más fastidioso que yo!
@@ -176,7 +176,7 @@ Pokemon = WEEDLE,5
 #-------------------------------
 [CAZABICHOS,Tomas]
 LoseText = ¿Perdi? Noooo, no se vale!
-Pokemon = HOOTHOOT,7
+Pokemon = HOOTHOOT,6
 #-------------------------------
 [LEADER_Ayala,Ayala]
 Items = SUPERPOTION
@@ -475,6 +475,7 @@ Pokemon = TENTACOOL,16
     IV = 20,20,20,20,20,20
     Shiny = true
 Pokemon = LAPRAS,18
+    Name = El HeeHee
     Moves = SING,MIST,WATERGUN,ICESHARD
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
@@ -747,6 +748,7 @@ Pokemon = HOUNDOUR,24
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = SNEASEL,26
+    Name = Sonic
     Moves = THIEF,ICYWIND,QUICKATTACK,METALCLAW
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
@@ -885,6 +887,7 @@ Pokemon = CAMERUPT,38
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = MAGMORTAR,40
+    Name = Diana
     Moves = OVERHEAT, FLAMETHROWER, CONFUSERAY, SCARYFACE
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
@@ -951,3 +954,36 @@ Pokemon = NIDOKING,35
     Ability = SHEERFORCE
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
+#-------------------------------
+[KARATEKA, Minho]
+LoseText = Mierda, mis pokémon son de cristal...
+Pokemon = HARIYAMA,38
+Pokemon = HARIYAMA,40
+#-------------------------------
+[KARATEKA, Jinwoo]
+LoseText = Me cago en tu madre y tu equipo.
+Pokemon = HARIYAMA,39
+Pokemon = BRELOOM,38
+#-------------------------------
+[KARATEKA, Sanghoon]
+LoseText = Joder, qué dolor de ano...
+Pokemon = HARIYAMA,39
+Pokemon = HERACROSS,40
+#-------------------------------
+[DUOFUERTE, Minpo & Jiwoo]
+LoseText = ¡Imposible!
+Pokemon = BRELOOM,38
+Pokemon = HARIYAMA,40
+Pokemon = HERACROSS,39
+#-------------------------------
+[DUOFUERTE, Seoyeon & Eunwoo]
+LoseText = Buen combate...
+Pokemon = BRELOOM,39
+Pokemon = HARIYAMA,39
+Pokemon = BRELOOM,38
+#-------------------------------
+[DUOFUERTE, Doyun & Haeun]
+LoseText = Nos ganaste...
+Pokemon = MACHAMP,38
+Pokemon = HARIYAMA,38
+Pokemon = HERACROSS,38

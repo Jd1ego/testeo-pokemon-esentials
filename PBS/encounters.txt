@@ -323,9 +323,9 @@ Land,11
 #---------------------------------
 [048] # Ruta 2
 Land,11
-    35,SHROOMISH,4,6
-    30,STARLY,4,6
-    25,SENTRET,4,6
+    35,SHROOMISH,2,4
+    30,STARLY,2,4
+    25,SENTRET,2,4
     10,IGGLYBUFF,1
 #---------------------------------
 [076] # Monte Pionono
