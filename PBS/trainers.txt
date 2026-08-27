@@ -989,7 +989,7 @@ Pokemon = HARIYAMA,38
 Pokemon = HERACROSS,38
 #-------------------------------
 [LEADER_Migue, Migue]
-Items = FULLRESTORE
+Items = FULLRESTORE, FULLRESTORE
 LoseText = DIOS
 Pokemon = HARIYAMA,40
     Moves = DRAINPUNCH, FAKEOUT, WHIRLWIND,KNOCKOFF
@@ -1009,5 +1009,59 @@ Pokemon = GALLADE,44
     IV = 20,20,20,20,20,20
 Pokemon = LUCARIO,44
     Moves = DRAINPUNCH,METALSOUND, METALCLAW, EXTREMESPEED
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[INGENIERO, Ignacio]
+LoseText = Mi software tiene menos bugs que tus pokémon.
+Pokemon = MAGNETON,47
+Pokemon = ELECTRODE,47
+#-------------------------------
+[INGENIERO, Bernardo]
+LoseText = Incluso la IA te ganaría.
+Pokemon = MAGNETON,48
+Pokemon = GALVANTULA,48
+#-------------------------------
+[INGENIERO, Ramiro]
+LoseText = Reinicia tu cerebro, por favor.
+Pokemon = ELECTRODE,47
+Pokemon = GALVANTULA,49
+#-------------------------------
+[CIENTIFICO, Braulio]
+LoseText = Mi ciencia supera tu puta ignorancia.
+Pokemon = GALVANTULA,47
+Pokemon = RAICHU,47
+#-------------------------------
+[CIENTIFICO, Socorro]
+LoseText = Maldito simio con suerte, me cago en todo.
+Pokemon = ELECTRODE,47
+Pokemon = GALVANTULA,48
+#-------------------------------
+[CIENTIFICO, Prudencio]
+LoseText = Tus Pokémon valen polla.
+Pokemon = MAGNETON,46
+Pokemon = ELECTRODE,46
+#-------------------------------
+[LEADER_JDiego, JDiego]
+Items = FULLRESTORE, FULLRESTORE
+LoseText = Tu puta madre.
+Pokemon = GALVANTULA,48
+    Moves = ELECTROWEB, BUGBITE, AGILITY, ELECTROBALL
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = ELECTRODE,50
+    Moves = VOLTSWITCH, SELFDESTRUCT, LIGHTSCREEN, SWIFT
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = EMOLGA,50
+    Moves = VOLTSWITCH, DOUBLETEAM, ENCORE, ACROBATICS
+    Item = FLYINGGEM
+    IV = 20,20,20,20,20,20
+Pokemon = AMPHAROS,52
+    Moves = DISCHARGE, CONFUSERAY, COTTONGUARD, SIGNALBEAM
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = MAGNEZONE,52
+    Moves = DISCHARGE, SCREECH, FLASHCANNON, ZAPCANNON
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20

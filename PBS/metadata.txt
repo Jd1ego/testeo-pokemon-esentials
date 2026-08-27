@@ -21,6 +21,7 @@ SurfCharset = boy_surf
 DiveCharset = boy_surf
 FishCharset = boy_fish_offset
 SurfFishCharset = boy_fish_offset
+SpinCharset= CHAR_M
 #-------------------------------
 [2]
 TrainerType = POKEMONTRAINER_Leaf
@@ -31,3 +32,4 @@ SurfCharset = girl_surf
 DiveCharset = girl_surf
 FishCharset = girl_fish_offset
 SurfFishCharset = girl_fish_offset
+SpinCharset= CHAR_F
