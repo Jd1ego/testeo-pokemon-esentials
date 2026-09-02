@@ -1109,7 +1109,7 @@ HP mayor que el HP total
 {1} had its energy drained!
 ¡A {1} se le agotó la energía!
 {1} fainted!
-{1} ¡se desmayó!
+{1} ¡se debilitó!
 {1} transformed!
 ¡{1} transformado!
 {1} triggered!
@@ -1765,7 +1765,7 @@ A deluge of ions showers the battlefield!
 {1} cannot use {2} because of {3}'s {4}!
 ¡{1} no puede usar {2} debido al {4} de {3}!
 All Pokémon that hear the song will faint in three turns!
-¡Todos los Pokémon que escuchen la canción se desmayarán en tres turnos!
+¡Todos los Pokémon que escuchen la canción se debilitarán en tres turnos!
 {1} is hoping to take its attacker down with it!
 ¡{1} espera derribar a su atacante con él!
 {1} wants its target to bear a grudge!
@@ -2313,7 +2313,7 @@ El juego ha detectado que la batería está baja. Debes guardar pronto para no p
 {1} survived the poisoning.\<<n>>The poison faded away!
 {1} sobrevivió al envenenamiento.\<<n>>¡El veneno se desvaneció!
 {1} fainted...
-{1} se desmayó...
+{1} se debilitó...
 You found \c[1]{1}\c[0]!
 ¡Encontraste \c[1]{1}\c[0]!
 You found {1} \c[1]{2} {3}\c[0]!
@@ -2785,7 +2785,7 @@ Do you want to change {1}'s Ability?
 It had no effect.
 No tuvo ningún efecto.
 This can't be used on the fainted Pokémon.
-Esto no se puede usar en Pokémon desmayados.
+Esto no se puede usar en Pokémon debiitados.
 {1} changed Forme!
 ¡{1} cambió de forma!
 {1} changed form!
@@ -2817,7 +2817,7 @@ No puede fusionarse consigo mismo.
 It cannot be fused with an Egg.
 No se puede fusionar con un Huevo.
 It cannot be fused with that fainted Pokémon.
-No se puede fusionar con ese Pokémon desmayado.
+No se puede fusionar con ese Pokémon debilitado.
 It cannot be fused with that Pokémon.
 No se puede fusionar con ese Pokémon.
 You have no room to separate the Pokémon.
@@ -2839,7 +2839,7 @@ It's no good! It's impossible to aim when there is more than one Pokémon!
 All Pokémon were roused by the tune!
 ¡Todos los Pokémon se despertaron con la melodía!
 {1} recovered from fainting!
-{1} ¡recuperado del desmayo!
+{1} ¡recuperado de la debilidad!
 \me[Register phone]Registered {1} in the Pokégear!
 \me[Registrar teléfono]¡Registrado {1} en el Pokégear!
 There is no phone signal here...
@@ -4087,7 +4087,7 @@ Tome una captura de pantalla. Se coloca en la misma carpeta que el archivo guard
 Graphics/UI/Controls help/help_arrows
 Graphics/UI/Controls help/help_arrows
 Use the Arrow keys to move the main character.<<n>>You can also use the Arrow keys to select entries and navigate menus.
-Use the Arrow keys to move the main character.<<n>><<n>>You can also use the Arrow keys to select entries and navigate menus.
+Usa las flechas para moverte.<<n>>También puedes usarlas para navegar en menús. 
 Graphics/UI/Controls help/help_usekey
 Graphics/UI/Controls help/help_usekey
 Graphics/UI/Controls help/help_backkey
@@ -4095,7 +4095,7 @@ Graphics/UI/Controls help/help_backkey
 Used to confirm a choice, interact with people and things, and move through text. (Default: C)
 Se utiliza para confirmar una elección, interactuar con personas y cosas, y moverse por el texto. (Predeterminado: C)
 Used to exit, cancel a choice, and cancel a mode. While moving around, hold to move at a different speed. (Default: X)
-Se utiliza para salir, cancelar una elección y cancelar un modo. Mientras te mueves, mantén presionado para moverte a una velocidad diferente. (Predeterminado: X)
+Se utiliza para salir, cancelar una elección y cancelar un modo. Mientras te mueves, mantén presionado para correr. (Predeterminado: X)
 Graphics/UI/Controls help/help_actionkey
 Graphics/UI/Controls help/help_actionkey
 Graphics/UI/Controls help/help_specialkey
@@ -4103,11 +4103,11 @@ Graphics/UI/Controls help/help_specialkey
 Used to open the Pause Menu. Also has various functions depending on context. (Default: Z)
 Se utiliza para abrir el menú de pausa. También tiene varias funciones según el contexto. (Predeterminado: Z)
 Press to open the Ready Menu, where registered items and available field moves can be used. (Default: D)
-Presione para abrir el menú Listo, donde se pueden usar los elementos registrados y los movimientos de campo disponibles. (Predeterminado: D)
+Presione para abrir el menú rápido, donde se pueden usar los elementos registrados y los movimientos de campo disponibles. (Predeterminado: D)
 {1} hatched from the Egg!
 ¡{1} nació del Huevo!
 Would you like to nickname the newly hatched {1}?
-¿Te gustaría ponerle un apodo al recién nacido {1}?
+¿Te gustaría ponerle un apodo al huevón {1}?
 Huh?
 ¿Eh?
 ...
@@ -6025,7 +6025,7 @@ Establecer los HP de {1} ({2}-{3}).
 Set status
 Establecer estado
 {1} is fainted, can't change status.
-{1} está desmayado, no puede cambiar de estado.
+{1} está debilitado, no puede cambiar de estado.
 <<[>>Cure<<]>>
 <<[>>Cura<<]>>
 Set {1}
@@ -6225,7 +6225,7 @@ Pokémon Sombra (no en Modo Hiper)
 Toggle Hyper Mode
 Alternar modo hiper
 Pokémon is fainted or not the player's. Can't put it in Hyper Mode.
-Pokémon está desmayado o no es del jugador. No puedo ponerlo en modo Hyper.
+Pokémon está debilitado o no es del jugador. No puedo ponerlo en modo Hyper.
 Pokémon is not a Shadow Pokémon.
 Pokémon no es un Pokémon Sombra.
 Set effects
@@ -6247,7 +6247,7 @@ Completamente curado
 {1} was fully healed.
 {1} estaba completamente curado.
 Make fainted
-Hacer que me desmaye
+Hacer que me debilite.
 Set Pokérus
 Establecer Pokérus
 {1} doesn't have Pokérus.
