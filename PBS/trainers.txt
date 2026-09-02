@@ -757,6 +757,71 @@ Pokemon = ABSOL,26
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 #-------------------------------
+[SENORITAAROMA, Rosa]
+LoseText = Mis flores se han muerto...
+Pokemon = FURRET,25
+Pokemon = JIGGLYPUFF,27
+#-------------------------------
+[SENORITAAROMA, Beatriz]
+LoseText = Qué combate tan intenso!
+Pokemon = FURRET,27
+Pokemon = COTTONEE,27
+#-------------------------------
+[SENORITAAROMA, Camila]
+LoseText = Me has dejado sin pétalos!
+Pokemon = COTTONEE,25
+Pokemon = COTTONEE,25
+#-------------------------------
+[SENORITAAROMA, Sofia]
+LoseText = Vaya tormenta que fuiste!
+Pokemon = COTTONEE,25
+Pokemon = JIGGLYPUFF,2
+#-------------------------------
+[AVICULTOR, Ramiro]
+LoseText = Mi paloma se cagó en mi cara!
+Pokemon = VESPIQUEN,26
+Pokemon = NOCTOWL,27
+#-------------------------------
+[AVICULTOR, Facundo]
+LoseText = Vete a la mierda...
+Pokemon = MARILL,26
+Pokemon = VESPIQUEN,25
+#-------------------------------
+[AVICULTOR, Gonzalo]
+LoseText = Puto pollo inútil!
+Pokemon = VESPIQUEN,27
+Pokemon = MARILL,25
+#-------------------------------
+[AVICULTOR, Jacinto]
+LoseText = Me cagó un pajaro...
+Pokemon = NOCTOWL,25
+Pokemon = NOCTOWL,24
+#-------------------------------
+[LEADER_Christian, Christian]
+Items = HYPERPOTION
+LoseText = AAAAAAAAAAAAAAAAAAAA
+Pokemon = WIGGLYTUFF,26
+    Moves = PLAYROUGH, SING, DOUBLEEDGE, WISH
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = AZUMARILL,28
+    Moves = DOUBLEEDGE, AQUATAIL, MUDDYWATER, PERISHSONG
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = WHIMSICOTT,28
+    Moves = TAILWIND, GUST, MEGADRAIN, DAZZLINGGLEAM
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = MRMIME,30
+    Moves = MISTYTERRAIN, ICYWIND, LIGHTSCREEN, PSYBEAM
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = TOGEKISS,30
+    Name = Leclerc
+    Moves = DAZZLINGGLEAM, AIRSLASH, NASTYPLOT, EXTREMESPEED
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
 [POKEMONTRAINER_Fredy,Fredy]
 LoseText = ...
 Pokemon = GENGAR,30

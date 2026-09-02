@@ -500,7 +500,7 @@ Land,11
     25,JOLTIK,27
 #---------------------------------
 [171] # Puente Ibagué
-Cave,7
+Cave,13
     35,GASTLY,20
     45,LITWICK,25
     20,DRIFLOON,25

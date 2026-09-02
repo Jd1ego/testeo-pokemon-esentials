@@ -462,6 +462,13 @@ BaseMoney = 100
 BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
 VictoryBGM = HGSS 144 Victory! (Gym Leader)
 #-------------------------------
+[LEADER_Christian]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
 [MONTANERO]
 Name = Montañero
 Gender = Male
@@ -653,3 +660,9 @@ Name = Ingeniero
 Gender = Male
 BaseMoney = 32
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[SENORITAAROMA]
+Name = Señorita Aroma
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
