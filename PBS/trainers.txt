@@ -5,6 +5,18 @@ LoseText = A very good battle, indeed!
 Pokemon = HIPPOPOTAS,10
 Pokemon = BONSLY,11
 #-------------------------------
+[ENTRENADOR1,Lancer]
+LoseText = Que buena pelea!
+Pokemon = RATTATA,10
+#-------------------------------
+[ENTRENADORA,Sabrina]
+LoseText = Nos has ganado!
+Pokemon = RATTATA,10
+#-------------------------------
+[ENTRENADOR2,Koga]
+LoseText = Buen farmeo!
+Pokemon = RATTATA,10
+#-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = ...
@@ -278,12 +290,12 @@ Pokemon = CASCOON,8
 LoseText = Marica... Mi bicho...
 Pokemon = BEEDRILL,10
 #-------------------------------
-[BELLA,Catalina]
+[TETONA,Catalina]
 LoseText = Pervertido...
 Pokemon = BUNEARY,9
 Pokemon = BUNEARY,9
 #-------------------------------
-[BELLA,Luciana]
+[TETONA,Luciana]
 LoseText = Como sea, deja de mirarme...
 Pokemon = JIGGLYPUFF,9
 Pokemon = JIGGLYPUFF,9

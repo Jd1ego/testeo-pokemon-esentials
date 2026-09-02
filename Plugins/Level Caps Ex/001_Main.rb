@@ -217,6 +217,13 @@ class Battle
       exp = exp * 6 / 5
       isOutsider = true   # To show the "boosted Exp" message
     end
+    # --- MULTIPLICADOR DE ZONA DE ENTRENAMIENTO ---
+    # Usaremos el Interruptor (Switch) número 101. Cámbialo si ya lo usas.
+    if $game_switches && $game_switches[101]
+      exp = (exp * 6).to_i # Multiplicador x3
+      isOutsider = true      # Fuerza el texto de "Exp. aumentada" en el mensaje
+    end
+    # ----------------------------------------------
     # Modify exp gain based on soft level cap
     over_level_cap = false
     if LevelCapsEX.soft_cap? && pkmn.level >= LevelCapsEX.level_cap

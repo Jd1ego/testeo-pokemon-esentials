@@ -30,6 +30,21 @@ Name = Rival
 Gender = Male
 BaseMoney = 36
 #-------------------------------
+[ENTRENADOR1]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ENTRENADOR2]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ENTRENADORA]
+Name = Entrenadora Pokémon
+Gender = Female
+BaseMoney = 32
+#-------------------------------
 [AROMALADY]
 Name = Aroma Lady
 Gender = Female
@@ -513,6 +528,12 @@ IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
 #-------------------------------
 [BELLA]
 Name = Bella
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[TETONA]
+Name = Tetona
 Gender = Female
 BaseMoney = 16
 IntroBGM = FRLG 33 A Trainer Appears (Girl Version)

@@ -3,7 +3,7 @@
 [0]
 StartMoney = 3000
 StartItemStorage = POTION
-Home = 3,7,5,8
+Home = 78,8,10,8
 StorageCreator = Bill
 WildBattleBGM = HGSS 110 Battle! (Wild Pokemon Johto)
 TrainerBattleBGM = HGSS 229 Battle! (Trainer Battle Kanto)
