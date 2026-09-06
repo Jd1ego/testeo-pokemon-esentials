@@ -112,20 +112,25 @@ Pokemon = CHARIZARD,63
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
+#-------------------------------
+#-------------------------------
+#-------------------------------
+#-------------------------------
+#-------------------------------
 [RIVAL1,Blue]
 LoseText = que? esta pelea no debería suceder.
 Pokemon = PICHU,5
 #-------------------------------
 [RIVAL1,Blue,1]
-LoseText = Noooo, parece que escogiste la mejor opción inicial.
+LoseText = Mka, ya empecé como el qlo...
 Pokemon = CYNDAQUIL,5
 #-------------------------------
 [RIVAL1,Blue,2]
-LoseText = Noooo, parece que escogiste la mejor opción inicial.
+LoseText = Mka, ya empecé como el qlo...
 Pokemon = SQUIRTLE,5
 #-------------------------------
 [RIVAL1,Blue,3]
-LoseText = Noooo, parece que escogiste la mejor opción inicial.
+LoseText = Mka, ya empecé como el qlo...
 Pokemon = TURTWIG,5
 #-------------------------------
 [RIVAL1,Blue,4]
@@ -145,6 +150,12 @@ LoseText = Bueno, fue una buena pelea...
 Pokemon = TURTWIG,12
 Pokemon = SENTRET,10
 Pokemon = BEEDRILL,10
+#-------------------------------
+#-------------------------------
+#-------------------------------
+#-------------------------------
+#-------------------------------
+#-------------------------------
 #-------------------------------
 [CHICO,Paco]
 LoseText = ¿Perdi? Noooo, no se vale!
@@ -1006,7 +1017,7 @@ Pokemon = NIDORINA,31
 #-------------------------------
 [LEADER_Zacri, Zacri]
 Items = FULLRESTORE
-LoseText = Valí polla...
+LoseText = Man man man, que es esa mierda???
 Pokemon = HIPPOWDON,32
     Moves = SANDTOMB, TAKEDOWN, HEAVYSLAM, AMNESIA
     Ability = SANDSTREAM
