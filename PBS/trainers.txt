@@ -1100,6 +1100,72 @@ Pokemon = LUCARIO,44
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 #-------------------------------
+[PESCADOR, Tapio]
+LoseText = Hasta el agua me odia hoy.
+Pokemon = LAPRAS,44
+Pokemon = LAPRAS,42
+#-------------------------------
+[PESCADOR, Matti]
+LoseText = Prefiero ahogarme que seguir escuchándote.
+Pokemon = MAMOSWINE,44
+Pokemon = LAPRAS,43
+#-------------------------------
+[PESCADOR, Jari]
+LoseText = Pura basura...
+Pokemon = MAMOSWINE,43
+Pokemon = WALREIN,45
+#-------------------------------
+[PESCADOR, Kari]
+LoseText = Al menos los peces no son tan mierda.
+Pokemon = WALREIN,44
+Pokemon = GYARADOS,44
+#-------------------------------
+[PESCADOR, Pelka]
+LoseText = Vete, cagon...
+Pokemon = MAMOSWINE,44
+Pokemon = LAPRAS,45
+#-------------------------------
+[PESCADOR, Seppo]
+LoseText = Puta madre...
+Pokemon = LAPRAS,44
+Pokemon = WALREIN,44
+#-------------------------------
+[PESCADOR, Juha]
+InitialText = Otro idiota interrumpiendo mi miserable pesca...
+LoseText = Qué sorpresa...
+Pokemon = WALREIN,45
+Pokemon = WALREIN,44
+#-------------------------------
+[PESCADOR, Gunnar]
+InitialText = Muévete, miseria!
+LoseText = Perdedor pescando a otro perdedor... Duro...
+Pokemon = WALREIN,44
+Pokemon = WALREIN,42
+#-------------------------------
+[LEADER_Lugo, Lugo]
+Items = FULLRESTORE, FULLRESTORE
+LoseText = Naaah broder que puta mierda...
+Pokemon = WALREIN,44
+    Moves = HAIL, BLIZZARD, REST, SNORE
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = MAMOSWINE,46
+    Moves = ICEFANG, EARTHQUAKE, MIST, THRASH
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = LAPRAS,46
+    Moves = BLIZZARD, HYDROPUMP, PERISHSONG, CONFUSERAY
+    Item = FLYINGGEM
+    IV = 20,20,20,20,20,20
+Pokemon = JYNX,48
+    Moves = BLIZZARD, PSYSHOCK, PERISHSONG, LOVELYKISS
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = WEAVILE,48
+    Moves = NIGHTSLASH, ICEPUNCH, TAUNT, SCREECH
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
 [INGENIERO, Ignacio]
 LoseText = Mi software tiene menos bugs que tus pokémon.
 Pokemon = MAGNETON,47

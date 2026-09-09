@@ -470,6 +470,13 @@ BaseMoney = 100
 BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
 VictoryBGM = HGSS 144 Victory! (Gym Leader)
 #-------------------------------
+[LEADER_Lugo]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
 [LEADER_JDiego]
 Name = Líder de gimnasio
 Gender = Male
