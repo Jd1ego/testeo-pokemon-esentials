@@ -694,3 +694,21 @@ Name = Señorita Aroma
 Gender = Female
 BaseMoney = 16
 IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[POLICIA]
+Name = Policia
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[MUSICO]
+Name = Musico
+Gender = Male
+BaseMoney = 64
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[MUSICA]
+Name = Musica
+Gender = Female
+BaseMoney = 64
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)

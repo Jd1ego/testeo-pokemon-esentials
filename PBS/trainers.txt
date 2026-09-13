@@ -1166,6 +1166,41 @@ Pokemon = WEAVILE,48
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 #-------------------------------
+[POLICIA, Belisario]
+LoseText = Tenía que arruinar mi turno el mkon este...
+Pokemon = ARCANINE,46
+Pokemon = AGGRON,46
+#-------------------------------
+[POLICIA, Argemiro]
+LoseText = Mejor me voy a comer empanada...
+Pokemon = MACHAMP,46
+Pokemon = AMPHAROS,46
+#-------------------------------
+[POLICIA, Heriberto]
+LoseText = Y ahora debo hacer nada...
+Pokemon = AGGRON,46
+Pokemon = ARCANINE,46
+#-------------------------------
+[MUSICO, Denis]
+LoseText = Mierda...
+Pokemon = VAPOREON,48
+Pokemon = FLAREON,48
+#-------------------------------
+[MUSICO, Nico]
+LoseText = Jueputa...
+Pokemon = JOLTEON,48
+Pokemon = LEAFEON,48
+#-------------------------------
+[MUSICO, David]
+LoseText = Excelente...
+Pokemon = ESPEON,48
+Pokemon = UMBREON,48
+#-------------------------------
+[MUSICA, Kathering]
+LoseText = Mmmm, ta bien...
+Pokemon = GLACEON,48
+Pokemon = SYLVEON,48
+#-------------------------------
 [INGENIERO, Ignacio]
 LoseText = Mi software tiene menos bugs que tus pokémon.
 Pokemon = MAGNETON,47
