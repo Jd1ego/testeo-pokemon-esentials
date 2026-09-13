@@ -6630,3 +6630,10 @@ Price = 0
 Flags = KeyItem
 Description = Es un PIC16F877A. Se programa en Assembler (Que asco).
 #-------------------------------
+[APENDICE]
+Name = Apendice de Lugo
+NamePlural = Apendices de Lugo
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Creo que Lugo lo necesita de vuelta...

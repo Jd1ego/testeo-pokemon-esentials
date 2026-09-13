@@ -403,10 +403,9 @@ Cave,7
 #---------------------------------
 [133] # Ruta 5
 Land,11
-    30,MAREEP,12,15
-    45,ZANGOOSE,12,15
-    10,COMBEE,12,15
-    10,ABRA,10
+    40,MAREEP,12,15
+    25,COMBEE,12,15
+    30,ABRA,10
     5,JIGGLYPUFF,12,15
 Water,5
     80,TENTACOOL,10
@@ -438,10 +437,9 @@ Land,11
 #---------------------------------
 [135] # FabLab
 Land,11
-    30,ZANGOOSE,18,22
-    20,MAREEP,18,22
-    15,MAGNEMITE,18,22
-    25,FURRET,22
+    30,MAREEP,18,22
+    20,MAGNEMITE,18,22
+    40,FURRET,22
     10,BELDUM,18,22
 #---------------------------------
 [137] # Ruta 7
@@ -501,9 +499,8 @@ Land,11
 #---------------------------------
 [171] # Puente Ibagué
 Cave,13
-    35,GASTLY,20
-    45,LITWICK,25
-    20,DRIFLOON,25
+    60,GASTLY,20
+    40,DRIFLOON,25
 #---------------------------------
 [172] # Sementerio Ibagué
 Cave,7
@@ -611,7 +608,30 @@ GoodRod
 #---------------------------------
 [204] # IcebergOn
 Cave,7
-    35,SWINUB,30,32
-    35,SPHEAL,30,32
-    15,SNEASEL,30,32
-    15,DRUDDIGON,30,32
+    40,SWINUB,30,32
+    40,SPHEAL,30,32
+    20,DRUDDIGON,30,32
+#---------------------------------
+[218] # Torre Safari Piso 1
+Cave,11
+    80,ZANGOOSE,35
+    10,SWABLU,35
+    10,DRUDDIGON,35
+#---------------------------------
+[219] # Torre Safari Piso 2
+Cave,11
+    80,LAPRAS,35
+    10,TANGROWTH,35
+    10,STARMIE,35
+#---------------------------------
+[220] # Torre Safari Piso 3
+Cave,11
+    80,LITWICK,35
+    10,HAUNTER,35
+    10,DRIFBLIM,35
+#---------------------------------
+[221] # Torre Safari Piso 4
+Cave,11
+    80,SNEASEL,35
+    10,SPHEAL,35
+    10,SWINUB,35
