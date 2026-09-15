@@ -467,10 +467,11 @@ Land,11
 #---------------------------------
 [159] # Ruta 8
 Land,11
+    25,GOTHITA,25
     20,SPOINK,25,27
-    30,STARAVIA,25,27
+    10,STARAVIA,25,27
     30,COTTONEE,25,27
-    20,GROWLITHE,25,27
+    15,GROWLITHE,25,27
 #---------------------------------
 [164] # Cordillera Occidental
 Cave,7

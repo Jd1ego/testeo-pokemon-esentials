@@ -283,7 +283,7 @@ LoseText = Nooo! Me despeinaste a mis pokemones...
 Pokemon = SENTRET,8
 Pokemon = BUNEARY,8
 #-------------------------------
-[FRIKI,Cornelio]
+[FRIKI,Cornelio,1]
 LoseText = Bueno mamon, te dejaré sano...
 Pokemon = ZUBAT,9
 Pokemon = EKANS,10
@@ -913,6 +913,12 @@ Pokemon = HAUNTER,32
 LoseText = Bueno! Ya le devolvemos su chimbada...
 Pokemon = SPIRITOMB,32
 Pokemon = HAUNTER,32
+#-------------------------------
+[FRIKI,Cornelio,2]
+LoseText = Puta vida, rata!
+Pokemon = GOLBAT,26
+Pokemon = ABSOL,26
+Pokemon = GRAVELER,26
 #-------------------------------
 [MONTANERO, Viernes]
 LoseText = Van a estar a todo ojete...
