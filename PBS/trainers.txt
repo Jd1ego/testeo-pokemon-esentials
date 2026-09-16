@@ -989,6 +989,41 @@ LoseText = Bueno! Ya le devolvemos su chimbada...
 Pokemon = SPIRITOMB,32
 Pokemon = HAUNTER,32
 #-------------------------------
+[MONTANERO, Ezequiel]
+LoseText = Perdí contra un don nadie...
+Pokemon = CUBONE,26
+Pokemon = NOSEPASS,26
+#-------------------------------
+[MONTANERO, Alcides]
+LoseText = Odio este monte.
+Pokemon = ARON,27
+Pokemon = ARON,26
+#-------------------------------
+[MONTANERO, Eriberto]
+LoseText = Mejor me vuelvo a cuidar vacas.
+Pokemon = CUBONE,26
+Pokemon = ARON,26
+#-------------------------------
+[MONTANERO, Dagoberto]
+LoseText = Dejame en paz, chino mka.
+Pokemon = CUBONE,27
+Pokemon = NUMEL,26
+#-------------------------------
+[EXPLORADORA, Luz Marina]
+LoseText = Perfecto, ahora mi mapa vale pa mierda.
+Pokemon = KIRLIA,27
+Pokemon = JIGGLYPUFF,26
+#-------------------------------
+[EXPLORADORA, Yamile]
+LoseText = Larguese...
+Pokemon = FURRET,27
+Pokemon = KIRLIA,27
+#-------------------------------
+[EXPLORADORA, Esperanza]
+LoseText = Sigo sin tenerme.
+Pokemon = FURRET,27
+Pokemon = JIGGLYPUFF,26
+#-------------------------------
 [FRIKI,Cornelio,2]
 LoseText = Puta vida, rata!
 Pokemon = GOLBAT,26
@@ -1165,6 +1200,27 @@ Pokemon = MAGMORTAR,40
     Item = EXPERTBELT
     IV = 20,20,20,20,20,20
 #-------------------------------
+[NADADOR, Chad]
+LoseText = Al menos ya no siento mis piernas.
+Pokemon = TANGROWTH,39
+Pokemon = GYARADOS,40
+#-------------------------------
+[NADADOR, Britney]
+InitialText = Tragué agua salada por tu pta culpa.
+LoseText = Odio el mar...
+Pokemon = SHARPEDO,40
+Pokemon = TANGROWTH,40
+#-------------------------------
+[NADADORA, Chloe]
+LoseText = Mis Pokémon están cansados...
+Pokemon = SHARPEDO,40
+Pokemon = GYARADOS,39
+#-------------------------------
+[NADADORA, Jessica]
+LoseText = Imposible!
+Pokemon = TENTACRUEL,40
+Pokemon = SEADRA,39
+#-------------------------------
 [KARATEKA, Minho]
 LoseText = Mierda, mis pokémon son de cristal...
 Pokemon = HARIYAMA,38
@@ -1223,6 +1279,26 @@ Pokemon = LUCARIO,44
     Moves = DRAINPUNCH,METALSOUND, METALCLAW, EXTREMESPEED
     Item = LIFEORB
     IV = 20,20,20,20,20,20
+#-------------------------------
+[NADADORA, Zoe]
+LoseText = Me diste un buen chapuzón!
+Pokemon = TENTACRUEL,44
+Pokemon = TENTACRUEL,44
+#-------------------------------
+[NADADORA, Maya]
+LoseText = Nadas mucho más rápido que yo!
+Pokemon = SEADRA,43
+Pokemon = TANGROWTH,43
+#-------------------------------
+[NADADOR, Sven]
+LoseText = Qué asco...
+Pokemon = GYARADOS,44
+Pokemon = SHARPEDO,44
+#-------------------------------
+[NADADOR, Hans]
+LoseText = En el orto. Me las guardo en el orto.
+Pokemon = SEADRA,43
+Pokemon = SEADRA,44
 #-------------------------------
 [PESCADOR, Tapio]
 LoseText = Hasta el agua me odia hoy.
@@ -1290,6 +1366,46 @@ Pokemon = WEAVILE,48
     Moves = NIGHTSLASH, ICEPUNCH, TAUNT, SCREECH
     Item = CHOICEBAND
     IV = 20,20,20,20,20,20
+#-------------------------------
+[NADADORA, Ingrid]
+LoseText = También vas a ganarme en aguantar la respiración?
+Pokemon = TENTACRUEL,47
+Pokemon = SEADRA,48
+#-------------------------------
+[NADADORA, Yuki]
+LoseText = Ahora flotan mis lágrimas de frustración.
+Pokemon = TANGROWTH,48
+Pokemon = TENTACRUEL,47
+#-------------------------------
+[NADADORA, Talav]
+LoseText = El calambre que siento es brutal.
+Pokemon = SHARPEDO,47
+Pokemon = SEADRA,48
+#-------------------------------
+[NADADORA, Chantal]
+LoseText = Espero que tu victoria haya sido miserable.
+Pokemon = GYARADOS,48
+Pokemon = TANGROWTH,47
+#-------------------------------
+[NADADOR, Bjorn]
+LoseText = Genial, ahora tengo frío y miedo de polla.
+Pokemon = SEADRA,47
+Pokemon = SEADRA,48
+#-------------------------------
+[NADADOR, Dimitri]
+LoseText = Al menos la derrota me dio calor corporal. Qué triste.
+Pokemon = TENTACRUEL,47
+Pokemon = TENTACRUEL,48
+#-------------------------------
+[NADADOR, Pierre]
+LoseText = Sigo con los huevos congelados...
+Pokemon = SEADRA,43
+Pokemon = SEADRA,44
+#-------------------------------
+[NADADOR, Keiko]
+LoseText = No soporto más esta humillación.
+Pokemon = SHARPEDO,43
+Pokemon = TANGROWTH,43
 #-------------------------------
 [POLICIA, Belisario]
 LoseText = Tenía que arruinar mi turno el mkon este...
