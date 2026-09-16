@@ -712,3 +712,9 @@ Name = Musica
 Gender = Female
 BaseMoney = 64
 IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[RAPPI]
+Name = Rappi
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)

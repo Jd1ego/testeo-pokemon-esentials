@@ -1150,6 +1150,81 @@ Pokemon = ELECTRODE,34
 Pokemon = MAGNETON,34
 Pokemon = EXCADRILL,34
 #-------------------------------
+[MOTERO, Deivis]
+LoseText = Como quedó mi moto?
+Pokemon = HOUNDOOM,35
+Pokemon = ARCANINE,35
+#-------------------------------
+[MOTERO, Keyner]
+LoseText = Ojalá la gasolina fuera tan barata...
+Pokemon = ARCANINE,35
+Pokemon = ARCANINE,35
+#-------------------------------
+[MOTERO, Wilfran]
+LoseText = Qué flojera...
+Pokemon = MUK,35
+Pokemon = HOUNDOOM,35
+#-------------------------------
+[MOTERO, Eliecer]
+LoseText = Aplastado por un chino hpta...
+Pokemon = HOUNDOOM,35
+Pokemon = ARCANINE,35
+#-------------------------------
+[MOTERO, Aldair]
+LoseText = Vaya pa donde se le de la gana...
+Pokemon = MUK,35
+Pokemon = MUK,35
+#-------------------------------
+[MOTERO, Joche]
+LoseText = Vaya coma mierda entonces...
+Pokemon = ARBOK,35
+Pokemon = HOUNDOOM,35
+#-------------------------------
+[RAPPI, Yorman]
+LoseText = Perfeto marico, ahora me calificarán con una estrella.
+Pokemon = GOLBAT,35
+Pokemon = NUZLEAF,35
+#-------------------------------
+[RAPPI, Winder]
+LoseText = Ojalá tu mamá le pague la entrega.
+Pokemon = NOCTOWL,35
+Pokemon = NOCTOWL,35
+#-------------------------------
+[RAPPI, Franklin]
+LoseText = Otra entrega que llegará tarde por su culpa mamaguevo.
+Pokemon = NUZLEAF,35
+Pokemon = NOCTOWL,35
+#-------------------------------
+[RAPPI, Eudis]
+LoseText = Sin propina y sin Pokémon...
+Pokemon = GOLBAT,35
+Pokemon = ALTARIA,35
+#-------------------------------
+[RAPPI, Oneiber]
+LoseText = Le diré al jefe que un pelao mka me robo la cicla.
+Pokemon = ALTARIA,35
+Pokemon = NUZLEAF,35
+#-------------------------------
+[RAPPI, Gleiber]
+LoseText = El marico cliente canceló el pedido...
+Pokemon = GOLBAT,35
+Pokemon = GOLBAT,35
+#-------------------------------
+[MOTERO, Faustino]
+LoseText = Perro de mierda...
+Pokemon = MUK,35
+Pokemon = ARBOK,35
+#-------------------------------
+[MOTERO, Wilberto]
+LoseText = Este careverga como nos ganó?
+Pokemon = MUK,35
+Pokemon = ARCANINE,35
+#-------------------------------
+[MOTERO, Dagoberto]
+LoseText = Se salvó, pelao mka...
+Pokemon = ARCANINE,35
+Pokemon = MUK,35
+#-------------------------------
 [CIENTIFICO, Yovani]
 LoseText = La bala me alcanzó...
 Pokemon = ARCANINE,36
