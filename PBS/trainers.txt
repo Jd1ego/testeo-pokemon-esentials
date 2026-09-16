@@ -190,6 +190,78 @@ Pokemon = STARAVIA,24
 Pokemon = ARBOK,22
 Pokemon = MAGNEMITE,22
 #-------------------------------
+[RIVAL1,Blue,13]
+LoseText = Gay...
+Pokemon = TYPHLOSION,38
+Pokemon = STARAPTOR,36
+Pokemon = TOGETIC,34
+Pokemon = MAGNETON,38
+#-------------------------------
+[RIVAL1,Blue,14]
+LoseText = Gay...
+Pokemon = BLASTOISE,38
+Pokemon = STARAPTOR,36
+Pokemon = TOGETIC,34
+Pokemon = MAGNETON,38
+#-------------------------------
+[RIVAL1,Blue,15]
+LoseText = Gay...
+Pokemon = TORTERRA,38
+Pokemon = STARAPTOR,36
+Pokemon = TOGETIC,34
+Pokemon = MAGNETON,38
+#-------------------------------
+[RIVAL1,Blue,16]
+LoseText = Aaaaa... esta gnr...
+Pokemon = TYPHLOSION,46
+Pokemon = MAGNETON,44
+Pokemon = STARAPTOR,44
+Pokemon = SEADRA,42
+Pokemon = VICTREEBEL,42
+#-------------------------------
+[RIVAL1,Blue,17]
+LoseText = Aaaaa... esta gnr...
+Pokemon = BLASTOISE,46
+Pokemon = MAGNETON,44
+Pokemon = STARAPTOR,44
+Pokemon = MAGMAR,42
+Pokemon = VICTREEBEL,42
+#-------------------------------
+[RIVAL1,Blue,18]
+LoseText = Aaaaa... esta gnr...
+Pokemon = TORTERRA,46
+Pokemon = MAGNETON,44
+Pokemon = STARAPTOR,44
+Pokemon = MAGMAR,42
+Pokemon = SEADRA,42
+#-------------------------------
+[RIVAL1,Blue,19]
+LoseText = NO! NO! JUEPUTA! TRIPLE HPTA!
+Pokemon = TYPHLOSION,58
+Pokemon = MAGNEZONE,56
+Pokemon = STARAPTOR,56
+Pokemon = TOGEKISS,56
+Pokemon = KINGDRA,54
+Pokemon = VICTREEBEL,54
+#-------------------------------
+[RIVAL1,Blue,20]
+LoseText = NO! NO! JUEPUTA! TRIPLE HPTA!
+Pokemon = BLASTOISE,58
+Pokemon = MAGNEZONE,56
+Pokemon = STARAPTOR,56
+Pokemon = TOGEKISS,56
+Pokemon = MAGMORTAR,54
+Pokemon = VICTREEBEL,54
+#-------------------------------
+[RIVAL1,Blue,21]
+LoseText = NO! NO! JUEPUTA! TRIPLE HPTA!
+Pokemon = TORTERRA,58
+Pokemon = MAGNEZONE,56
+Pokemon = STARAPTOR,56
+Pokemon = TOGEKISS,56
+Pokemon = MAGMORTAR,54
+Pokemon = KINGDRA,54
+#-------------------------------
 #-------------------------------
 #-------------------------------
 #-------------------------------
@@ -245,15 +317,16 @@ Items = SUPERPOTION
 LoseText = Noooo, soy maricon...
 Pokemon = MAGNEMITE,12
     Moves = THUNDERSHOCK,SUPERSONIC,TACKLE,IRONDEFENSE
-    Item = SITRUSBERRY
+    Item = ROCKYHELMET
     IV = 20,20,20,20,20,20
 Pokemon = METANG,12
     Moves = CONFUSION,METALCLAW,MAGNETRISE,IRONDEFENSE
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = SKARMORY,14
+    Name = Silksong
     Moves = PECK,METALCLAW,SANDATTACK,IRONDEFENSE
-    Item = SITRUSBERRY
+    Item = SHUCABERRY
     IV = 20,20,20,20,20,20
 #-------------------------------
 [MONTANERO,Marcos]
@@ -528,12 +601,12 @@ Items = HYPERPOTION
 LoseText = Nooo chavon, no puede ser...
 Pokemon = PSYDUCK,14
     Moves = TAILWHIP,FURYSWIPES,CONFUSION,WATERPULSE
-    Item = SITRUSBERRY
+    Item = RINDOBERRY
     IV = 20,20,20,20,20,20
     Shiny = true
 Pokemon = TENTACOOL,16
     Moves = ACID,WRAP,SUPERSONIC,WATERPULSE
-    Item = SITRUSBERRY
+    Item = WACANBERRY
     IV = 20,20,20,20,20,20
     Shiny = true
 Pokemon = LAPRAS,18
@@ -544,7 +617,7 @@ Pokemon = LAPRAS,18
     Shiny = true
 Pokemon = GYARADOS,20
     Moves = TWISTER,SCARYFACE,BITE,SCALD
-    Item = SITRUSBERRY
+    Item = LIFEORB
     IV = 20,20,20,20,20,20
     Shiny = true
 #-------------------------------
@@ -799,7 +872,8 @@ Pokemon = KIRLIA,24
     IV = 20,20,20,20,20,20
 Pokemon = KADABRA,26
     Moves = PSYCHIC,RECOVER,DISABLE,REFLECT
-    Item = SITRUSBERRY
+    Name = Son Goku
+    Item = FOCUSSASH
     IV = 20,20,20,20,20,20
 #-------------------------------
 [LEADER_Track, Track]
@@ -807,16 +881,17 @@ Items = HYPERPOTION
 LoseText = Ostia...
 Pokemon = HOUNDOUR,24
     Moves = THIEF,TAUNT,SMOG,ROAR
-    Item = SITRUSBERRY
+    Item = PASSHOBERRY
     IV = 20,20,20,20,20,20
 Pokemon = SNEASEL,26
     Name = Sonic
     Moves = THIEF,ICYWIND,QUICKATTACK,METALCLAW
-    Item = SITRUSBERRY
+    Item = CHOPLEBERRY
     IV = 20,20,20,20,20,20
 Pokemon = ABSOL,26
     Moves = THIEF,SLASH,DETECT,DOUBLETEAM
-    Item = SITRUSBERRY
+    Ability = SUPERLUCK
+    Item = SCOPELENS
     IV = 20,20,20,20,20,20
 #-------------------------------
 [SENORITAAROMA, Rosa]
@@ -867,21 +942,21 @@ Pokemon = WIGGLYTUFF,26
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = AZUMARILL,28
-    Moves = DOUBLEEDGE, AQUATAIL, MUDDYWATER, PERISHSONG
-    Item = SITRUSBERRY
+    Moves = DOUBLEEDGE, AQUATAIL, MUDDYWATER, ROLLOUT
+    Item = CHOICEBAND
     IV = 20,20,20,20,20,20
 Pokemon = WHIMSICOTT,28
     Moves = TAILWIND, GUST, MEGADRAIN, DAZZLINGGLEAM
-    Item = SITRUSBERRY
+    Item = KEBIABERRY
     IV = 20,20,20,20,20,20
 Pokemon = MRMIME,30
     Moves = MISTYTERRAIN, ICYWIND, LIGHTSCREEN, PSYBEAM
-    Item = SITRUSBERRY
+    Item = LUMBERRY
     IV = 20,20,20,20,20,20
 Pokemon = TOGEKISS,30
     Name = Leclerc
     Moves = DAZZLINGGLEAM, AIRSLASH, NASTYPLOT, EXTREMESPEED
-    Item = SITRUSBERRY
+    Item = LEFTOVERS
     IV = 20,20,20,20,20,20
 #-------------------------------
 [POKEMONTRAINER_Fredy,Fredy]
@@ -968,63 +1043,6 @@ Pokemon = JOLTIK,27
 LoseText = Na jueputa...
 Pokemon = NOSEPASS,27
 #-------------------------------
-[SUPERVISORA, Martica]
-LoseText = Pero llene el formulario...
-Pokemon = MAGNETON,34
-Pokemon = ELECTRODE,34
-Pokemon = MAGNETON,34
-Pokemon = EXCADRILL,34
-#-------------------------------
-[CIENTIFICO, Yovani]
-LoseText = La bala me alcanzó...
-Pokemon = ARCANINE,36
-Pokemon = MAGMAR,36
-#-------------------------------
-[CIENTIFICO, Maicol]
-LoseText = Es como si hubiera ganado un baneo...
-Pokemon = ARCANINE,36
-Pokemon = ARCANINE,36
-#-------------------------------
-[CIENTIFICO, Dairo]
-LoseText = Me banearon...
-Pokemon = RAPIDASH,36
-Pokemon = RAPIDASH,36
-#-------------------------------
-[CIENTIFICO, Jhon]
-LoseText = Muchacho...
-Pokemon = CAMERUPT,36
-Pokemon = CAMERUPT,36
-#-------------------------------
-[CIENTIFICO, Dainer]
-LoseText = Me traspasó...
-Pokemon = CAMERUPT,36
-Pokemon = ARCANINE,36
-#-------------------------------
-[LEADER_Richie, Richie]
-Items = FULLRESTORE
-LoseText = Erda...
-Pokemon = RAPIDASH,36
-    Moves = AGILITY, FLAMEWHEEL, QUICKATTACK, WILLOWISP
-    Item = SITRUSBERRY
-    IV = 20,20,20,20,20,20
-Pokemon = ARCANINE,38
-    Moves = EXTREMESPEED, FLAREBLITZ, ROAR, AGILITY
-    Item = SITRUSBERRY
-    IV = 20,20,20,20,20,20
-Pokemon = HOUNDOOM,38
-    Moves = OVERHEAT, DOUBLETEAM, PAYBACK, FLAMETHROWER
-    Item = SITRUSBERRY
-    IV = 20,20,20,20,20,20
-Pokemon = CAMERUPT,38
-    Moves = OVERHEAT, DOUBLEEDGE, YAWN, EARTHQUAKE
-    Item = SITRUSBERRY
-    IV = 20,20,20,20,20,20
-Pokemon = MAGMORTAR,40
-    Name = Diana
-    Moves = OVERHEAT, FLAMETHROWER, CONFUSERAY, SCARYFACE
-    Item = SITRUSBERRY
-    IV = 20,20,20,20,20,20
-#-------------------------------
 [MONTANERO, Berto]
 LoseText = Genial, ahora me duele el culo.
 Pokemon = DONPHAN,31
@@ -1066,26 +1084,85 @@ LoseText = Man man man, que es esa mierda???
 Pokemon = HIPPOWDON,32
     Moves = SANDTOMB, TAKEDOWN, HEAVYSLAM, AMNESIA
     Ability = SANDSTREAM
-    Item = SITRUSBERRY
+    Item = SMOOTHROCK
     IV = 20,20,20,20,20,20
 Pokemon = GABITE,34
     Moves = DRAGONCLAW, DIG, SANDSTORM, SANDATTACK
     Ability = SANDVEIL
-    Item = SITRUSBERRY
+    Item = YACHEBERRY
     IV = 20,20,20,20,20,20
 Pokemon = EXCADRILL,36
+    Name = Clancy
     Ability = SANDRUSH
     Moves = EARTHQUAKE, SLASH, DOUBLETEAM, ROCKSLIDE
-    Item = SITRUSBERRY
+    Item = PASSHOBERRY
     IV = 20,20,20,20,20,20
 Pokemon = GOLEM,33
     Moves = SELFDESTRUCT, SMACKDOWN, BULLDOZE, SANDSTORM
-    Item = SITRUSBERRY
+    Ability = STURDY
+    Item = CUSTAPBERRY
     IV = 20,20,20,20,20,20
 Pokemon = NIDOKING,35
     Moves = THRASH, DOUBLEKICK, POISONJAB, ROAR
     Ability = SHEERFORCE
-    Item = SITRUSBERRY
+    Item = LIFEORB
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[SUPERVISORA, Martica]
+LoseText = Pero llene el formulario...
+Pokemon = MAGNETON,34
+Pokemon = ELECTRODE,34
+Pokemon = MAGNETON,34
+Pokemon = EXCADRILL,34
+#-------------------------------
+[CIENTIFICO, Yovani]
+LoseText = La bala me alcanzó...
+Pokemon = ARCANINE,36
+Pokemon = MAGMAR,36
+#-------------------------------
+[CIENTIFICO, Maicol]
+LoseText = Es como si hubiera ganado un baneo...
+Pokemon = ARCANINE,36
+Pokemon = ARCANINE,36
+#-------------------------------
+[CIENTIFICO, Dairo]
+LoseText = Me banearon...
+Pokemon = RAPIDASH,36
+Pokemon = RAPIDASH,36
+#-------------------------------
+[CIENTIFICO, Jhon]
+LoseText = Muchacho...
+Pokemon = CAMERUPT,36
+Pokemon = CAMERUPT,36
+#-------------------------------
+[CIENTIFICO, Dainer]
+LoseText = Me traspasó...
+Pokemon = CAMERUPT,36
+Pokemon = ARCANINE,36
+#-------------------------------
+[LEADER_Richie, Richie]
+Items = FULLRESTORE
+LoseText = Erda...
+Pokemon = RAPIDASH,36
+    Moves = AGILITY, FLAMEWHEEL, QUICKATTACK, WILLOWISP
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = ARCANINE,38
+    Moves = EXTREMESPEED, FLAREBLITZ, ROAR, AGILITY
+    Item = HEAVYDUTYBOOTS
+    IV = 20,20,20,20,20,20
+Pokemon = HOUNDOOM,38
+    Moves = OVERHEAT, DOUBLETEAM, PAYBACK, FLAMETHROWER
+    Item = SALACBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = CAMERUPT,38
+    Moves = OVERHEAT, DOUBLEEDGE, YAWN, EARTHQUAKE
+    Item = PASSHOBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = MAGMORTAR,40
+    Name = Diana
+    Moves = OVERHEAT, FLAMETHROWER, CLEARSMOG, THUNDERPUNCH
+    Item = EXPERTBELT
     IV = 20,20,20,20,20,20
 #-------------------------------
 [KARATEKA, Minho]
@@ -1130,19 +1207,21 @@ Pokemon = HARIYAMA,40
     IV = 20,20,20,20,20,20
 Pokemon = HERACROSS,42
     Moves = CLOSECOMBAT, PINMISSILE, TAKEDOWN, COUNTER
-    Item = SITRUSBERRY
+    Ability = GUTS
+    Item = FLAMEORB
     IV = 20,20,20,20,20,20
 Pokemon = MACHAMP,42
     Moves = CROSSCHOP, REVENGE, FORESIGHT, FOCUSENERGY
-    Item = SITRUSBERRY
+    Item = LUMBERRY
     IV = 20,20,20,20,20,20
 Pokemon = GALLADE,44
+    Name = La Dog
     Moves = DRAINPUNCH, PSYCHOCUT, SWORDSDANCE, DOUBLETEAM
-    Item = SITRUSBERRY
+    Item = COLBURBERRY
     IV = 20,20,20,20,20,20
 Pokemon = LUCARIO,44
     Moves = DRAINPUNCH,METALSOUND, METALCLAW, EXTREMESPEED
-    Item = SITRUSBERRY
+    Item = LIFEORB
     IV = 20,20,20,20,20,20
 #-------------------------------
 [PESCADOR, Tapio]
@@ -1192,23 +1271,24 @@ Items = FULLRESTORE, FULLRESTORE
 LoseText = Naaah broder que puta mierda...
 Pokemon = WALREIN,44
     Moves = HAIL, BLIZZARD, REST, SNORE
-    Item = SITRUSBERRY
+    Item = CHESTOBERRY
     IV = 20,20,20,20,20,20
 Pokemon = MAMOSWINE,46
     Moves = ICEFANG, EARTHQUAKE, MIST, THRASH
-    Item = SITRUSBERRY
+    Item = FOCUSSASH
     IV = 20,20,20,20,20,20
 Pokemon = LAPRAS,46
     Moves = BLIZZARD, HYDROPUMP, PERISHSONG, CONFUSERAY
-    Item = FLYINGGEM
+    Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
 Pokemon = JYNX,48
     Moves = BLIZZARD, PSYSHOCK, PERISHSONG, LOVELYKISS
-    Item = SITRUSBERRY
+    Item = OCCABERRY
     IV = 20,20,20,20,20,20
 Pokemon = WEAVILE,48
+    Name = M. Chief
     Moves = NIGHTSLASH, ICEPUNCH, TAUNT, SCREECH
-    Item = SITRUSBERRY
+    Item = CHOICEBAND
     IV = 20,20,20,20,20,20
 #-------------------------------
 [POLICIA, Belisario]
@@ -1281,11 +1361,11 @@ Items = FULLRESTORE, FULLRESTORE
 LoseText = Tu puta madre.
 Pokemon = GALVANTULA,48
     Moves = ELECTROWEB, BUGBITE, AGILITY, ELECTROBALL
-    Item = SITRUSBERRY
+    Item = FOCUSSASH
     IV = 20,20,20,20,20,20
 Pokemon = ELECTRODE,50
     Moves = VOLTSWITCH, SELFDESTRUCT, LIGHTSCREEN, SWIFT
-    Item = SITRUSBERRY
+    Item = LUMBERRY
     IV = 20,20,20,20,20,20
 Pokemon = EMOLGA,50
     Moves = VOLTSWITCH, DOUBLETEAM, ENCORE, ACROBATICS
@@ -1293,9 +1373,10 @@ Pokemon = EMOLGA,50
     IV = 20,20,20,20,20,20
 Pokemon = AMPHAROS,52
     Moves = DISCHARGE, CONFUSERAY, COTTONGUARD, SIGNALBEAM
-    Item = SITRUSBERRY
+    Item = SHUCABERRY
     IV = 20,20,20,20,20,20
 Pokemon = MAGNEZONE,52
-    Moves = DISCHARGE, SCREECH, FLASHCANNON, ZAPCANNON
-    Item = SITRUSBERRY
+    Name = Megadeth
+    Moves = DISCHARGE, TRIATTACK, FLASHCANNON, THUNDERBOLT
+    Item = CHOICESPECS
     IV = 20,20,20,20,20,20

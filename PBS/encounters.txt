@@ -306,14 +306,8 @@ Land,21
 #-------------------------------
 [075] # Tiall Region
 Land,21
-    20,GEODUDE_1,11,14
-    20,RATTATA_1,11,14
-    10,CUBONE,11,14
-    10,DIGLETT_1,11,14
-    10,MEOWTH_1,11,14
-    10,PIKACHU,11,14
-    10,SANDSHREW_1,11,14
-    10,VULPIX_1,11,14
+    10,RELICANTH,16,19
+    10,SHELLDER,18,19
 #-------------------------------
 [042] # Ruta 1
 Land,11

@@ -8710,3 +8710,15 @@ TotalPP = 40
 Target = User
 FunctionCode = RaiseUserDefense1
 Description = El usuario se protege en su coraza y sube la Defensa.
+#-------------------------------
+[VICEGRIP]
+Name = Agarre
+Type = NORMAL
+Category = Physical
+Power = 55
+Accuracy = 100
+TotalPP = 30
+Target = NearOther
+FunctionCode = None
+Flags = Contact,CanProtect,CanMirrorMove
+Description = El oponente es agarrado y estripado para inflingir daño.
