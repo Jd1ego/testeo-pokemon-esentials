@@ -1393,7 +1393,7 @@ Pokemon = SEADRA,47
 Pokemon = SEADRA,48
 #-------------------------------
 [NADADOR, Dimitri]
-LoseText = Al menos la derrota me dio calor corporal. Qué triste.
+LoseText = Al menos la derrota me calentó.
 Pokemon = TENTACRUEL,47
 Pokemon = TENTACRUEL,48
 #-------------------------------

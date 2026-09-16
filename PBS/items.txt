@@ -1715,7 +1715,8 @@ NamePlural = Revestim. Metálicos
 Pocket = 1
 Price = 3000
 SellPrice = 1000
-Flags = Fling_30
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
 Description = Película metálica que fortalece los ataques de tipo Acero. Debe llevarlo un Pokémon.
 #-------------------------------
 [SILKSCARF]
@@ -2378,7 +2379,8 @@ Pocket = 1
 Price = 3000
 SellPrice = 1000
 BPPrice = 5
-Flags = Fling_80
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
 Description = Esta caja contiene una enorme cantidad de energía magmática. Algunos Pokémon lo adoran.
 #-------------------------------
 [REAPERCLOTH]
