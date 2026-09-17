@@ -5213,6 +5213,16 @@ FieldUse = HM
 Move = FLASH
 Description = Luz cegadora que baja la Precisión del objetivo. Fuera de combate sirve para iluminar.
 #-------------------------------
+[HM08]
+Name = MO08
+NamePlural = MO08s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Flags = Fling_40
+Move = ROCKSMASH
+Description = Puñetazo que puede bajar el ataque del oponente. Fuera de combate sirve para destruir rocas.
+#-------------------------------
 [CHERIBERRY]
 Name = Baya Zreza
 NamePlural = Bayas Zreza
@@ -6647,3 +6657,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Creo que Lugo lo necesita de vuelta...
+#-------------------------------
+[CELUCO]
+Name = Celuco de Lasprilla
+NamePlural = Celucos de Lasprilla
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un iPhone que pertenece a Lasprilla. Está descargado.

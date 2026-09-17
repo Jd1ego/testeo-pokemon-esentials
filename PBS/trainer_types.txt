@@ -561,12 +561,14 @@ IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
 Name = RECLUTA
 Gender = Male
 BaseMoney = 16
+BattleBGM = HGSS 135 Battle! (Team Rocket)
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
 #-------------------------------
 [RECLUTA_F]
 Name = RECLUTA
 Gender = Female
 BaseMoney = 16
+BattleBGM = HGSS 135 Battle! (Team Rocket)
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
 #-------------------------------
 [LADRON]
@@ -718,3 +720,10 @@ Name = Rappi
 Gender = Male
 BaseMoney = 32
 IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[ROCKETADMIN_Carrillo]
+Name = Jefe de FdC
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 135 Battle! (Team Rocket)
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)

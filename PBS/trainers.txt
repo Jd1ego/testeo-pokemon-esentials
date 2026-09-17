@@ -1571,3 +1571,43 @@ Pokemon = MAGNEZONE,52
     Moves = DISCHARGE, TRIATTACK, FLASHCANNON, THUNDERBOLT
     Item = CHOICESPECS
     IV = 20,20,20,20,20,20
+#-------------------------------
+[RECLUTA_F, DE LA FDC, 7]
+LoseText = Me van a matar...
+Pokemon = NUZLEAF,44
+Pokemon = GOLBAT,44
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 14]
+LoseText = Jueputa...
+Pokemon = MUK,44
+Pokemon = NUZLEAF,44
+#-------------------------------
+[RECLUTA_F, DE LA FDC, 8]
+LoseText = Perdón jefe...
+Pokemon = GOLBAT,44
+Pokemon = GOLBAT,44
+#-------------------------------
+[RECLUTA_M, DE LA FDC, 15]
+LoseText = No soy digno...
+Pokemon = MUK,44
+Pokemon = MUK,44
+#-------------------------------
+[ROCKETADMIN_Carrillo, Carrillo]
+LoseText = Les fallé a todos...
+Pokemon = CROBAT,46
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = HOUNDOOM,46
+    Item = LIFEORB
+    IV = 20,20,20,20,20,20
+Pokemon = ALTARIA,46
+    Item = YACHEBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = NIDOQUEEN,46
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = SCIZOR,46
+    Moves = BULLETPUNCH, WINGATTACK, XSCISSOR,BRUTALSWING
+    Item = CHOICEBAND
+    Ability = TECHNICIAN
+    IV = 20,20,20,20,20,20
