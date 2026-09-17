@@ -103,15 +103,6 @@ LoseText = Washed out!
 Pokemon = STARYU,15
 Pokemon = GOLDEEN,11
 #-------------------------------
-[CHAMPION,Blue]
-LoseText = A good battle indeed!
-Pokemon = VENUSAUR,63
-    Item = SITRUSBERRY
-Pokemon = CHARIZARD,63
-    Item = SITRUSBERRY
-Pokemon = BLASTOISE,63
-    Item = SITRUSBERRY
-#-------------------------------
 #-------------------------------
 #-------------------------------
 #-------------------------------
@@ -235,32 +226,32 @@ Pokemon = STARAPTOR,44
 Pokemon = MAGMAR,42
 Pokemon = SEADRA,42
 #-------------------------------
-[RIVAL1,Blue,19]
+[CHAMPION,Blue,1]
 LoseText = NO! NO! JUEPUTA! TRIPLE HPTA!
 Pokemon = TYPHLOSION,58
-Pokemon = MAGNEZONE,56
-Pokemon = STARAPTOR,56
-Pokemon = TOGEKISS,56
-Pokemon = KINGDRA,54
-Pokemon = VICTREEBEL,54
+Pokemon = MAGNEZONE,57
+Pokemon = STARAPTOR,57
+Pokemon = TOGEKISS,57
+Pokemon = KINGDRA,56
+Pokemon = VICTREEBEL,56
 #-------------------------------
-[RIVAL1,Blue,20]
+[CHAMPION,Blue,2]
 LoseText = NO! NO! JUEPUTA! TRIPLE HPTA!
 Pokemon = BLASTOISE,58
-Pokemon = MAGNEZONE,56
-Pokemon = STARAPTOR,56
-Pokemon = TOGEKISS,56
-Pokemon = MAGMORTAR,54
-Pokemon = VICTREEBEL,54
+Pokemon = MAGNEZONE,57
+Pokemon = STARAPTOR,57
+Pokemon = TOGEKISS,57
+Pokemon = MAGMORTAR,56
+Pokemon = VICTREEBEL,56
 #-------------------------------
-[RIVAL1,Blue,21]
+[CHAMPION,Blue,3]
 LoseText = NO! NO! JUEPUTA! TRIPLE HPTA!
 Pokemon = TORTERRA,58
-Pokemon = MAGNEZONE,56
-Pokemon = STARAPTOR,56
-Pokemon = TOGEKISS,56
-Pokemon = MAGMORTAR,54
-Pokemon = KINGDRA,54
+Pokemon = MAGNEZONE,57
+Pokemon = STARAPTOR,57
+Pokemon = TOGEKISS,57
+Pokemon = MAGMORTAR,56
+Pokemon = KINGDRA,56
 #-------------------------------
 #-------------------------------
 #-------------------------------

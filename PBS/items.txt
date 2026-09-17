@@ -6665,3 +6665,19 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Un iPhone que pertenece a Lasprilla. Está descargado.
+#-------------------------------
+[MEDALLA1]
+Name = Medalla Contendiente
+NamePlural = Medallas Contendiente
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Una medalla plateada que certifica tu titulo como "Contendiente de La Banda".
+#-------------------------------
+[MEDALLA2]
+Name = Medalla Miembro
+NamePlural = Medallas Miembro
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Una medalla dorada que certifica tu titulo como "Miembro de La Banda".

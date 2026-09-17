@@ -409,11 +409,11 @@ BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
 #-------------------------------
 [CHAMPION]
-Name = Champion
+Name = Contendiente
 Gender = Male
 BaseMoney = 100
-BattleBGM = Battle Champion
-VictoryBGM = Battle victory leader
+BattleBGM = HGSS 278 Battle! (Champion)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
 #-------------------------------
 [RIVAL1]
 Name = Rival
@@ -727,3 +727,31 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = HGSS 135 Battle! (Team Rocket)
 IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[ELITE_JeffSanti]
+Name = Elite
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[ELITE_Stiven]
+Name = Elite
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[ELITE_Fredy]
+Name = Elite
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[ELITE_Lasprilla]
+Name = Elite
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
