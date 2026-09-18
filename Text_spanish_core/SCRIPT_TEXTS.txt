@@ -3089,15 +3089,15 @@ A
 B
 B
 C
-DO
+C
 D
 D
 E
-MI
+E
 F
 F
 G
-GRAMO
+G
 H
 H
 I
@@ -3109,13 +3109,13 @@ K
 L
 L
 M
-METRO
+M
 N
-NORTE
+N
 O
 O
 P
-PAG
+P
 Q
 Q
 R
@@ -3131,7 +3131,7 @@ V
 W
 Q
 X
-INCÓGNITA
+X
 Y
 T
 Z
@@ -3259,7 +3259,7 @@ No hay suficientes HP...
 {1} can't be used on that Pokémon.
 {1} no se puede usar en ese Pokémon.
 Switch
-Mover
+Cambiar
 Do what with the mail?
 ¿Hacer qué con el correo?
 Read
@@ -3605,11 +3605,11 @@ Si guardas ahora, la aventura del otro archivo, incluidos los elementos y Pokém
 Are you sure you want to save now and overwrite the other save file?
 ¿Estás seguro de que quieres guardar ahora y sobrescribir el otro archivo guardado?
 {1} saved the game.
-{1} salvó el juego.
+{1} guardó el juego.
 Close
 Cerrar
 Type {1}/{2}
-Escriba {1}/{2}
+Tipo {1}/{2}
 Close the screen.
 Cierra la pantalla.
 Music Volume
@@ -3617,7 +3617,7 @@ Volumen de música
 Adjust the volume of the background music.
 Ajusta el volumen de la música de fondo.
 SE Volume
-Volumen SE
+Volumen SFX
 Adjust the volume of sound effects.
 Ajusta el volumen de los efectos de sonido.
 Text Speed
@@ -3631,21 +3631,21 @@ Elige la velocidad a la que aparece el texto.
 Battle Effects
 Efectos de batalla
 On
-En
+Si
 Off
-Apagado
+No
 Choose whether you wish to see move animations in battle.
 Elige si deseas ver animaciones de movimiento en la batalla.
 Battle Style
 Estilo de batalla
 Set
-Colocar
+Fijo
 Choose whether you can switch Pokémon when an opponent's Pokémon faints.
 Elige si puedes cambiar de Pokémon cuando el Pokémon de un oponente se debilita.
 Default Movement
 Movimiento predeterminado
 Walking
-Caminando
+Caminar
 Running
 Correr
 Choose your movement speed. Hold Back while moving to move at the other speed.
@@ -3659,11 +3659,11 @@ Elige si los Pokémon capturados se envían a tus Cajas cuando tu grupo esté ll
 Give Nicknames
 Dar apodos
 Don't give
-No des
+No dar
 Choose whether you can give a nickname to a Pokémon when you obtain it.
 Elige si puedes darle un apodo a un Pokémon cuando lo obtengas.
 Speech Frame
-Marco del discurso
+Marco del dialogo
 Choose the appearance of dialogue boxes.
 Elija la apariencia de los cuadros de diálogo.
 Menu Frame
@@ -3681,9 +3681,9 @@ Elija cómo desea ingresar el texto.
 Screen Size
 Tamaño de pantalla
 XL
-SG
+XL
 Full
-Lleno
+Full
 Choose the size of the game window.
 Elige el tamaño de la ventana del juego.
 >99
@@ -4767,11 +4767,11 @@ Perder texto
 Message shown in battle when the Trainer is defeated.
 Mensaje que se muestra en la batalla cuando el Entrenador es derrotado.
 Pokémon {1}
-Pokémon {1}
+{1} Pokémon 
 A Pokémon owned by the Trainer.
 Un Pokémon propiedad del Entrenador.
 Item {1}
-Objeto {1}
+{1} Objeto
 An item used by the Trainer during battle.
 Un objeto usado por el Entrenador durante la batalla.
 Trainer Battles
