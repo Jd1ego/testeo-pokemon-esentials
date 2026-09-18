@@ -1112,3 +1112,8 @@ SafariMap = true
 [221]   # TS P4
 Name = TS P4
 SafariMap = true
+#-------------------------------
+[223]   # Bosques Aulladores (Giratina)
+Name = Bosques Aulladores
+Outdoor = true
+Weather = Fog,100

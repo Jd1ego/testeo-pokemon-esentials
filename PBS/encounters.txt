@@ -630,3 +630,8 @@ Cave,11
     80,SNEASEL,35
     10,SPHEAL,35
     10,SWINUB,35
+#---------------------------------
+[223] # Zona Giratina
+Cave,7
+    50,HAUNTER,50
+    50,DRIFBLIM,50

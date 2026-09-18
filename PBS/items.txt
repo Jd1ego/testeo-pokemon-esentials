@@ -6697,3 +6697,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Un cupon que permite el reclamo de una Bicicleta.
+#-------------------------------
+[CERTIFICADOING]
+Name = Certificado de Ingeniero
+NamePlural = Certificados de Ingeniero
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un papel que te certifica como ingeniero. No es tuyo pero te sirve, supongo.
