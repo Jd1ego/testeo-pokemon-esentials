@@ -1159,8 +1159,8 @@ Description = Aumenta mucho la Velocidad cuando el Pokémon erra el movimiento d
 [THROATSPRAY]
 Name = Espray Bucal
 NamePlural = Espráis Bucales
-PortionName = bottle of Throat Spray
-PortionNamePlural = bottles of Throat Spray
+PortionName = Botella de Throat Spray
+PortionNamePlural = Botella de Throat Spray
 Pocket = 1
 Price = 4000
 BPPrice = 10
@@ -3191,8 +3191,8 @@ Description = Chocolatina de sabor dulce. Restaura 20 PS de un Pokémon.
 [FRESHWATER]
 Name = Agua Fresca
 NamePlural = Aguas Frescas
-PortionName = bottle of Fresh Water
-PortionNamePlural = bottles of Fresh Water
+PortionName = Botella de Fresh Water
+PortionNamePlural = Botella de Fresh Water
 Pocket = 2
 Price = 200
 FieldUse = OnPokemon
@@ -3203,8 +3203,8 @@ Description = Agua de alto contenido mineral que restaura 30 PS de un Pokémon.
 [SODAPOP]
 Name = Refresco
 NamePlural = Refrescos
-PortionName = bottle of Soda Pop
-PortionNamePlural = bottles of Soda Pop
+PortionName = Botella de Soda Pop
+PortionNamePlural = Botella de of Soda Pop
 Pocket = 2
 Price = 300
 FieldUse = OnPokemon
@@ -3228,8 +3228,8 @@ Description = Bebida dulce que restaura 70 PS de un Pokémon.
 [MOOMOOMILK]
 Name = Leche Mu-mu
 NamePlural = Leches Mu-mu
-PortionName = bottle of Moomoo Milk
-PortionNamePlural = bottles of Moomoo Milk
+PortionName = Botella de Moomoo Milk
+PortionNamePlural = Botella de Moomoo Milk
 Pocket = 2
 Price = 600
 FieldUse = OnPokemon
@@ -3404,8 +3404,8 @@ Description = Nutritiva bebida que sube el At. Esp. de un Pokémon.
 [ZINC]
 Name = Zinc
 NamePlural = Zincs
-PortionName = bottle of Zinc
-PortionNamePlural = bottles of Zinc
+PortionName = Botella de Zinc
+PortionNamePlural = Botella de Zinc
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
@@ -3415,8 +3415,8 @@ Description = Nutritiva bebida que aumenta la Defensa Especial de un Pokémon.
 [CARBOS]
 Name = Carburante
 NamePlural = Carburantes
-PortionName = bottle of Carbos
-PortionNamePlural = bottles of Carbos
+PortionName = Botella de Carbos
+PortionNamePlural = Botella de Carbos
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
