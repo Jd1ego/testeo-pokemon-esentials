@@ -52,8 +52,8 @@ LandNight,21
 Land,21
     50,RATTATA,12,15
     30,POOCHYENA,11,15
-    10,SHINX,10,12
     10,SHINX,10,11
+    10,SHINX,10,12
 Water,2
     60,MAGIKARP,7,10
     30,GOLDEEN,11,14
@@ -85,14 +85,15 @@ PokeRadar,10
 [022] # Universidad
 Land,11
     20,HERACROSS,5,15
+    80,DONPHAN,5,95
 #-------------------------------
 [028] # Natural Park
 Land,21
     20,CATERPIE,10
     20,SUNKERN,12
     20,WEEDLE,10
-    15,PIDGEY,10,14
     15,PIDGEY,12,14
+    15,PIDGEY,10,14
     5,KAKUNA,10
     5,METAPOD,10
 LandNight,21
@@ -198,19 +199,19 @@ RockSmash,50
 #-------------------------------
 [049] # Rock Cave 1F
 Cave,5
-    20,MAGNETON,14,16
     20,MAGNETON,14,17
-    20,NOSEPASS,14,15
+    20,MAGNETON,14,16
     20,NOSEPASS,13,14
+    20,NOSEPASS,14,15
     10,GEODUDE,13,15
     10,MAWILE,14,16
 #-------------------------------
 [050] # Rock Cave B1F
 Cave,5
-    20,MAGNETON,14,16
     20,MAGNETON,14,17
-    20,NOSEPASS,14,15
+    20,MAGNETON,14,16
     20,NOSEPASS,13,14
+    20,NOSEPASS,14,15
     10,BURMY,14,16
     10,GEODUDE,13,15
 #-------------------------------
@@ -238,8 +239,8 @@ Land,21
     20,RHYHORN,16,18
     10,AIPOM,14,17
     10,GIRAFARIG,16,17
-    10,VENONAT,15,17
     10,VENONAT,15,18
+    10,VENONAT,15,17
     5,HERACROSS,15,17
     5,TAUROS,15,16
     4,PINSIR,16
@@ -270,13 +271,13 @@ Land,21
     20,MAREEP,16,18
     20,ODDISH,15,17
     13,BONSLY,14,16
-    10,DITTO,15,17
     10,DITTO,16,18
+    10,DITTO,15,17
     10,LOTAD,15,18
     10,LOTAD,15,17
     5,BONSLY,14,17
-    1,BONSLY,15,16
     1,BONSLY,15
+    1,BONSLY,15,16
 Water,2
     60,TENTACOOL,14,19
     30,MANTYKE,15,16
@@ -305,11 +306,332 @@ Land,21
 #-------------------------------
 [075] # Tiall Region
 Land,21
-    20,GEODUDE_1,11,14
-    20,RATTATA_1,11,14
-    10,CUBONE,11,14
-    10,DIGLETT_1,11,14
-    10,MEOWTH_1,11,14
-    10,PIKACHU,11,14
-    10,SANDSHREW_1,11,14
-    10,VULPIX_1,11,14
+    10,RELICANTH,16,19
+    10,SHELLDER,18,19
+#-------------------------------
+[042] # Ruta 1
+Land,11
+    10,WEEDLE,2,4
+    45,STARLY,2,4
+    45,SENTRET,2,4
+#---------------------------------
+[048] # Ruta 2
+Land,11
+    35,SHROOMISH,2,4
+    30,STARLY,2,4
+    25,SENTRET,2,4
+    10,IGGLYBUFF,1
+#---------------------------------
+[076] # Monte Pionono
+Land,11
+    20,SENTRET,3,5
+    10,HOOTHOOT,3,5
+    40,WEEDLE,3,5
+    10,KAKUNA,5
+    20,EKANS,3,5
+#---------------------------------
+[097] # Cordillera Oriental
+Cave,7
+    20,PHANPY,5,7
+    20,GEODUDE,5,7
+    20,ZUBAT,5,7
+    40,ONIX,5,7
+#---------------------------------
+[098] # CO Sotano 1
+Cave,11
+    20,PHANPY,5,7
+    20,GEODUDE,5,7
+    20,ZUBAT,5,7
+    40,PARAS,5,7
+#---------------------------------
+[099] # CO Sotano 2
+Cave,7
+    30,PHANPY,5,7
+    30,GEODUDE,5,7
+    30,ZUBAT,5,7
+    10,ABSOL,5,7
+#---------------------------------
+[126] # Ruta 3
+Land,11
+    40,BUNEARY,8,10
+    40,MACHOP,8,10
+    20,SHROOMISH,8,10
+#---------------------------------
+[128] # Ruta 3a
+Land,11
+    10,ABRA,8
+    20,STARLY,8,10
+    35,BELLSPROUT,8,10
+    35,COMBEE,8,10
+#---------------------------------
+[129] # Ruta 4
+Land,11
+    40,BUNEARY,8,10
+    40,MACHOP,8,10
+    20,BELLSPROUT,8,10
+#---------------------------------
+[132] # Lago Norrea
+Water,5
+    80,TENTACOOL,10
+    10,STARYU,10
+    10,TANGELA,8
+GoodRod
+    75,MAGIKARP,5
+    20,PSYDUCK,5,7
+    5,TENTACOOL,10
+#---------------------------------
+[130] # Cordillera Central
+Cave,7
+    30,MAKUHITA,10,12
+    30,HIPPOPOTAS,10,12
+    20,ZUBAT,10,12
+    10,DRILBUR,10,12
+    10,GEODUDE,10,12
+#---------------------------------
+[131] # CC sotano 1
+Cave,7
+    30,DRILBUR,10,12
+    20,GEODUDE,10,12
+    20,ZUBAT,10,12
+    10,ABSOL,10,12
+#---------------------------------
+[133] # Ruta 5
+Land,11
+    40,MAREEP,12,15
+    25,COMBEE,12,15
+    30,ABRA,10
+    5,JIGGLYPUFF,12,15
+Water,5
+    80,TENTACOOL,10
+    10,STARYU,10
+    10,TANGELA,8
+GoodRod
+    75,MAGIKARP,10
+    20,PSYDUCK,10
+    5,TENTACOOL,10
+#---------------------------------
+[079] # Ciudad Bogotá
+Water,5
+    80,TENTACOOL,10
+    10,STARYU,10
+    10,TANGELA,8
+GoodRod
+    75,MAGIKARP,10
+    20,PSYDUCK,10
+    5,TENTACOOL,10
+#---------------------------------
+[134] # Ruta 6
+Land,11
+    25,GROWLITHE,18,22
+    20,FURRET,18,22
+    15,HOOTHOOT,18
+    5,NOCTOWL,22
+    25,RALTS,18
+    10,SCYTHER,18,22
+#---------------------------------
+[135] # FabLab
+Land,11
+    30,MAREEP,18,22
+    20,MAGNEMITE,18,22
+    40,FURRET,22
+    10,BELDUM,18,22
+#---------------------------------
+[137] # Ruta 7
+Land,11
+    28,HOUNDOUR,22
+    2,HOUNDOOM,25
+    30,FOONGUS,22,25
+    18,NIDORANfE,22
+    18,NIDORANmA,22
+    2,NIDORINA,24
+    2,NIDORINO,24
+#---------------------------------
+[158] # Bosque Putrefacto
+Land,11
+    25,SEEDOT,24
+    5,NUZLEAF,26
+    10,GRIMER,24,26
+    8,EKANS,22
+    2,ARBOK,26
+    30,FOONGUS,24,26
+    8,NIDORANfE,24,26
+    8,NIDORANmA,24,26
+    2,NIDORINA,24,26
+    2,NIDORINO,24,26
+#---------------------------------
+[159] # Ruta 8
+Land,11
+    25,GOTHITA,25
+    20,SPOINK,25,27
+    10,STARAVIA,25,27
+    30,COTTONEE,25,27
+    15,GROWLITHE,25,27
+#---------------------------------
+[164] # Cordillera Occidental
+Cave,7
+    25,NUMEL,26,28
+    15,CUBONE,26,28
+    20,NOSEPASS,26,28
+    10,ZUBAT,26
+    5,GOLBAT,28
+    15,JOLTIK,26
+    5,PARASECT,28
+    5,ARON,28
+#---------------------------------
+[160] # Ruta 9
+Land,11
+    35,NOCTOWL,27,29
+    20,GOTHITA,25
+    30,HOUNDOUR,27
+    5,HOUNDOOM,29
+    10,NUZLEAF,27,29
+#---------------------------------
+[170] # Ruta 9 Cueva
+Land,11
+    50,ARON,27,29
+    25,NOSEPASS,25
+    25,JOLTIK,27
+#---------------------------------
+[171] # Puente Ibagué
+Cave,13
+    60,GASTLY,20
+    40,DRIFLOON,25
+#---------------------------------
+[172] # Sementerio Ibagué
+Cave,7
+    35,GASTLY,20
+    45,SPIRITOMB,25
+    20,DRIFLOON,25
+#---------------------------------
+[166] # Ruta 10 Pendiente
+Land,11
+    20,FURRET,27,29
+    30,SWABLU,27,29
+    30,EXEGGCUTE,27,29
+    20,COTTONEE,27,29
+#---------------------------------
+[173] # Ciudad Barranquilla
+Water,5
+    40,TENTACOOL,28
+    5,TENTACRUEL,30
+    25,TANGELA,28,30
+    20,HORSEA,28,30
+    10,WAILMER,28,30
+GoodRod
+    50,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    5,TENTACOOL,28,30
+#---------------------------------
+[162] # Ruta 11
+Water,5
+    40,TENTACOOL,28
+    5,TENTACRUEL,30
+    25,TANGELA,28,30
+    20,HORSEA,28,30
+    10,WAILMER,28,30
+GoodRod
+    50,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    5,TENTACOOL,28,30
+#---------------------------------
+[200] # Ruta 12
+Water,5
+    20,TENTACOOL,28
+    5,TENTACRUEL,30
+    20,TANGELA,28,30
+    20,HORSEA,28,30
+    35,SPHEAL,28,30
+GoodRod
+    10,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    45,SPHEAL,28,30
+#---------------------------------
+[202] # Isla Seoul
+Water,5
+    40,TENTACOOL,28
+    5,TENTACRUEL,30
+    25,TANGELA,28,30
+    20,HORSEA,28,30
+    10,WAILMER,28,30
+GoodRod
+    50,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    5,TENTACOOL,28,30
+#---------------------------------
+[205] # Bosque CP
+Land,11
+    30,DROWZEE,30,32
+    15,FOONGUS,30
+    10,WEEPINBELL,32
+    10,VESPIQUEN,30,32
+    20,SCYTHER,30,32
+    15,JOLTIK,30,32
+Water,5
+    40,TENTACOOL,28
+    5,TENTACRUEL,30
+    25,TANGELA,28,30
+    20,HORSEA,28,30
+    10,WAILMER,28,30
+GoodRod
+    50,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    5,TENTACOOL,28,30
+#---------------------------------
+[203] # Isla Kokkola
+Water,5
+    20,TENTACOOL,28
+    5,TENTACRUEL,30
+    20,TANGELA,28,30
+    20,SEADRA,30
+    35,SPHEAL,28,30
+GoodRod
+    10,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    45,SPHEAL,28,30
+#---------------------------------
+[201] # Ruta 13
+Water,5
+    20,TENTACOOL,28
+    5,TENTACRUEL,30
+    20,TANGELA,28,30
+    20,SEADRA,30
+    35,SPHEAL,28,30
+GoodRod
+    10,MAGIKARP,28,30
+    45,CARVANHA,28,30
+    45,SPHEAL,28,30
+#---------------------------------
+[204] # IcebergOn
+Cave,7
+    40,SWINUB,30,32
+    40,SPHEAL,30,32
+    20,DRUDDIGON,30,32
+#---------------------------------
+[218] # Torre Safari Piso 1
+Cave,11
+    80,ZANGOOSE,35
+    10,SWABLU,35
+    10,DRUDDIGON,35
+#---------------------------------
+[219] # Torre Safari Piso 2
+Cave,11
+    80,LAPRAS,35
+    10,TANGROWTH,35
+    10,STARMIE,35
+#---------------------------------
+[220] # Torre Safari Piso 3
+Cave,11
+    80,LITWICK,35
+    10,HAUNTER,35
+    10,DRIFBLIM,35
+#---------------------------------
+[221] # Torre Safari Piso 4
+Cave,11
+    80,SNEASEL,35
+    10,SPHEAL,35
+    10,SWINUB,35
+#---------------------------------
+[223] # Zona Giratina
+Cave,7
+    50,HAUNTER,50
+    50,DRIFBLIM,50

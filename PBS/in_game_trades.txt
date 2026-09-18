@@ -1,0 +1,9 @@
+# ============================
+# In-Game Trades
+# ============================
+
+[1]
+RequestedPokemon = RATTATA
+OfferedPokemon   = PONYTA
+TrainerName      = Blaze
+Nickname         = QuemaTodo

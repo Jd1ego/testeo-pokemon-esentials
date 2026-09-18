@@ -1,0 +1,56 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_TYPE_NAMES]
+Líder de gimnasio
+Líder de gimnasio
+Líderes de gimnasio
+Líderes de gimnasio
+Montañero
+Montañero
+Cazabichos
+Cazabichos
+Chica
+Chica
+Friki
+Friki
+Chico
+Chico
+Explorador
+Explorador
+Exploradora
+Exploradora
+Bella
+Bella
+Pareja joven
+Pareja joven
+Científico
+Científico
+RECLUTA
+RECLUTA
+Ladron
+Ladron
+Avicultor
+Avicultor
+Pescador
+Pescador
+Motero
+Motero
+Pokemaniaco
+Pokemaniaco
+Nadador
+Nadador
+Nadadora
+Nadadora
+Caballero
+Caballero
+Damisela
+Damisela
+Cosplayer
+Cosplayer
+Profesor
+Profesor
+Psiquico
+Psiquico
+Psiquica
+Psiquica

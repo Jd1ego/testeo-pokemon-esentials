@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Consulte la documentación en la wiki para aprender cómo editar este archivo.
 #-------------------------------
 [001]   # Intro
 Name = Intro
@@ -152,6 +152,18 @@ MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
+[032]   # Pueblo Primero
+Name = Pueblo Primero
+Outdoor = true
+ShowArea = true
+MapPosition = 2,11,4
+#-------------------------------
+[033]   # Pueblo Sopó
+Name = Pueblo Sopó
+Outdoor = true
+ShowArea = true
+MapPosition = 2,15,4
+#-------------------------------
 [034]   # Ice Cave
 Name = Route 3
 Bicycle = true
@@ -194,7 +206,6 @@ MapSize = 2,11
 Name = Route 4
 Outdoor = true
 ShowArea = true
-BicycleAlways = true
 MapPosition = 0,11,6
 #-------------------------------
 [041]   # Route 5
@@ -204,6 +215,17 @@ ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
+#-------------------------------
+[042]   # Ruta 1
+Name = Ruta 1
+Outdoor = true
+ShowArea = true
+MapPosition = 2,13,4
+#-------------------------------
+[043]   # Laboratorio de Oak
+Name = Laboratorio de Oak
+ShowArea = true
+MapPosition = 2,11,4
 #-------------------------------
 [044]   # Route 6
 Name = Route 6
@@ -234,6 +256,12 @@ MapPosition = 0,15,10
 BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
+#-------------------------------
+[048]   # Ruta 2
+Name = Ruta 2
+Outdoor = true
+ShowArea = true
+MapPosition = 2,18,4
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
@@ -396,3 +424,696 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[076]   # Monte Pionono
+Name = Monte Pionono
+Outdoor = true
+ShowArea = true
+MapPosition = 2,19,1
+#-------------------------------
+[077]   # Ciudad Villavicencio
+Name = Ciudad Villavicencio
+Outdoor = true
+ShowArea = true
+Weather = Rain,67
+MapPosition = 2,25,9
+#-------------------------------
+[078]   # Casa del Jugador
+Name = Casa del Jugador
+MapPosition = 2,11,4
+#-------------------------------
+[079]   # Ciudad Bogotá
+Name = Ciudad Bogotá
+Outdoor = true
+ShowArea = true
+Weather = Rain,50
+MapPosition = 2,14,12
+#-------------------------------
+[080]   # Escuela de música
+Name = Escuela de música
+MapPosition = 2,15,4
+#-------------------------------
+[081]   # Casa naranja
+Name = Casa naranja
+MapPosition = 2,15,4
+#-------------------------------
+[082]   # Casa azul
+Name = Casa azul
+MapPosition = 2,15,4
+#-------------------------------
+[083]   # CP Sopó
+Name = CP Sopó
+HealingSpot = 33,19,19
+MapPosition = 2,15,4
+Flags = PokeCenter
+#-------------------------------
+[084]   # D1 Sopó
+Name = D1 Sopó
+MapPosition = 2,15,4
+#-------------------------------
+[085]   # Casa gris
+Name = Casa gris
+MapPosition = 2,15,4
+#-------------------------------
+[086]   # Gym Sopó
+Name = Gym Sopó
+MapPosition = 2,15,4
+#-------------------------------
+[087]   # Casa azul
+Name = Casa azul
+MapPosition = 2,25,9
+#-------------------------------
+[088]   # Casa verde
+Name = Casa verde
+MapPosition = 2,25,9
+#-------------------------------
+[089]   # Gym Villavicencio
+Name = Gym Villavicencio
+MapPosition = 2,25,9
+#-------------------------------
+[090]   # D1 Villavicencio
+Name = D1 Villavicencio
+MapPosition = 2,25,9
+#-------------------------------
+[091]   # CP Villavicencio
+Name = CP Villavicencio
+HealingSpot = 77,29,23
+MapPosition = 2,25,9
+Flags = PokeCenter
+#-------------------------------
+[092]   # Casa ladrillos
+Name = Casa ladrillos
+MapPosition = 2,25,9
+#-------------------------------
+[093]   # Cabaña de ponyta
+Name = Cabaña de ponyta
+MapPosition = 2,25,9
+#-------------------------------
+[094]   # Edificio 1
+Name = Edificio 1
+MapPosition = 2,25,9
+#-------------------------------
+[095]   # Edificio 2
+Name = Edificio 2
+MapPosition = 2,25,9
+#-------------------------------
+[096]   # Edificio 3
+Name = Edificio 3
+MapPosition = 2,25,9
+#-------------------------------
+[097]   # Cordillera Oriental
+Name = Cordillera Oriental
+ShowArea = true
+MapPosition = 2,23,4
+#-------------------------------
+[098]   # CO Sotano 1
+Name = CO Sotano 1
+MapPosition = 2,25,4
+#-------------------------------
+[099]   # CO Sotano 2
+Name = CO Sotano 2
+MapPosition = 2,25,5
+#-------------------------------
+[100]   # Casa del Rival
+Name = Casa del Rival
+MapPosition = 2,11,4
+#-------------------------------
+[101]   # Choza
+Name = Choza
+MapPosition = 2,11,4
+#-------------------------------
+[102]   # CP Bogotá
+Name = CP Bogotá
+HealingSpot = 79,37,54
+MapPosition = 2,14,12
+Flags = PokeCenter
+#-------------------------------
+[103]   # D1 Bogotá
+Name = D1 Bogotá
+MapPosition = 2,15,12
+#-------------------------------
+[104]   # Torre Colpatria
+Name = Torre Colpatria
+MapPosition = 2,15,12
+#-------------------------------
+[105]   # Torre Colpatria P2
+Name = Torre Colpatria P2
+MapPosition = 2,15,12
+#-------------------------------
+[106]   # Edificio
+Name = Edificio
+MapPosition = 2,15,12
+#-------------------------------
+[107]   # Tienda de Bici
+Name = Tienda de Bici
+MapPosition = 2,15,13
+#-------------------------------
+[108]   # Casa Verde Sur 1
+Name = Casa Verde Sur 1
+MapPosition = 2,15,13
+#-------------------------------
+[109]   # Casa Verde Sur 2
+Name = Casa Verde Sur 2
+MapPosition = 2,15,13
+#-------------------------------
+[110]   # Casa Amarilla Sur
+Name = Casa Amarilla Sur
+MapPosition = 2,13,13
+#-------------------------------
+[111]   # Casino
+Name = Casino
+MapPosition = 2,13,12
+#-------------------------------
+[112]   # CC Unicentro
+Name = CC Unicentro
+MapPosition = 2,14,12
+#-------------------------------
+[113]   # Museo La Banda
+Name = Museo La Banda
+MapPosition = 2,14,11
+#-------------------------------
+[114]   # Gym Bogotá
+Name = Gym Bogotá
+MapPosition = 2,13,12
+#-------------------------------
+[115]   # Tienda de musica
+Name = Tienda de musica
+MapPosition = 2,14,13
+#-------------------------------
+[116]   # Casa de Lasprilla
+Name = Casa de Lasprilla
+MapPosition = 2,14,11
+#-------------------------------
+[117]   # Casa Naranja Norte
+Name = Casa Naranja Norte
+MapPosition = 2,14,11
+#-------------------------------
+[118]   # Casa Verde Norte
+Name = Casa Verde Norte
+MapPosition = 2,15,11
+#-------------------------------
+[119]   # Casa Lujosa 1
+Name = Casa Lujosa 1
+MapPosition = 2,15,11
+#-------------------------------
+[120]   # Casa Lujosa 2
+Name = Casa Lujosa 2
+MapPosition = 2,15,11
+#-------------------------------
+[121]   # Casa de Arci
+Name = Casa de Arci
+MapPosition = 2,15,11
+#-------------------------------
+[122]   # Casa de Arci P2
+Name = Casa de Arci P2
+MapPosition = 2,15,11
+#-------------------------------
+[123]   # Casa de Arci P3
+Name = Casa de Arci P3
+MapPosition = 2,15,11
+#-------------------------------
+[124]   # Casa de Arci Piscina
+Name = Casa de Arci Piscina
+MapPosition = 2,15,11
+#-------------------------------
+[125]   # Casa Lujosa 3
+Name = Casa Lujosa 3
+MapPosition = 2,15,11
+#-------------------------------
+[126]   # Ruta 3
+Name = Ruta 3
+Outdoor = true
+ShowArea = true
+MapPosition = 2,25,7
+#-------------------------------
+[127]   # Peaje Ruta 2
+Name = Peaje Ruta 2
+MapPosition = 2,19,4
+#-------------------------------
+[128]   # Ruta 3a
+Name = Ruta 3a
+Outdoor = true
+ShowArea = true
+MapPosition = 2,28,9
+#-------------------------------
+[129]   # Ruta 4
+Name = Ruta 4
+Outdoor = true
+ShowArea = true
+MapPosition = 2,25,11
+#-------------------------------
+[130]   # Cordillera Central
+Name = Cordillera Central
+ShowArea = true
+MapPosition = 2,24,12
+DarkMap = true
+#-------------------------------
+[131]   # CC sotano 1
+Name = CC sotano 1
+MapPosition = 2,20,12
+DarkMap = true
+#-------------------------------
+[132]   # Lago Norrea
+Name = Lago Norrea
+Outdoor = true
+ShowArea = true
+MapPosition = 2,28,13
+#-------------------------------
+[133]   # Ruta 5
+Name = Ruta 5
+Outdoor = true
+ShowArea = true
+MapPosition = 2,18,12
+#-------------------------------
+[134]   # Ruta 6
+Name = Ruta 6
+Outdoor = true
+ShowArea = true
+MapPosition = 2,14,9
+#-------------------------------
+[135]   # FabLab
+Name = FabLab
+Outdoor = true
+ShowArea = true
+MapPosition = 2,17,8
+#-------------------------------
+[136]   # Universidad D.S
+Name = Universidad De La Sabana
+Outdoor = true
+ShowArea = true
+Weather = Storm,30
+MapPosition = 2,12,8
+#-------------------------------
+[137]   # Ruta 7
+Name = Ruta 7
+Outdoor = true
+ShowArea = true
+MapPosition = 2,10,8
+#-------------------------------
+[138]   # Edificio A
+Name = Edificio A
+ShowArea = true
+MapPosition = 2,12,8
+#-------------------------------
+[139]   # Edificio B
+Name = Edificio B
+ShowArea = true
+MapPosition = 2,12,8
+#-------------------------------
+[140]   # Edificio C
+Name = Edificio C
+ShowArea = true
+HealingSpot = 136,32,52
+MapPosition = 2,12,8
+Flags = PokeCenter
+#-------------------------------
+[141]   # Edificio K
+Name = Edificio K
+ShowArea = true
+MapPosition = 2,12,7
+#-------------------------------
+[142]   # AdPortas
+Name = Edificio AdPortas
+ShowArea = true
+MapPosition = 2,12,7
+#-------------------------------
+[143]   # Edificio A2
+Name = Edificio A
+MapPosition = 2,12,8
+#-------------------------------
+[144]   # Edificio B2
+Name = Edificio B
+MapPosition = 2,12,8
+#-------------------------------
+[145]   # Edificio K2
+Name = Edificio K
+MapPosition = 2,12,7
+#-------------------------------
+[146]   # Edificio K3
+Name = Edificio K
+MapPosition = 2,12,7
+#-------------------------------
+[147]   # AdPortas 2
+Name = Edificio AdPortas
+MapPosition = 2,12,7
+#-------------------------------
+[148]   # AdPortas 3
+Name = Edificio AdPortas
+MapPosition = 2,12,7
+#-------------------------------
+[149]   # AdPortas 4
+Name = Edificio AdPortas
+MapPosition = 2,12,7
+#-------------------------------
+[150]   # Laboratorio
+Name = Laboratorio
+MapPosition = 2,17,8
+#-------------------------------
+[151]   # Laboratorio 2
+Name = Laboratorio 2
+MapPosition = 2,17,8
+#-------------------------------
+[152]   # Peaje Villavicencio-3A
+Name = Peaje Villavicencio-3A
+MapPosition = 2,26,9
+#-------------------------------
+[153]   # Caseta Subterrateo
+Name = Caseta Subterrateo
+MapPosition = 2,14,10
+#-------------------------------
+[154]   # Peaje Bogotá - 6
+Name = Peaje Bogotá - 6
+MapPosition = 2,14,10
+#-------------------------------
+[155]   # Chia
+Name = Pueblo Chia
+Outdoor = true
+ShowArea = true
+Weather = Rain,30
+MapPosition = 2,9,8
+#-------------------------------
+[156]   # Casa Caña
+Name = Casa Caña
+MapPosition = 2,28,13
+#-------------------------------
+[157]   # Casa Flash
+Name = Casa Flash
+MapPosition = 2,28,13
+#-------------------------------
+[158]   # Bosque Putrefacto
+Name = Bosque Putrefacto
+Outdoor = true
+ShowArea = true
+MapPosition = 2,9,10
+#-------------------------------
+[159]   # Ruta 8
+Name = Ruta 8
+Outdoor = true
+ShowArea = true
+MapPosition = 2,15,14
+#-------------------------------
+[160]   # Ruta 9
+Name = Ruta 9
+Outdoor = true
+ShowArea = true
+MapPosition = 2,15,18
+#-------------------------------
+[161]   # Ruta 10
+Name = Ruta 10
+Outdoor = true
+ShowArea = true
+MapPosition = 2,10,13
+#-------------------------------
+[162]   # Ruta 11
+Name = Ruta 11
+Outdoor = true
+ShowArea = true
+MapPosition = 2,3,14
+#-------------------------------
+[163]   # Ciudad Ibague
+Name = Ciudad Ibague
+Outdoor = true
+ShowArea = true
+MapPosition = 2,13,18
+#-------------------------------
+[164]   # Cordillera Central
+Name = Cordillera Central
+ShowArea = true
+MapPosition = 2,16,15
+DarkMap = true
+#-------------------------------
+[165]   # Ruta 10 CR
+Name = Ruta 10
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 2,10,13
+#-------------------------------
+[166]   # Ruta 10 Pendiente
+Name = Ruta 10
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 2,8,15
+#-------------------------------
+[167]   # Ruta 10 Peaje
+Name = Ruta 10 Peaje
+MapPosition = 2,12,13
+#-------------------------------
+[168]   # Ruta 10 CR Fin
+Name = Ruta 10
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 2,6,16
+#-------------------------------
+[169]   # Ruta 10 Peaje Salida
+Name = Ruta 10 Peaje Salida
+MapPosition = 2,5,16
+#-------------------------------
+[170]   # Ruta 9 cueva
+Name = Cueva Na
+ShowArea = true
+MapPosition = 2,15,18
+#-------------------------------
+[171]   # Puente
+Name = Puente
+Outdoor = true
+Weather = Fog,100
+MapPosition = 2,12,18
+#-------------------------------
+[172]   # SEMENterio
+Name = SEMENterio
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+MapPosition = 2,11,18
+#-------------------------------
+[173]   # Ciudad Barranquilla
+Name = Ciudad Barranquilla
+Outdoor = true
+ShowArea = true
+MapPosition = 2,4,16
+#-------------------------------
+[174]   # Fin ruta 10
+Name = Ruta 10
+Outdoor = true
+ShowArea = true
+MapPosition = 2,5,16
+#-------------------------------
+[175]   # Caseta subterraneo 
+Name = Caseta subterraneo
+MapPosition = 2,17,8
+#-------------------------------
+[176]   # Choza R7
+Name = Choza R7
+MapPosition = 2,10,8
+#-------------------------------
+[177]   # Spot
+Name = The Spot
+ShowArea = true
+MapPosition = 2,9,8
+#-------------------------------
+[178]   # McDonalds
+Name = McDonalds
+MapPosition = 2,9,8
+#-------------------------------
+[179]   # Gym Chia
+Name = Gimnasio Chia
+ShowArea = true
+MapPosition = 2,9,8
+#-------------------------------
+[180]   # Dominos
+Name = Dominos
+MapPosition = 2,9,8
+#-------------------------------
+[181]   # D1 Chia
+Name = D1 Chia
+MapPosition = 2,9,8
+#-------------------------------
+[182]   # Cp Chia
+Name = Cp Chia
+HealingSpot = 155,33,34
+MapPosition = 2,9,8
+Flags = PokeCenter
+#-------------------------------
+[183]   # Casa Dos pisos
+Name = Casa Dos pisos
+MapPosition = 2,9,8
+#-------------------------------
+[184]   # Edificio Verde
+Name = Edificio Verde
+MapPosition = 2,9,8
+#-------------------------------
+[185]   # Choza BP
+Name = Choza BP
+MapPosition = 2,9,11
+#-------------------------------
+[186]   # Cp Ibague
+Name = Cp Ibague
+HealingSpot = 163,43,20
+MapPosition = 2,13,18
+Flags = PokeCenter
+#-------------------------------
+[187]   # Casa Freddy
+Name = Casa Freddy
+MapPosition = 2,13,18
+#-------------------------------
+[188]   # Casa SrMotes
+Name = Casa SrMotes
+MapPosition = 2,13,18
+#-------------------------------
+[189]   # Casa Morada
+Name = Casa Morada
+MapPosition = 2,13,18
+#-------------------------------
+[190]   # D1 Ibague
+Name = D1 Ibague
+MapPosition = 2,13,18
+#-------------------------------
+[191]   # Edificio Amarillo
+Name = Edificio Amarillo
+MapPosition = 2,13,18
+#-------------------------------
+[192]   # Casa techo Verde
+Name = Casa techo Verde
+MapPosition = 2,13,18
+#-------------------------------
+[193]   # D1 Barranquilla
+Name = D1 Barranquilla
+MapPosition = 2,4,16
+#-------------------------------
+[194]   # Cp Barranquilla
+Name = Cp Barranquilla
+HealingSpot = 173,59,24
+MapPosition = 2,4,16
+Flags = PokeCenter
+#-------------------------------
+[195]   # Casa Amarilla 1
+Name = Casa Amarilla 1
+MapPosition = 2,4,16
+#-------------------------------
+[196]   # Casa Amarilla 2
+Name = Casa Amarilla 2
+MapPosition = 2,4,16
+#-------------------------------
+[197]   # Casa Amarilla 3
+Name = Casa Amarilla 3
+MapPosition = 2,4,16
+#-------------------------------
+[198]   # Casa Amarilla 4
+Name = Casa Amarilla 4
+MapPosition = 2,4,16
+#-------------------------------
+[199]   # Electricaribe
+Name = Electricaribe
+ShowArea = true
+MapPosition = 2,3,16
+#-------------------------------
+[200]   # Ruta 12
+Name = Ruta 12
+Outdoor = true
+ShowArea = true
+MapPosition = 2,3,9
+#-------------------------------
+[201]   # Ruta 13
+Name = Ruta 13
+Outdoor = true
+ShowArea = true
+MapPosition = 2,6,4
+#-------------------------------
+[202]   # Isla Seoul
+Name = Isla Seoul
+Outdoor = true
+ShowArea = true
+MapPosition = 2,3,11
+#-------------------------------
+[203]   # Isla Kokkola
+Name = Isla Kokkola
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+MapPosition = 2,3,6
+#-------------------------------
+[204]   # IcebergOn
+Name = Iceberg On
+ShowArea = true
+MapPosition = 2,3,8
+#-------------------------------
+[205]   # Bosque CP
+Name = Bosque CP
+Outdoor = true
+ShowArea = true
+MapPosition = 2,1,11
+#-------------------------------
+[206]   # Pescaderia
+Name = Pescaderia
+MapPosition = 2,3,11
+#-------------------------------
+[207]   # Cp seoul
+Name = Cp seoul
+HealingSpot = 202,30,21
+MapPosition = 2,3,11
+Flags = PokeCenter
+#-------------------------------
+[208]   # D1 seoul
+Name = D1 seoul
+MapPosition = 2,3,11
+#-------------------------------
+[209]   # Gyn seoul
+Name = Gimnasio Seoul
+MapPosition = 2,3,11
+#-------------------------------
+[210]   # Casa pequeña
+Name = Casa pequeña
+MapPosition = 2,3,11
+#-------------------------------
+[211]   # casa grande
+Name = casa grande
+MapPosition = 2,3,11
+#-------------------------------
+[212]   # Cp kokkola
+Name = Cp kokkola
+HealingSpot = 203,16,20
+MapPosition = 2,3,6
+Flags = PokeCenter
+#-------------------------------
+[213]   # Casa recuerda movimientos
+Name = Casa recuerda movimientos
+MapPosition = 2,3,6
+#-------------------------------
+[214]   # D1 kokkola
+Name = D1 kokkola
+MapPosition = 2,3,6
+#-------------------------------
+[215]   # Gym kokkola
+Name = Gym kokkola
+MapPosition = 2,3,6
+#-------------------------------
+[216]   # Torre Safari
+Name = Torre Safari
+ShowArea = true
+MapPosition = 2,3,6
+SafariMap = true
+#-------------------------------
+[218]   # TS P1
+Name = TS P1
+SafariMap = true
+#-------------------------------
+[219]   # TS P2
+Name = TS P2
+SafariMap = true
+#-------------------------------
+[220]   # TS P3
+Name = TS P3
+Weather = Fog,100
+SafariMap = true
+#-------------------------------
+[221]   # TS P4
+Name = TS P4
+SafariMap = true
+#-------------------------------
+[223]   # Bosques Aulladores (Giratina)
+Name = Bosques Aulladores
+Outdoor = true
+Weather = Fog,100

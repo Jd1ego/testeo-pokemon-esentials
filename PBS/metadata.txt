@@ -3,12 +3,12 @@
 [0]
 StartMoney = 3000
 StartItemStorage = POTION
-Home = 3,7,5,8
+Home = 78,8,10,8
 StorageCreator = Bill
-WildBattleBGM = Battle wild
-TrainerBattleBGM = Battle trainer
-WildVictoryBGM = Battle victory wild
-TrainerVictoryBGM = Battle victory trainer
+WildBattleBGM = HGSS 110 Battle! (Wild Pokemon Johto)
+TrainerBattleBGM = HGSS 229 Battle! (Trainer Battle Kanto)
+WildVictoryBGM = HGSS 111 Victory! (Wild Pokemon)
+TrainerVictoryBGM = HGSS 119 Victory! (Trainer Battle)
 SurfBGM = Surfing
 BicycleBGM = Bicycle
 #-------------------------------
@@ -21,6 +21,7 @@ SurfCharset = boy_surf
 DiveCharset = boy_surf
 FishCharset = boy_fish_offset
 SurfFishCharset = boy_fish_offset
+SpinCharset= CHAR_M
 #-------------------------------
 [2]
 TrainerType = POKEMONTRAINER_Leaf
@@ -31,3 +32,4 @@ SurfCharset = girl_surf
 DiveCharset = girl_surf
 FishCharset = girl_fish_offset
 SurfFishCharset = girl_fish_offset
+SpinCharset= CHAR_F

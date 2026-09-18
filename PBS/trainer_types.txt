@@ -20,15 +20,30 @@ Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
 #-------------------------------
-[RIVAL1]
-Name = Rival
+[POKEMONTRAINER_Fredy]
+Name = Entrenador Pokémon
 Gender = Male
-BaseMoney = 16
+BaseMoney = 60
 #-------------------------------
 [RIVAL2]
 Name = Rival
 Gender = Male
 BaseMoney = 36
+#-------------------------------
+[ENTRENADOR1]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ENTRENADOR2]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ENTRENADORA]
+Name = Entrenadora Pokémon
+Gender = Female
+BaseMoney = 32
 #-------------------------------
 [AROMALADY]
 Name = Aroma Lady
@@ -394,8 +409,419 @@ BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
 #-------------------------------
 [CHAMPION]
-Name = Champion
+Name = Contendiente
 Gender = Male
 BaseMoney = 100
-BattleBGM = Battle Champion
-VictoryBGM = Battle victory leader
+BattleBGM = HGSS 278 Battle! (Champion)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RIVAL1]
+Name = Rival
+Gender = Male
+BaseMoney = 16
+BattleBGM = HGSS 138 Battle! (Rival)
+#-------------------------------
+[LEADER_Ayala]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Arci]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Juanjo]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Track]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Zacri]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Richie]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Migue]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Lugo]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_JDiego]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Christian]
+Name = Líder de gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 143 Battle! (Gym Leader Johto)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[MONTANERO]
+Name = Montañero
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[CAZABICHOS]
+Name = Cazabichos
+Gender = Male
+BaseMoney = 16
+IntroBGM = HGSS 117 Trainers_ Eyes Meet (Youngster)
+#-------------------------------
+[CHICA]
+Name = Chica
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[FRIKI]
+Name = Friki
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[CHICO]
+Name = Chico
+Gender = Male
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[EXPLORADOR]
+Name = Explorador
+Gender = Male
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[EXPLORADORA]
+Name = Exploradora
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[BELLA]
+Name = Bella
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[TETONA]
+Name = Tetona
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[PAREJAJOVEN]
+Name = Pareja joven
+Gender = Unknown
+BaseMoney = 32
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[CIENTIFICO]
+Name = Científico
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[RECLUTA_M]
+Name = RECLUTA
+Gender = Male
+BaseMoney = 16
+BattleBGM = HGSS 135 Battle! (Team Rocket)
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[RECLUTA_F]
+Name = RECLUTA
+Gender = Female
+BaseMoney = 16
+BattleBGM = HGSS 135 Battle! (Team Rocket)
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[LADRON]
+Name = Ladron
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[AVICULTOR]
+Name = Avicultor
+Gender = Male
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[PESCADOR]
+Name = Pescador
+Gender = Male
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[MOTERO]
+Name = Motero
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[POKEMANIACO]
+Name = Pokemaniaco
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[NADADOR]
+Name = Nadador
+Gender = Male
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[NADADORA]
+Name = Nadadora
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[CABALLERO]
+Name = Caballero
+Gender = Male
+BaseMoney = 16
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[DAMISELA]
+Name = Damisela
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[COSPLAYER]
+Name = Cosplayer
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[PROFESOR]
+Name = Profesor
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[PSIQUICO]
+Name = Psiquico
+Gender = Male
+BaseMoney = 36
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[PSIQUICA]
+Name = Psiquica
+Gender = Female
+BaseMoney = 36
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[KARATEKA]
+Name = Karateka
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[DUOFUERTE]
+Name = Duo Fuerte
+Gender = Unknown
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[EXORCISTA]
+Name = Exorcista
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[HIJUEPUTA1]
+Name = Hijueputa
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[HIJUEPUTA2]
+Name = Hijueputa
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[SUPERVISORA]
+Name = Supervisora
+Gender = Female
+BaseMoney = 32
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[INGENIERO]
+Name = Ingeniero
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[SENORITAAROMA]
+Name = Señorita Aroma
+Gender = Female
+BaseMoney = 16
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[POLICIA]
+Name = Policia
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[MUSICO]
+Name = Musico
+Gender = Male
+BaseMoney = 64
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[MUSICA]
+Name = Musica
+Gender = Female
+BaseMoney = 64
+IntroBGM = FRLG 33 A Trainer Appears (Girl Version)
+#-------------------------------
+[RAPPI]
+Name = Rappi
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 20 A Trainer Appears (Boy Version)
+#-------------------------------
+[ROCKETADMIN_Carrillo]
+Name = Jefe de FdC
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 135 Battle! (Team Rocket)
+IntroBGM = FRLG 46 A Trainer Appears (Bad Guy Version)
+#-------------------------------
+[ELITE_JeffSanti]
+Name = Elite
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[ELITE_Stiven]
+Name = Elite
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[ELITE_Fredy]
+Name = Elite
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[ELITE_Lasprilla]
+Name = Elite
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_JDiego]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Ayala]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Richie]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Track]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Arci]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = FRLG 70 The Last Battle (VS Rival)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Zacri]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = FRLG 70 The Last Battle (VS Rival)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Migue]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = ORAS 112 Battle! (Lake Trio)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Juanjo]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = ORAS 112 Battle! (Lake Trio)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Lugo]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 278 Battle! (Champion)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Christian]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 278 Battle! (Champion)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
