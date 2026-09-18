@@ -1261,7 +1261,7 @@ Pokemon = CAMERUPT,38
     Item = PASSHOBERRY
     IV = 20,20,20,20,20,20
 Pokemon = MAGMORTAR,40
-    Name = Diana
+    Name = IronMan
     Moves = OVERHEAT, FLAMETHROWER, CLEARSMOG, THUNDERPUNCH
     Item = EXPERTBELT
     IV = 20,20,20,20,20,20
@@ -1601,4 +1601,211 @@ Pokemon = SCIZOR,46
     Moves = BULLETPUNCH, WINGATTACK, XSCISSOR,BRUTALSWING
     Item = CHOICEBAND
     Ability = TECHNICIAN
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[ELITE_JeffSanti, JeffSanti]
+Items = FULLRESTORE, FULLRESTORE
+LoseText = Uy este pirobo...
+Pokemon = CROBAT,54
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = ARBOK,52
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = TENTACRUEL,53
+    Item = BLACKSLUDGE
+    IV = 20,20,20,20,20,20
+Pokemon = MUK,53
+    Item = ASSAULTVEST
+    IV = 20,20,20,20,20,20
+Pokemon = NIDOQUEEN,54
+    Item = SHUCABERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[ELITE_Stiven, Stiven]
+Items = FULLRESTORE, FULLRESTORE
+LoseText = Zunga...
+Pokemon = SHIFTRY,55
+    Item = TANGABERRY
+    IV = 20,20,20,20,20,20
+Pokemon = TANGROWTH,53
+    Item = ROCKYHELMET
+    IV = 20,20,20,20,20,20
+Pokemon = AMOONGUSS,54
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = BRELOOM,54
+    Item = FOCUSSASH
+    IV = 20,20,20,20,20,20
+Pokemon = EXEGGUTOR,55
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[ELITE_Fredy, Fredy]
+Items = FULLRESTORE, FULLRESTORE
+LoseText = Ah no este hpta...
+Pokemon = GENGAR,56
+    Item = LIFEORB
+    IV = 20,20,20,20,20,20
+Pokemon = MISMAGIUS,55
+    Item = KASIBBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = SPIRITOMB,55
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = DRIFBLIM,54
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = CHANDELURE,56
+    Item = CHOICESCARF
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[ELITE_Lasprilla, Lasprilla]
+Items = FULLRESTORE, FULLRESTORE
+LoseText = Ijueputa vida...
+Pokemon = DRUDDIGON,57
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = DRAGONITE,55
+    Ability = MULTISCALE
+    Item = WEAKNESSPOLICY
+    IV = 20,20,20,20,20,20
+Pokemon = KINGDRA,56
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = GARCHOMP,56
+    Item = CHOICESCARF
+    IV = 20,20,20,20,20,20
+Pokemon = ALTARIA,57
+    Item = YACHEBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_JDiego, JDiego,1]
+Items = FULLRESTORE
+LoseText = HASTA LOS HUEEEVOSS!
+Pokemon = MAGNEZONE,60
+    Item = SHUCABERRY
+    IV = 20,20,20,20,20,20
+Pokemon = AMPHAROS,60
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = EMOLGA,58
+    Item = YACHEBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_Ayala, Ayala,1]
+Items = FULLRESTORE
+LoseText = Jueputa...
+Pokemon = SKARMORY,60
+    Item = ROCKYHELMET
+    IV = 20,20,20,20,20,20
+Pokemon = METAGROSS,60
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = SCIZOR,58
+    Item = CHOICEBAND
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_Richie, Richie,1]
+Items = FULLRESTORE
+LoseText = Malparido este...
+Pokemon = MAGMORTAR,61
+    Item = EXPERTBELT
+    IV = 20,20,20,20,20,20
+Pokemon = HOUNDOOM,61
+    Item = PASSHOBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = RAPIDASH,59
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_Track, Track,1]
+Items = FULLRESTORE
+LoseText = Otia...
+Pokemon = ABSOL,61
+    Item = SALACBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = WEAVILE,61
+    Item = FOCUSSASH
+    IV = 20,20,20,20,20,20
+Pokemon = SHIFTRY,59
+    Item = TANGABERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_Arci, Arci,1]
+Items = FULLRESTORE
+LoseText = No mamesss...
+Pokemon = LAPRAS,62
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = GYARADOS,62
+    Item = WHITEHERB
+    IV = 20,20,20,20,20,20
+Pokemon = STARMIE,60
+    Item = COLBURBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_Zacri, Zacri,1]
+Items = FULLRESTORE
+LoseText = Man que es esa mieRDAAA!
+Pokemon = GARCHOMP,62
+    Item = YACHEBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = NIDOKING,62
+    Item = LIFEORB
+    IV = 20,20,20,20,20,20
+Pokemon = EXCADRILL,60
+    Item = PASSHOBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_Migue, Migue,1]
+Items = FULLRESTORE
+LoseText = Tonto...
+Pokemon = GALLADE,63
+    Item = COLBURBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = LUCARIO,63
+    Item = LIFEORB
+    IV = 20,20,20,20,20,20
+Pokemon = HERACROSS,61
+    Item = COBABERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_Juanjo, Juanjo,1]
+Items = FULLRESTORE
+LoseText = Puto RNG de mierda.
+Pokemon = GARDEVOIR,63
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = ALAKAZAM,63
+    Item = FOCUSSASH
+    IV = 20,20,20,20,20,20
+Pokemon = GOTHITELLE,61
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_Lugo, Lugo,1]
+Items = FULLRESTORE
+LoseText = Jueputa vida ñero...
+Pokemon = WALREIN,64
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = MAMOSWINE,64
+    Item = CHOICEBAND
+    IV = 20,20,20,20,20,20
+Pokemon = JYNX,62
+    Item = OCCABERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[RF_Christian, Christian,1]
+Items = FULLRESTORE
+LoseText = AAAAAAAAAAAAA!
+Pokemon = TOGEKISS,64
+    Item = WHITEHERB
+    IV = 20,20,20,20,20,20
+Pokemon = WHIMSICOTT,64
+    Item = KEBIABERRY
+    IV = 20,20,20,20,20,20
+Pokemon = MRMIME,62
+    Item = LUMBERRY
     IV = 20,20,20,20,20,20

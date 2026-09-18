@@ -6681,3 +6681,19 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Una medalla dorada que certifica tu titulo como "Miembro de La Banda".
+#-------------------------------
+[MEDALLA3]
+Name = Medalla Admin
+NamePlural = Medallas Admin
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Una medalla de diamante que certifica tu titulo como "Admin de La Banda".
+#-------------------------------
+[CUPONBICI]
+Name = Cupon de Bicicleta
+NamePlural = Cupones de Bicicleta
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un cupon que permite el reclamo de una Bicicleta.

@@ -755,3 +755,73 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = BW 229 Battle! (Elite Four)
 VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_JDiego]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Ayala]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Richie]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Track]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = BW 229 Battle! (Elite Four)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Arci]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = FRLG 70 The Last Battle (VS Rival)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Zacri]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = FRLG 70 The Last Battle (VS Rival)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Migue]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = ORAS 112 Battle! (Lake Trio)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Juanjo]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = ORAS 112 Battle! (Lake Trio)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Lugo]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 278 Battle! (Champion)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
+#-------------------------------
+[RF_Christian]
+Name = Miembro de La Banda
+Gender = Male
+BaseMoney = 100
+BattleBGM = HGSS 278 Battle! (Champion)
+VictoryBGM = HGSS 144 Victory! (Gym Leader)
