@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Consulte la documentación en la wiki para aprender cómo editar este archivo.
 #-------------------------------
 # Lappet Town (2) - Universidad (22)
 2,West,0,22,East,4
@@ -24,16 +24,18 @@
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
-# Pueblo Primero (32) - Ciudad Barranquilla (173)
-32,West,275,173,East,0
-# Pueblo Primero (32) - Ruta 13 (201)
-32,West,0,201,East,6
-# Ruta 1 (42) - Pueblo Primero (32)
-42,West,0,32,East,8
-# Pueblo Sopó (33) - Ruta 1 (42)
-33,West,1,42,East,0
+# Pueblo Primero (32) - Ruta 1 (42)
+32,East,8,42,West,0
+# Ciudad Barranquilla (173) - Pueblo Primero (32)
+173,East,0,32,West,275
+# Ruta 13 (201) - Pueblo Primero (32)
+201,East,6,32,West,0
+# Ruta 1 (42) - Pueblo Sopó (33)
+42,East,0,33,West,1
 # Ruta 2 (48) - Pueblo Sopó (33)
 48,West,3,33,East,0
+# Calle Victoria (222) - Pueblo Sopó (33)
+222,South,20,33,North,0
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -44,6 +46,8 @@
 47,East,8,52,West,0
 # Monte Pionono (76) - Ruta 2 (48)
 76,South,0,48,North,3
+# Calle Victoria (222) - Ruta 2 (48)
+222,East,89,48,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
 # Ciudad Villavicencio (77) - Ruta 3 (126)
@@ -58,10 +62,10 @@
 137,West,0,155,East,8
 # Bosque Putrefacto (158) - Chia (155)
 158,North,0,155,South,4
-# Ruta 11 (162) - Isla Seoul (202)
-162,North,0,202,South,0
-# Ciudad Barranquilla (173) - Ruta 11 (162)
-173,North,0,162,South,3
+# Ruta 11 (162) - Ciudad Barranquilla (173)
+162,South,3,173,North,0
+# Isla Seoul (202) - Ruta 11 (162)
+202,South,0,162,North,0
 # Bosque CP (205) - Ruta 11 (162)
 205,East,48,162,West,0
 # Ruta 10 CR (165) - Ruta 10 Pendiente (166)
@@ -72,17 +76,25 @@
 174,West,0,173,East,34
 # Fin ruta 10 (174) - Ruta 13 (201)
 174,West,0,201,East,315
-# Ruta 12 (200) - Isla Kokkola (203)
-200,North,0,203,South,0
-# Isla Seoul (202) - Ruta 12 (200)
-202,North,3,200,South,0
+# Ruta 12 (200) - Isla Seoul (202)
+200,South,0,202,North,3
+# Isla Kokkola (203) - Ruta 12 (200)
+203,South,0,200,North,0
 # Ruta 13 (201) - Isla Kokkola (203)
 201,South,0,203,North,10
 # Bosque CP (205) - Isla Seoul (202)
 205,East,0,202,West,2
-# Ruta 5 (133) - Ciudad Bogotá (79)
-133,West,0,79,East,36
+# Ciudad Bogotá (79) - Ruta 5 (133)
+79,East,36,133,West,0
+# Zona Lugia (224) - Ruta 5 (133)
+224,West,55,133,East,0
+# arboles (246) - Ruta 5 (133)
+246,South,0,133,North,0
 # Ruta 10 (161) - Ciudad Bogotá (79)
 161,East,0,79,West,57
 # Ruta 8 (159) - Ciudad Bogotá (79)
 159,North,0,79,South,28
+# arboles (246) - Ciudad Bogotá (79)
+246,West,0,79,East,21
+# arboles (246) - Zona Lugia (224)
+246,East,0,224,West,40
