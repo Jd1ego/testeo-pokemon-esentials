@@ -1953,3 +1953,9 @@ Pokemon = GARDEVOIR,70
 Pokemon = JYNX,68
     Item = OCCABERRY
     IV = 20,20,20,20,20,20
+#-------------------------------
+[CHICO, Pedrin]
+LoseText = Eres muy bueno!
+Pokemon = GARDEVOIR,25
+Pokemon = GARDEVOIR,25
+Pokemon = GARDEVOIR,25
