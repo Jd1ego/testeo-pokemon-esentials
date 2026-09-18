@@ -54,12 +54,30 @@
 77,North,0,126,South,5
 # Ruta 4 (129) - Ciudad Villavicencio (77)
 129,North,0,77,South,14
+# Ciudad Bogotá (79) - Ruta 5 (133)
+79,East,36,133,West,0
+# Ruta 10 (161) - Ciudad Bogotá (79)
+161,East,0,79,West,57
+# Ruta 8 (159) - Ciudad Bogotá (79)
+159,North,0,79,South,28
+# arboles (246) - Ciudad Bogotá (79)
+246,West,0,79,East,21
 # Lago Norrea (132) - Ruta 3a (128)
 132,North,0,128,South,8
+# Zona Lugia (224) - Ruta 5 (133)
+224,West,55,133,East,0
+# arboles (246) - Ruta 5 (133)
+246,South,0,133,North,0
 # Ruta 6 (134) - FabLab (135)
 134,East,0,135,West,10
-# Ruta 7 (137) - Chia (155)
-137,West,0,155,East,8
+# Universidad D.S (136) - Ruta 6 (134)
+136,East,46,134,West,0
+# Chia (155) - Ruta 6 (134)
+155,South,243,134,North,0
+# Ruta 7 (137) - Universidad D.S (136)
+137,East,0,136,West,4
+# Chia (155) - Ruta 7 (137)
+155,East,8,137,West,0
 # Bosque Putrefacto (158) - Chia (155)
 158,North,0,155,South,4
 # Ruta 11 (162) - Ciudad Barranquilla (173)
@@ -84,17 +102,7 @@
 201,South,0,203,North,10
 # Bosque CP (205) - Isla Seoul (202)
 205,East,0,202,West,2
-# Ciudad Bogotá (79) - Ruta 5 (133)
-79,East,36,133,West,0
-# Zona Lugia (224) - Ruta 5 (133)
-224,West,55,133,East,0
-# arboles (246) - Ruta 5 (133)
-246,South,0,133,North,0
-# Ruta 10 (161) - Ciudad Bogotá (79)
-161,East,0,79,West,57
-# Ruta 8 (159) - Ciudad Bogotá (79)
-159,North,0,79,South,28
-# arboles (246) - Ciudad Bogotá (79)
-246,West,0,79,East,21
 # arboles (246) - Zona Lugia (224)
 246,East,0,224,West,40
+# Ciudad Ibague (163) - Ruta 9 (160)
+163,East,0,160,West,10
