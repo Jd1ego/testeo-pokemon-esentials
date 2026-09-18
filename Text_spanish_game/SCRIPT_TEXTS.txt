@@ -25,7 +25,7 @@ Mochila
 Mapa de Region
 Mapa de Región
 Guardar
-"Guardar-"
+Guardar
 Opciones
 Opciones
 Salir
