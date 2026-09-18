@@ -910,8 +910,8 @@ Encontraste {1} \c[1]{2}\c[0]!
 Encontraste {1} \c[1]{2}\c[0]!
 Encontraste un \c[1]{1}\c[0]!
 Encontraste un \c[1]{1}\c[0]!
-Encontraste una \c[1]{1}\c[0]!
-¡Encontraste una \c[1]{1}\c[0]!
+Encontraste un(a) \c[1]{1}\c[0]!
+¡Encontraste un(a) \c[1]{1}\c[0]!
 Pusiste el {1} en\<<n>>tu mochila <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
 Pusiste el {1} ​​en\<<n>>tu mochila <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
 Encontraste {1} \c[1]{2} {3}\c[0]!
@@ -930,8 +930,8 @@ Obtuviste {1} \c[1]{2}\c[0]!
 ¡Obtuviste {1} \c[1]{2}\c[0]!
 Obtuviste un \c[1]{1}\c[0]!
 Obtuviste un \c[1]{1}\c[0]!
-Obtuviste una \c[1]{1}\c[0]!
-Obtuviste una \c[1]{1}\c[0]!
+Obtuviste un(a) \c[1]{1}\c[0]!
+Obtuviste un(a) \c[1]{1}\c[0]!
 ¿Quieres darle un apodo a {1}?
 ¿Quieres darle un apodo a {1}?
 ¿Qué apodo tendrá {1}?
