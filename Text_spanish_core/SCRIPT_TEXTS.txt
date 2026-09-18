@@ -669,7 +669,7 @@ El grupo 2 no tiene Pokémon.
 The opposing {1}
 El {1} contrario
 The wild {1}
-El salvaje {1}
+El {1} salvaje 
 The ally {1}
 El aliado {1}
 The sunlight turned harsh!
@@ -1965,7 +1965,7 @@ Graphics/UI/Battle/overlay_lv
 Graphics/UI/Battle/icon_statuses
 Graphics/UI/Battle/icon_statuses
 {1}'s
-{1}'s
+{1} usa
 Can't catch any more...
 No puedo atrapar más...
 Would you like to give a nickname to {1}?
@@ -2241,7 +2241,7 @@ Pelota
 Bait
 Carnada
 Wild {1} appeared!
-¡Apareció el salvaje {1}!
+¡Apareció un {1} salvaje!
 The boxes are full! You can't catch any more Pokémon!
 ¡Las cajas están llenas! ¡No puedes atrapar más Pokémon!
 {1} threw some bait at the {2}!
@@ -2649,9 +2649,9 @@ A los Pokémon Sombra no se les puede enseñar ningún movimiento.
 There is no Pokémon.
 No hay ningún Pokémon.
 ABLE
-CAPAZ
+APTO
 NOT ABLE
-NOTABLE
+NO APTO
 How many {1} do you want to use?
 ¿Cuántos {1} quieres usar?
 You used your last {1}.

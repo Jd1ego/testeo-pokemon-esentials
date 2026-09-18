@@ -367,7 +367,7 @@ The sand can't slow {1} down!
 The sand doesn't slow {1} down.
 La arena no frena a {1}.
 {1} doesn't seem to mind the weather.
-A {1} no parece importarle el clima.
+A {1} le vale verga el clima.
 {1} is covered in sand...
 {1} está cubierto de arena...
 {1} spat out a mouthful of sand!
@@ -403,9 +403,9 @@ La arena parece estar molestando a {1}.
 {1} was surprised when it got hit by a branch!
 ¡{1} se sorprendió cuando fue golpeado por una rama!
 {1} seems very upset the weather.
-{1} parece muy alterado por el clima.
+{1} se caga en la puta por el clima de mierda.
 {1} is shivering...
-{1} está temblando...
+{1} se caga en la puta, está temblando...
 {1} doesn't seem to like being all wet...
 A {1} no parece gustarle estar todo mojado...
 {1} keeps trying to shake itself dry...
@@ -891,7 +891,7 @@ Pero falló!
 {1} obtuvo {2}.
 {1} obtuvo {2}.
 ¿Qué debería hacer {1}?
-¿Qué deberías hacer {1}?
+¿Qué debería hacer {1}?
 Cambiar
 Cambiar
 Datos
