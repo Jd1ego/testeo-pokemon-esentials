@@ -568,7 +568,7 @@ module LevelCapsEX
     return if old_value == new_value
     return if !$scene || !$scene.is_a?(Scene_Map)
     if new_value > old_value
-      pbMessage(_INTL("\\se[Pkmn level up]Level Cap increased to Lv. {1}!", new_value))
+      pbMessage(_INTL("\\se[Pkmn level up]Level Cap incrementado a Lv. {1}!", new_value))
     elsif new_value < old_value
       pbMessage(_INTL("Level Cap decreased to Lv. {1}.", new_value))
     end
