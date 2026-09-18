@@ -627,23 +627,23 @@ LoseText = Bueno ya lleveselo...
 Pokemon = GROWLITHE,18
 Pokemon = HOOTHOOT,18
 #-------------------------------
-[BELLA,Andrea]
+[TETONA,Andrea]
 LoseText = Ya no pueden caminar...
 Pokemon = FURRET,17
 Pokemon = FURRET,17
 Pokemon = FURRET,17
 #-------------------------------
-[BELLA,Natalia]
+[TETONA,Natalia]
 LoseText = Sigo teniendo un equipo lindo!
 Pokemon = FURRET,18
 Pokemon = RALTS,18
 #-------------------------------
-[BELLA,Veronica]
+[TETONA,Veronica]
 LoseText = Eres fuerte...
 Pokemon = FURRET,18
 Pokemon = JIGGLYPUFF,18
 #-------------------------------
-[BELLA,Carla]
+[TETONA,Carla]
 LoseText = Bueno, de pronto si se puede...
 Pokemon = JIGGLYPUFF,18
 Pokemon = RALTS,18
