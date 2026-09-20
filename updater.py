@@ -4,7 +4,7 @@ import io
 import os
 
 # Configuración del repositorio
-REPO = "tu_usuario/tu_repositorio"
+REPO = "Jd1ego/testeo-pokemon-esentials"
 API_URL = f"https://api.github.com/repos/{REPO}/releases/latest"
 PATCH_NAME = "patch.zip"
 
