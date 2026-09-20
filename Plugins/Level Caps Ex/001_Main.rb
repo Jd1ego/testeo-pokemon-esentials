@@ -220,7 +220,7 @@ class Battle
     # --- MULTIPLICADOR DE ZONA DE ENTRENAMIENTO ---
     # Usaremos el Interruptor (Switch) número 101. Cámbialo si ya lo usas.
     if $game_switches && $game_switches[101]
-      exp = (exp * 6).to_i # Multiplicador x3
+      exp = (exp * 3).to_i # Multiplicador x3
       isOutsider = true      # Fuerza el texto de "Exp. aumentada" en el mensaje
     end
     # ----------------------------------------------

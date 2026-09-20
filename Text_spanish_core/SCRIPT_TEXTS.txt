@@ -805,7 +805,7 @@ Should {1} forget a move to learn {2}?
 {1} forgot how to use {2}. And...
 {1} olvidó cómo usar {2}. Y...
 Give up on learning {1}?
-¿Renunciar a aprender {1}?
+¿Dejar de aprender {1}?
 {1} did not learn {2}.
 {1} no aprendió {2}.
 There's no PP left for this move!
