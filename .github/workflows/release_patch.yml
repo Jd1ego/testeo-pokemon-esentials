@@ -1,0 +1,48 @@
+name: Generar Parche Automático
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build-patch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Necesario para tener el historial completo de tags
+
+      - name: Obtener Tag anterior
+        id: previoustag
+        run: |
+          # Si no hay un tag anterior (primer release), asigna NONE
+          PREV_TAG=$(git describe --tags --abbrev=0 HEAD^ 2>/dev/null || echo "NONE")
+          echo "tag=$PREV_TAG" >> $GITHUB_OUTPUT
+
+      - name: Crear patch.zip
+        run: |
+          if [ "${{ steps.previoustag.outputs.tag }}" = "NONE" ]; then
+            echo "Primer release detectado. Se omite el parche o se genera uno completo."
+            zip -r patch.zip . -x "*.git*" "*README.md" "*.github*"
+          else
+            # Filtra archivos eliminados y extrae solo los modificados/añadidos
+            FILES=$(git diff --name-only --diff-filter=ACMR ${{ steps.previoustag.outputs.tag }} HEAD | grep -vE '^\.git|^README\.md|^\.github' || true)
+            
+            if [ -z "$FILES" ]; then
+              echo "No hay cambios válidos para empaquetar."
+            else
+              # tr y xargs -0 aseguran que los archivos con espacios (ej. BGM) se procesen bien
+              echo "$FILES" | tr '\n' '\0' | xargs -0 -r zip patch.zip
+            fi
+          fi
+
+      - name: Subir al Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -f patch.zip ]; then
+            gh release upload ${{ github.event.release.tag_name }} patch.zip
+          else
+            echo "No se generó patch.zip, omitiendo subida."
+          fi
