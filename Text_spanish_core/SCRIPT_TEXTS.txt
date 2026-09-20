@@ -1229,9 +1229,9 @@ But it failed!
 {1}'s {2} won't go any higher!
 ¡El {2} de {1} no subirá más!
 {1}'s {2} rose!
-¡La {2} rosa de {1}!
+¡El {2} de {1} aumentó!
 {1}'s {2} rose sharply!
-¡El {2} de {1} aumentó drásticamente!
+¡El {2} de {1} aumentó un vergo!
 {1}'s {2} rose drastically!
 ¡El {2} de {1} aumentó drásticamente!
 {1}'s {2} raised its {3}!
@@ -3413,7 +3413,7 @@ Esp. Def
 Ability
 Capacidad
 PP
-PÁGINAS
+PP
 CATEGORY
 CATEGORÍA
 POWER

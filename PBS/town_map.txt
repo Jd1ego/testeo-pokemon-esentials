@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Consulte la documentación en la wiki para aprender cómo editar este archivo.
 #-------------------------------
 [0]
 Name = Essen
@@ -82,7 +82,6 @@ Point = 16,12,Ruta 5
 Point = 15,12,Ciudad Bogotá
 Point = 14,12,Ciudad Bogotá,,79,37,54
 Point = 13,12,Ciudad Bogotá
-Point = 13,10,
 Point = 13,11,Ciudad Bogotá
 Point = 15,11,Ciudad Bogotá
 Point = 14,11,Ciudad Bogotá
@@ -146,3 +145,9 @@ Point = 7,4,Ruta 13
 Point = 8,4,Ruta 13
 Point = 9,4,Ruta 13
 Point = 10,4,Ruta 13
+Point = 12,1,Liga Bandak,
+Point = 13,1,Calle Victoria,
+Point = 14,1,Calle,
+Point = 15,1,calle,
+Point = 15,2,calle,
+Point = 15,3,calle,

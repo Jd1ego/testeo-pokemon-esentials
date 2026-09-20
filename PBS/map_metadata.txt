@@ -457,7 +457,7 @@ MapPosition = 2,15,4
 Name = Casa naranja
 MapPosition = 2,15,4
 #-------------------------------
-[082]   # Casa azul
+[082]   # Puticlub
 Name = Casa azul
 MapPosition = 2,15,4
 #-------------------------------
@@ -471,7 +471,7 @@ Flags = PokeCenter
 Name = D1 Sopó
 MapPosition = 2,15,4
 #-------------------------------
-[085]   # Casa gris
+[085]   # Banda Studio
 Name = Casa gris
 MapPosition = 2,15,4
 #-------------------------------
@@ -576,7 +576,7 @@ MapPosition = 2,15,13
 Name = Casa Verde Sur 2
 MapPosition = 2,15,13
 #-------------------------------
-[110]   # Casa Amarilla Sur
+[110]   # E. Fósiles
 Name = Casa Amarilla Sur
 MapPosition = 2,13,13
 #-------------------------------
@@ -777,7 +777,7 @@ MapPosition = 2,17,8
 Name = Peaje Villavicencio-3A
 MapPosition = 2,26,9
 #-------------------------------
-[153]   # Caseta Subterrateo
+[153]   # Caseta Subterrateo - Ruta 6
 Name = Caseta Subterrateo
 MapPosition = 2,14,10
 #-------------------------------
@@ -901,7 +901,7 @@ Outdoor = true
 ShowArea = true
 MapPosition = 2,5,16
 #-------------------------------
-[175]   # Caseta subterraneo 
+[175]   # Subterraneo
 Name = Caseta subterraneo
 MapPosition = 2,17,8
 #-------------------------------
@@ -1113,7 +1113,10 @@ SafariMap = true
 Name = TS P4
 SafariMap = true
 #-------------------------------
-[223]   # Bosques Aulladores (Giratina)
+[222]   # Calle Victoria
+Outdoor = true
+#-------------------------------
+[223]   # Zona Giratina
 Name = Bosques Aulladores
 Outdoor = true
 Weather = Fog,100

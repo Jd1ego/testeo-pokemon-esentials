@@ -397,8 +397,8 @@ Pokemon = MACHOP,10
 #-------------------------------
 [CAZABICHOS,Carlitos]
 LoseText = Bueno me ganaste, largate igual!
-Pokemon = SILCOON,8
-Pokemon = CASCOON,8
+Pokemon = KAKUNA,8
+Pokemon = KAKUNA,8
 #-------------------------------
 [CAZABICHOS,Leo]
 LoseText = Marica... Mi bicho...
@@ -1956,6 +1956,6 @@ Pokemon = JYNX,68
 #-------------------------------
 [CHICO, Pedrin]
 LoseText = Eres muy bueno!
-Pokemon = GARDEVOIR,25
-Pokemon = GARDEVOIR,25
-Pokemon = GARDEVOIR,25
+Pokemon = RAYQUAZA,25
+Pokemon = LUGIA,25
+Pokemon = GIRATINA,25

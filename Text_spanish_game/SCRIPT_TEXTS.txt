@@ -73,9 +73,9 @@ PC de Alguien
 El Sistema de Almacenamiento Pokémon fue accedido.
 El Sistema de Almacenamiento Pokémon fue accedido.
 Mover Pokémon
-Pokémon Mover
+Mover Pokémon
 Sacar Pokémon
-Pokémon Sacar
+Sacar Pokémon
 Dejar Pokémon
 Dejar Pokémon
 ¡Nos vemos!
@@ -535,7 +535,7 @@ Whoa! {1} suddenly started dancing in happiness!
 {1} turns around and looks at {2}.
 {1} se da vuelta y mira a {2}.
 {1} is working hard to show off its mighty power!
-¡{1} está trabajando duro para mostrar su gran poder!
+¡{1} está chambeando duro para mostrar su gran poder!
 {1} looks like it wants to run around!
 ¡Parece que {1} quiere correr!
 {1} is wandering around enjoying the scenery.
