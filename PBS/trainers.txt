@@ -471,7 +471,7 @@ LoseText = Bueno, ya lo dejo sano...
 Pokemon = STARLY,12
 Pokemon = COMBEE,12
 #-------------------------------
-[AVICULTOR,Ramiro]
+[AVICULTOR,Filipino]
 LoseText = Se me escapó...
 Pokemon = STARLY,12
 Pokemon = COMBEE,12
