@@ -3411,7 +3411,7 @@ Esp. Atk
 Sp. Def
 Esp. Def
 Ability
-Capacidad
+Habilidad
 PP
 PP
 CATEGORY
@@ -3419,7 +3419,7 @@ CATEGORÍA
 POWER
 FUERZA
 ACCURACY
-EXACTITUD
+Precisión
 No. of Ribbons:
 N.° de cintas:
 Mark {1}
