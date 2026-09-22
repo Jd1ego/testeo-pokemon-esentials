@@ -5150,6 +5150,17 @@ Flags = Fling_90
 Move = IRONDEFENSE
 Description = Fortalece el cuerpo como si fuera hierro y sube mucho la Defensa.
 #-------------------------------
+[TM102]
+Name = MT102
+NamePlural = MT102s
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_90
+Move = DRAININGKISS
+Description = Absorbe PS del objetivo con un beso y restaura su propia energía en una cantidad igual o superior a la mitad del daño infligido.
+#-------------------------------
 [HM01]
 Name = MO01
 NamePlural = MO01s
@@ -6705,3 +6716,12 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Un papel que te certifica como ingeniero. No es tuyo pero te sirve, supongo.
+#-------------------------------
+[FAIRYFEATHER]
+Name = Pluma Feérica
+NamePlural = Plumas Feéricas
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Al estar equipada en un Pokémon, aumenta la potencia de los ataques de Tipo Hada.
