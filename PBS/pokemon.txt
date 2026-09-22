@@ -2167,7 +2167,7 @@ Category = Magnet
 Pokedex = It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.
 Generation = 1
 WildItemUncommon = METALCOAT
-Evolutions = MAGNEZONE,LocationFlag,Magnetic
+Evolutions = MAGNEZONE,Item,THUNDERSTONE
 #-------------------------------
 [FARFETCHD]
 Name = Farfetch'd
@@ -7885,7 +7885,7 @@ Category = Compass
 Pokedex = Its body emits a powerful magnetism. It feeds on prey that is pulled in by the force. Its magnetism is stronger in cold seasons.
 Generation = 3
 WildItemUncommon = HARDSTONE
-Evolutions = PROBOPASS,LocationFlag,Magnetic
+Evolutions = PROBOPASS,Item,THUNDERSTONE
 #-------------------------------
 [SKITTY]
 Name = Skitty
