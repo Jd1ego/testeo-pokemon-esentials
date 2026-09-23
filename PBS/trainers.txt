@@ -1272,7 +1272,6 @@ Pokemon = TANGROWTH,39
 Pokemon = GYARADOS,40
 #-------------------------------
 [NADADOR, Britney]
-InitialText = Tragué agua salada por tu pta culpa.
 LoseText = Odio el mar...
 Pokemon = SHARPEDO,40
 Pokemon = TANGROWTH,40
