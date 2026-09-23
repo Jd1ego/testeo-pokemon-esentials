@@ -1114,7 +1114,9 @@ Name = TS P4
 SafariMap = true
 #-------------------------------
 [222]   # Calle Victoria
+Name = Calle Victoria
 Outdoor = true
+MapPosition = 2,13,1
 #-------------------------------
 [223]   # Zona Giratina
 Name = Bosques Aulladores
