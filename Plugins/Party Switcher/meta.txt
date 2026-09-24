@@ -1,0 +1,4 @@
+﻿Name       = Party Switcher
+Version    = 1.0
+Essentials = 21.1
+Credits    = Original Party Switcher (v17-v19), v21.1 by Didacus
