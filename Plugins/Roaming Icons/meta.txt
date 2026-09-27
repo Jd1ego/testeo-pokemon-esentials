@@ -1,0 +1,5 @@
+Name       = Roaming Icon
+Version    = 1.1.4
+Essentials = 21.1
+Website    = https://www.pokecommunity.com/showthread.php?t=438704
+Credits    = FL
