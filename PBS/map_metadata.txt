@@ -1116,9 +1116,98 @@ SafariMap = true
 [222]   # Calle Victoria
 Name = Calle Victoria
 Outdoor = true
+HealingSpot = 227,25,16
 MapPosition = 2,13,1
 #-------------------------------
 [223]   # Zona Giratina
 Name = Bosques Aulladores
 Outdoor = true
+Bicycle = true
 Weather = Fog,100
+MapPosition = 2,10,18
+#-------------------------------
+[224]   # Zona Lugia
+Name = Zona Lugia
+Outdoor = true
+MapPosition = 2,18,11
+#-------------------------------
+[225]   # Zona Rayquaza
+Name = Zona Rayquaza
+Outdoor = true
+MapPosition = 2,19,6
+#-------------------------------
+[227]   # Centro Pokemon Liga
+Name = Centro Pokemon Liga
+MapPosition = 2,12,1
+#-------------------------------
+[228]   # E4 Sala 1
+Name = E4 Sala 1
+MapPosition = 2,12,1
+#-------------------------------
+[229]   # E4 Sala 2
+Name = E4 Sala 2
+MapPosition = 2,12,1
+#-------------------------------
+[230]   # E4 Sala 3
+Name = E4 Sala 3
+MapPosition = 2,12,1
+#-------------------------------
+[231]   # E4 Sala 4
+Name = E4 Sala 4
+MapPosition = 2,12,1
+#-------------------------------
+[232]   # E4 Sala Campeon
+Name = E4 Sala Campeon
+MapPosition = 2,12,1
+#-------------------------------
+[233]   # RF PostGame sala 1
+Name = RF PostGame sala 1
+MapPosition = 2,12,1
+#-------------------------------
+[234]   # RF sala 1
+Name = RF sala 1
+MapPosition = 2,12,1
+#-------------------------------
+[235]   # RF sala 2
+Name = RF sala 2
+MapPosition = 2,12,1
+#-------------------------------
+[236]   # RF sala 3
+Name = RF sala 3
+MapPosition = 2,12,1
+#-------------------------------
+[237]   # RF sala 4
+Name = RF sala 4
+MapPosition = 2,12,1
+#-------------------------------
+[238]   # RF sala 5
+Name = RF sala 5
+MapPosition = 2,12,1
+#-------------------------------
+[239]   # RF PostGame sala 2
+Name = RF PostGame sala 2
+MapPosition = 2,12,1
+#-------------------------------
+[240]   # RF PostGame sala 3
+Name = RF PostGame sala 3
+MapPosition = 2,12,1
+#-------------------------------
+[241]   # RF PostGame sala 4
+Name = RF PostGame sala 4
+MapPosition = 2,12,1
+#-------------------------------
+[242]   # Ascensor Reto Final
+Name = Ascensor Reto Final
+MapPosition = 2,12,1
+#-------------------------------
+[243]   # FakeSalonDeFama
+Name = FakeSalonDeFama
+MapPosition = 2,12,1
+#-------------------------------
+[244]   # SalonDeFama
+Name = SalonDeFama
+MapPosition = 2,12,1
+#-------------------------------
+[245]   # RF PostGame sala 5
+Name = RF PostGame sala 5
+MapPosition = 2,12,1
