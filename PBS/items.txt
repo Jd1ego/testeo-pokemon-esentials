@@ -2329,7 +2329,8 @@ Pocket = 1
 Price = 6767
 SellPrice = 1000
 BPPrice = 5
-Flags = Fling_30
+FieldUse = OnPokemon
+Flags = EvolutionStone, Fling_30
 Description = Una gruesa y resistente escama que pueden llevar los Pokémon de tipo Dragón cuando son capturados.
 #-------------------------------
 [UPGRADE]

@@ -3093,7 +3093,7 @@ Category = Dragon
 Pokedex = The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
-Evolutions = KINGDRA,TradeItem,DRAGONSCALE
+Evolutions = KINGDRA,Item,DRAGONSCALE
 #-------------------------------
 [GOLDEEN]
 Name = Goldeen
