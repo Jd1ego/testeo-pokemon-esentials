@@ -136,13 +136,17 @@ class Battle::Scene::PokemonDataBox
     width  = @types_bitmap.width
     height = @types_bitmap.height / GameData::Type.count
 
-    types = @battler.pbTypes.clone
+    if @battler.respond_to?(:pbTypes)
+      types = @battler.pbTypes.clone
+    else
+      types = @battler.pokemon.types.clone
+    end
 
     #---------------------------------------------------------------------------
     # Illusion
     #---------------------------------------------------------------------------
 
-    if @battler.effects[PBEffects::Illusion]
+    if @battler.respond_to?(:effects) && @battler.effects[PBEffects::Illusion]
 
       illusion_types = @battler.effects[PBEffects::Illusion].types
       base_types = @battler.pokemon.types
